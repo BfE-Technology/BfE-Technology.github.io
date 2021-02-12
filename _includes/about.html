@@ -9,31 +9,18 @@
 </style>
 
 <div class="user-details">
-  <h1>What is Technology at BfE?</h1>
   {{ content }}
 </div>
-  <div class="user">
-    <div class="tech">
-      <h2>Design</h2>
-      <i class="devicon-html5-plain-wordmark"></i>
-      <i class="devicon-bootstrap-plain-wordmark colored"></i>
-      <i class="devicon-sass-original colored"></i>
-      {{ page.projects[1] | textilize }}
+
+<div class="user">
+  <div class="flip-card">
+    <div class="flip-card-inner">
+      <div class="flip-card-front">
+        <img src="assets/DataAnalytics.png" alt="Avatar" style="width:300px;height:300px;object-fit: cover;">
+      </div>
+      <div class="flip-card-back">
+        <p>{{ page.roles["DataAnalytics"] | textilize }}</p>
+      </div>
     </div>
-    <div class="tech">
-      <h2>Code</h2>
-      <i class="devicon-javascript-plain colored"></i>
-      <i class="devicon-react-original-wordmark colored"></i>
-      <i class="devicon-nodejs-plain-wordmark"></i>
-      <p>Mumblecore hexagon kombucha, pitchfork four loko raclette intelligentsia master cleanse.
-        Vinyl XOXO lumbersexual</p>
-    </div>
-    <div class="tech">
-      <h2>Tools</h2>
-      <i class="devicon-git-plain"></i>
-      <i class="devicon-gulp-plain colored"></i>
-      <i class="devicon-atom-original-wordmark"></i>
-      <p>Mumblecore hexagon kombucha, pitchfork four loko raclette intelligentsia master cleanse.
-        Vinyl XOXO lumbersexual</p>
-    </div>
+  </div>    
 </div>
