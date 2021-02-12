@@ -1,16 +1,17 @@
-<div class="user-details">
-  {{ content }}
-</div>
+<div class="about">
+  <h1>What is Technology at BfE?</h1>
+  <p> {{ page.about_us | textilize }} </p>  
 
-<div class="user">
-  <div class="flip-card">
-    <div class="flip-card-inner">
-      <div class="flip-card-front">
-        <img src="assets/img/DataAnalytics.png" alt="Avatar" style="width:300px;height:300px;object-fit: cover;">
+  <div class="card-container">
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          <img src="assets/img/DataAnalytics.png" alt="Data Analytics" style="width:300px;height:300px;object-fit: cover;">
+        </div>
+        <div class="flip-card-back">
+          <p>{{ page.roles["DataAnalytics"] | textilize }}</p>
+        </div>
       </div>
-      <div class="flip-card-back">
-        <p>{{ page.roles["DataAnalytics"] | textilize }}</p>
-      </div>
-    </div>
-  </div>    
+    </div>  
+  </div>
 </div>
