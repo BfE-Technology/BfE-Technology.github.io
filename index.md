@@ -2,7 +2,7 @@
 layout: default
 projects: 
     1: |
-        This project concerns blabla
+        This project concerns **blabla**
 ---
 
 # What is Technology at BfE?
