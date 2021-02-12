@@ -1,6 +1,6 @@
 ---
 layout: default
-about: |    
+about: >
     # What is Technology at BfE?
 
     Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into sizeable social impact, or a university student passionate about tech and social impact, BfE Technology is the place for you. 
