@@ -2,10 +2,10 @@
 layout: default
 sections:
     about: |
-        Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into sizeable social impact, or a university student passionate about tech and social impact, BfE Technology is the place for you. 
-            
+        Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you. 
+       <br><br>
        With BfE's 4 types of service offerings, 80+ startups, 200+ students and 200+ professionals across EMEA, Asia and Americas, a huge amount of data go in and out of the organisation on a day-to-day basis. The rapidly growing global user base makes it challenging to keep the community connected and our resources as accessible as possible, an issue only made worse by the covid pandemic. BfE Technology Division was founded in Aug 2020 to address these needs, replacing the previous Data Analytics team in BfE to encompass a much wider spectrum of work.  
-       
+       <br><br>
        At the Technology Division, we design and deploy cutting-edge techonological tools to scale BfE's services for social entrepreneurs in the developing world. Our work covers a wide range of technology disciplines. As long as you enjoy tech, there is almost always something for you wherever your skills and interests lie. Drop us an email today at technology@bridgesforenterprise.com to explore how you can make a global impact from home with something you love.
 
     DataAnalytics: We perform data analyses to understand the effectiveness of our strategies and operational models, and work with other divisions to implement our proposed suggestions. We come from a mix of business and technology backgrounds, and enjoy using a minimalist framework to address the most sophisticated business needs. Some of the cool data we have looked at include startup application data, crowdfunding data and web traffic data for SEO optimisation.
