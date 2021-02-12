@@ -24,13 +24,34 @@ sections:
 
   BrandingDesign: We report primarily to BfE's Outreach Division. When we are in Tech, it is usually to convert the branding strategies and guidelines developed in Outreach into standardised stylesheet files that will be enforced within Tech. We are usually people who are passionate about front-end development, UI deisgn, digital media and branding.
 
-  TechnicalAdvisory: We reporting directly to BfE's Incubation Division, although we share many training and partnerships with Technology. We provide technical consulting to our startups as part of BfE's flagship incubation programme. We are not all programmers; we have manufacture enginners, electronic engineers, material scientists, medical students... depending on our startups' needs. When we do have programming-based projects though, we love to have people from the internal projects over and we like to switch over to internal projects too, just for a different experience!
+  TechnicalAdvisory: We reporting directly to BfE's Incubation Division, although we share many training and partnerships with Technology. We provide technical consulting to our startups as part of BfE's flagship incubation programme. As our startups range from solar energy firms to blockchain companies, we have not just programmers but also mechanical enginners, electronic engineers, material scientists, medical students... and many more. For programmers, it is easy and often encouraged for people on the internal projects to switch over to our side, and vice versa.
 
   More: If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know! ;)
 
-  why: why
+  why: |
+    <strong>We are young.</strong> We are a new division within BfE, meaning that there are plenty of opportunities to apply technology not yet explored within the organisation. If you have an idea about what you want to do in BfE, we will provide you with the resources to fulfil it.
+    <br><br>
+    <strong>We are old.</strong> Founded back in 2015, BfE has established an extensive network of students, professionals and entrepreneurs around the world, allowing you to make many meaningful connections and even forge new partnerships on behalf of BfE Technology. We have a wide range of talents and connections within Technology from experienced undergraduates to PhDs, full-time professionoals and tech consulting firms; they are there for you to bounce ideas upon and get advice regarding BfE or non-BfE work. At the moment, we are working hard to develop training materials to consolidate our experience and pass on the knowledge to new members.
+    <br><br>
+    <strong>We are local.</strong> Our official student chapters organise many in-person events and meetups to engage you with BfE members and mentors from a wide spectrum of background, enabling you to build connections within your geographical regions. They are currently based in UK, Singapore, US, Netherlands and Canada, and actively expanding to have our footprints across the world.
+    <br><br> 
+    <strong>We are global.</strong> We have many global virtual events and updates keeping everyone informed of the ongoings in BfE and allowing you to connect to people in places you have never been before. Most of our tech work is done via online collaboration, so there is no geographical limitation regarding where you should be.
+    <br><br>
+    <strong>We are conservative. </strong> As we work with many different stakeholders and sensative data, we are very careful about ensuring data protection and security in every aspect of our code. Before making it fast, we first make it work and make it right.
+    <br><br>
+    <strong>We are adventurous. </strong> We never shy away from learning and approving new technologies to improve the way we code and analyse things at BfE. BfE was founded on the belief that the better we are at our work, the greater the impact we have through BfE, which underpins our quench for innovation at BfE Technology.
+    <br><br>
+    <strong>We are on the ground.</strong> Unlike most university projects and hackathons, the code you write for BfE will directly address real business needs from BfE as an organisation and from our stakeholders including real companies accessing BfE's resources and advice, making an instant tangible social impact on a global scale.
+    <br><br>
+    <strong>We go above and beyond.</strong> Unlike doing a corporate job, everyone is involved in BfE on a voluntary basis, meaning that we are not here to be a small cog in a big machine and focus just on our small bit of code, but to take ownership and enact changes we believe will better serve our cause. We also echo with the principle of open-source code, and whenever we can (that is, without compromising the security of our users' data), we encourage you to open-source a modified version of the code you have done in BfE as our way to give back to the tech community.
 
-  how: how
+  how: |
+    Our student projects are organised by our student chapters at the start of their academic term. We also have projects under the global team open all year round to students and professionals at various experience levels. The commitment levels are designed to take into account of your full-time study/work schedule, and will be specified in each project.
+    <br><br>
+    We are also actively seeking experienced students or professionals to fill some vacancies in the global technology leadership team or to join our global mentor network. The commitment level for global leadership roles is typically less than a project, but depends on the actualy responsibilities assigned and your personal interest. The commitment level for mentors is highly negotiable; you may choose to join our network first, and commit only when there are questions from students pertaining to your area of expertise and when you are free.
+    <br><br>
+    Please check out Technology Division in this page for any open projects or role openings other than mentors. For mentorship application, you may check out our <a href="www.bridgesforenterprise.com">main website</a> or email technology@bridgesforenterprise.com to find out more.  
 
-  lately: lately
+  lately: |
+    Our new website is on the way... Stay tuned!
 ---
