@@ -38,6 +38,7 @@
   text-align: center;
   transition: transform 0.8s;
   transform-style: preserve-3d;
+  -webkit-transform-style: preserve-3d;
 }
 
 /* Do an horizontal flip when you move the mouse over the flip box container */
@@ -55,6 +56,7 @@
   /* Safari */
   backface-visibility: hidden;
   transform-style: preserve-3d;
+  -webkit-transform-style: preserve-3d;
 }
 
 /* Style the front side (fallback if image is missing) */
