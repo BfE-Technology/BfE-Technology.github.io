@@ -54,6 +54,7 @@
   -webkit-backface-visibility: hidden;
   /* Safari */
   backface-visibility: hidden;
+  transform-style: preserve-3d;
 }
 
 /* Style the front side (fallback if image is missing) */
