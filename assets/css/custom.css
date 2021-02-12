@@ -65,7 +65,9 @@
   background-color: dodgerblue;
   color: white;
   transform: rotateY(180deg);
-  font-size: 14px;
   text-align: justify;
+}
+
+.flip-card-back > p {
   padding: 10px;
 }
