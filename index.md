@@ -1,11 +1,11 @@
 ---
 layout: default
-about_us: |
-Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into sizeable social impact, or a university student passionate about tech and social impact, BfE Technology is the place for you. 
-    
-At the Technology Division, we design and deploy cutting-edge techonological tools to scale BfE's services for social entrepreneurs in the developing world. Our work covers a wide range of technology disciplines, and there is almost always something for you wherever your skills and interests lie. If you enjoy creation and innovation, and if you care deeply about making an impact with your code, drop us an email today at technology@bridgesforenterprise.com.
+sections:
+    about: |
+        Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into sizeable social impact, or a university student passionate about tech and social impact, BfE Technology is the place for you. 
+            
+        At the Technology Division, we design and deploy cutting-edge techonological tools to scale BfE's services for social entrepreneurs in the developing world. Our work covers a wide range of technology disciplines, and there is almost always something for you wherever your skills and interests lie. If you enjoy creation and innovation, and if you care deeply about making an impact with your code, drop us an email today at technology@bridgesforenterprise.com.
 
-roles: 
     DataAnalytics: With BfE's 4 types of service offerings, 80+ startups, 200+ students and 200+ professionals across EMEA, Asia and Americas, huge amounts of data go in and out of the organisation on a day-to-day basis. Technology members at BfE perform analyses at various levels to understand the effectiveness of our strategies and operational models, identify pain points and insights, propsose relevant suggestions and work with other divisions to enact the changes. These projects often require members to sit at the intersection of technology and consulting, using a minimalist framework to address the most sophisticated business needs. Some of the things we have done include analysis on startup application data, crowdfunding sources data and web traffic data, which inspires suggestions on improvement of our SEO and Google Ads strategy.
 
     WebAppDev: BfE's rapidly growing global user base makes it challenging to keep the community connected and make our resources as accessible as possible, an issue that was only made worse by the covid pandemic. To this end, the Technology Division is spearheading an ambitious initiaitve to build an extensive web infrastructure for BfE over the next few years. At the moment, it includes our self-hosted website, intranet and their various integrations with our internal tools such as Slack and Hubspot, which will bring significant benefits to our social entrepreneurs working hard to serve their local communities. We are still at an early stage with loads of potential and possibilities - our first version of these websites are about to release soon, while many exciting advanced features and new apps are being proposed and developed by our team across the world. 
