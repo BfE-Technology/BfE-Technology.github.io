@@ -1,20 +1,5 @@
-<div markdown="1">
-  My text with **markdown** syntax
-</div>
- 
  <div class="user-details">
-  <h1> What is Technology at BfE? </h1>
-  <p> 
-  Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate
-  your valuable work experience into sizeable social impact, or a university student passionate about tech and social impact, 
-  BfE Technology is the place for you. 
-  </p>
-
-  <p> 
-  At the Technology Division, we design and deploy cutting-edge techonological tools to scale BfE's services for social entrepreneurs in the developing world. Our work covers a wide range of technical domains, including but not limited to
-
-    
-  </p>
+  {{ page.sections['about'] | textilize }}
 </div>
   <div class="user">
     <div class="tech">
@@ -22,8 +7,7 @@
       <i class="devicon-html5-plain-wordmark"></i>
       <i class="devicon-bootstrap-plain-wordmark colored"></i>
       <i class="devicon-sass-original colored"></i>
-      <p>Mumblecore hexagon kombucha, pitchfork four loko raclette intelligentsia master cleanse.
-        Vinyl XOXO lumbersexual</p>
+      <p>  {{ content }}</p>
     </div>
     <div class="tech">
       <h2>Code</h2>
