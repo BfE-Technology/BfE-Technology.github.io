@@ -51,7 +51,7 @@ sections:
     We are also actively seeking experienced students or professionals to fill some vacancies in the global technology leadership team or to join our global mentor network. The commitment level for global leadership roles is typically less than a project, but depends on the actualy responsibilities assigned and your personal interest. The commitment level for mentors is highly negotiable; you may choose to join our network first, and commit only when there are questions from students pertaining to your area of expertise and when you are free.
     <br><br>
     Please check out Technology Division in this page for any open projects or role openings other than mentors. For mentorship application, you may check out our <a href="www.bridgesforenterprise.com">main website</a> or email technology@bridgesforenterprise.com to find out more.  
-
+f
   lately: |
     Our new website is on the way... Stay tuned!
 ---
