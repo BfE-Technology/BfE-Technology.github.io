@@ -26,7 +26,7 @@ sections:
 
   TechnicalAdvisory: We report directly to BfE's Incubation Division, although we share many training and partnerships with Technology. We provide technical consulting to our startups as part of BfE's flagship incubation programme. As our startups range from solar energy firms to blockchain companies, we have not just programmers but also mechanical enginners, electronic engineers, material scientists, medical students... and many more. For programmers, it is easy (and often encouraged) for people working on internal projects to switch over to our side, and vice versa.
 
-  ProductManagement: TBD
+  ProductManagement: We are the glue that brings different components of tech together, and products are essentially our babies. We generate new feature ideas from our vision of BfE, and lay out the roadmap for execution. We liase with people across tech and non-tech teams to understand their requests and turn them into further improvements. We are from all kinds of backgrounds, with a strong passion in both technology and entrepreneurship. Most of us do not code, but that doesn't mean we are any less familiar with the tech lingua franca!
   
   More: If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know! ;)
 
