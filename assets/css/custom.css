@@ -118,16 +118,13 @@
 
 @media (max-width: 540px) {
   .flip-card {
-    height: 240px;
+    height: 270px;
   }
 
   .flip-card-front > img {
-    height: 240px;
+    height: 270px;
   }
 
-  .flip-card-back > p {
-    font-size: 12px;
-  }
 
   .flip-card:hover .flip-card-inner {
     transform: rotateY(180deg);
@@ -142,15 +139,10 @@
   }
 
   body {
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 
-@media (max-width: 380px) {
-  .flip-card-back > p {
-    font-size: 10px;
-  }
-}
 
 /* style card titles */
 .flip-card-front > div {
