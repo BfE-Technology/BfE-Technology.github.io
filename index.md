@@ -65,17 +65,22 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
 
 <div class="three-cols">
   <div class="card">
-    <img src="assets/imgs/smile-entrepreneur.jpg">
+    <img src="url(assets/img/smile-entrepreneur.jpg)">
+    <p> text </p>
+    <button>test </button>
   </div>
   <div class="card">
+    <img src="url(assets/img/smile-entrepreneur.jpg)">
+    <p> text </p>
+    <button>test </button>
   </div>
   <div class="card">
+    <img src="url(assets/img/smile-entrepreneur.jpg)">
+    <p> text </p>
+    <button>test </button>
   </div>
 </div>
-                   
-<br>
-
-</div>
+           
 
 
 <div style="background-color: #163752; color: white;" class="full-width" markdown="1">
@@ -197,9 +202,14 @@ some fancy stats
 If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know! ;)
 
 
-<div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white; background-position: center;z-index:0; position: relative;" markdown="1" class="full-width"> 
+<div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white; background-position: 0% 95%;z-index:0; position: relative;" markdown="1" class="full-width"> 
 <br>
 
+<div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: black;z-index: -1;opacity: 0.6;"> </div>
+
+<br>
+
+<div>
 ### Join us today
 
 Our student projects are organised by our student chapters at the start of their academic term. We also have projects under the global team open year-round to students and professionals at various experience levels. The commitment levels are designed to take into account your full-time study/work schedule and will be specified in each project.
@@ -208,6 +218,7 @@ We are also actively seeking experienced students or professionals to fill some 
 
 
 Browse our open roles and projects now at <a href="https://opps.bridgesforenterprise.com/technology/">this page</a>. For mentorship applications, you may check out our <a href="https://www.bridgesforenterprise.com">main website</a> or email technology@bridgesforenterprise.com to find out more.  
+</div>
 
 <br>
 </div>
