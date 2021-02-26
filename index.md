@@ -27,8 +27,7 @@ Drop us an email today at technology@bridgesforenterprise.com to explore how you
           <p>We perform data analyses to understand the effectiveness of our strategies and operational models, and work with other divisions to implement our proposed suggestions. We come from a mix of business and technology backgrounds, and enjoy using a minimalist framework to address the most sophisticated business needs. Some of the cool data we have looked at include startup application data, crowdfunding data and web traffic data for SEO optimisation.</p>
         </div>
       </div>
-    </div>  
-    
+    </div>      
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
@@ -39,8 +38,7 @@ Drop us an email today at technology@bridgesforenterprise.com to explore how you
           <p>We are the largest group in BfE, spearheading an ambitious initiaitve to build an extensive online platform for every aspect of BfE's work. We love building various things from small tools to large platforms, and abhor clicking our mouse like a caveman. We are soon releasing our self-hosted website and intranet, with various integrations with our internal tools such as Slack and Hubspot to connect the awesome people in BfE across the world. Many exciting features and apps are being proposed and developed by our teammates from around the world.</p>
         </div>
       </div>
-    </div>  
-    
+    </div>      
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
@@ -52,7 +50,6 @@ Drop us an email today at technology@bridgesforenterprise.com to explore how you
         </div>
       </div>
     </div>  
-
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
@@ -63,8 +60,7 @@ Drop us an email today at technology@bridgesforenterprise.com to explore how you
           <p> DevOps knowledge is increasingly important, if not essential, for anyone working or aspiring to work as a software engineer. We design and implement DevOps processes from continous integration, testing to deployment, improving code collaboration across the globe. While we are only at our beginning with a minimal set of CD/CI configurations via GitHub Actions, we have many possible additions planned down the road to help manage our codebase and make the tech life easier. The nature of our work means that we are involved in high-level strategic decision making in the Technology Division.</p>
         </div>
       </div>
-    </div>   
-    
+    </div>       
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
@@ -76,7 +72,6 @@ Drop us an email today at technology@bridgesforenterprise.com to explore how you
         </div>
       </div>
     </div>
-
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
@@ -88,7 +83,6 @@ Drop us an email today at technology@bridgesforenterprise.com to explore how you
         </div>
       </div>
     </div> 
-
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
@@ -100,7 +94,6 @@ Drop us an email today at technology@bridgesforenterprise.com to explore how you
         </div>
       </div>
     </div> 
-
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
@@ -112,7 +105,6 @@ Drop us an email today at technology@bridgesforenterprise.com to explore how you
         </div>
       </div>
     </div> 
-
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
@@ -124,8 +116,6 @@ Drop us an email today at technology@bridgesforenterprise.com to explore how you
         </div>
       </div>
     </div> 
-
-
   </div>
   
 
