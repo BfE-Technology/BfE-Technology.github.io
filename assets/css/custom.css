@@ -3,6 +3,10 @@
   text-justify: inter-word;
 }
 
+body {
+  font-size: 14px;
+}
+
 
 /* the main container */
 .card-container {
@@ -136,7 +140,7 @@
   }
 
   body {
-    font-size: 14px;
+    font-size: 12px;
   }
 }
 
