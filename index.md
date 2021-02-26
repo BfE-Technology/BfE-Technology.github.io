@@ -11,9 +11,25 @@ Sign up for our [**latest projects and roles**](https://opps.bridgesforenterpris
 
 <br>
 
-<div style="background-image:url('assets/img/world.jpg'); color:white;" markdown="1" class="full0-width">  
+<div style="background-image:url('assets/img/world.jpg'); color:white; background-position: center;" markdown="1" class="full-width">  
+
+### Code with us to create a more inclusive and sustainable future
+  
+Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you!
+  
+Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you!
 
 <br>
+
+</div>
+
+
+
+
+
+
+
+<div style="background-color: #f4f4f4;" markdown="1" class="full-width">  
 
 ### Code with us to create a more inclusive and sustainable future
   
