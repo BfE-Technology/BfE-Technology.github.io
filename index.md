@@ -21,6 +21,7 @@ layout: default
 Sign up for our [**latest projects and roles**](https://opps.bridgesforenterprise.com/technology) or [**email us**](mailto:technology@bridgesforenterprise.com) about how you want to get involved today! 
 
 <br>
+<br>
 
 </div>
 
@@ -34,19 +35,27 @@ Sign up for our [**latest projects and roles**](https://opps.bridgesforenterpris
 <div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: black;z-index: -1;opacity: 0.8;"> </div>
 
 <br>
+<br>
+<br>
 
 <div class="two-cols">
   <h2> Who we are </h2>
-  <div markdown="1">
+  <div markdown="1" style="font-size: 18px">
 [Bridges for Enterprise](https://www.bridgesforenterprise.com) is a global non-profit that provides pro-bono advisory services to social impact startups in the developing world.
 
+<br>
+
 At BfE Technology, we build algorithms and products to connect our global community and make our services accessible to all. 
+
+<br>
 
 We are a group of passionate professionals and students from all over the world, who care deeply about pursuing professional growth while creating a lasting social impact beyond our day-to-day work. 
 
   </div>
 </div>
 
+<br>
+<br>
 <br>
 
 </div>
@@ -73,7 +82,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
       <div class="flip-card-inner">
         <div class="flip-card-front">
           <div>Beginner</div>
-          <img src="assets/img/DataAnalytics.jpg">
+          <img src="assets/img/colors.png">
         </div>
         <div class="flip-card-back">
           <p>We perform data analyses to understand the effectiveness of our strategies and operational models, and work with other divisions to implement our proposed suggestions. We come from a mix of business and technology backgrounds, and enjoy using a minimalist framework to address the most sophisticated business needs. Some of the cool data we have looked at include startup application data, crowdfunding data and web traffic data for SEO optimisation.</p>
@@ -84,7 +93,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
       <div class="flip-card-inner">
         <div class="flip-card-front">
           <div>Intermediate to Advanced</div>
-          <img src="assets/img/WebAppDev.jpg">
+          <img src="assets/img/colors.png">
         </div>
         <div class="flip-card-back">
           <p>We are the largest group in BfE, spearheading an ambitious initiaitve to build an extensive online platform for every aspect of BfE's work. We love building various things from small tools to large platforms, and abhor clicking our mouse like a caveman. We are soon releasing our self-hosted website and intranet, with various integrations with our internal tools such as Slack and Hubspot to connect the awesome people in BfE across the world. Many exciting features and apps are being proposed and developed by our teammates from around the world.</p>
@@ -95,7 +104,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
       <div class="flip-card-inner">
         <div class="flip-card-front">
           <div>No coding</div>
-          <img src="assets/img/WebAppDev.jpg">
+          <img src="assets/img/colors.png">
         </div>
         <div class="flip-card-back">
           <p>We are the largest group in BfE, spearheading an ambitious initiaitve to build an extensive online platform for every aspect of BfE's work. We love building various things from small tools to large platforms, and abhor clicking our mouse like a caveman. We are soon releasing our self-hosted website and intranet, with various integrations with our internal tools such as Slack and Hubspot to connect the awesome people in BfE across the world. Many exciting features and apps are being proposed and developed by our teammates from around the world.</p>
