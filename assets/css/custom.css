@@ -181,4 +181,8 @@
     grid-template-columns: 2fr 5fr;
   }
 } 
+
+.force-white-link a {
+  color: white;
+}
  
