@@ -65,7 +65,7 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
 
 <div class="three-cols">
   <div class="card">
-    <img src="assets/imgs/
+    <img src="assets/imgs/smile-entrepreneur.jpg">
   </div>
   <div class="card">
   </div>
@@ -78,7 +78,7 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
 </div>
 
 
-<div style="background-color: #163752; color: white;" class="full-width">
+<div style="background-color: #163752; color: white;" class="full-width" markdown="1">
 <br>
 ### Inspire &centerdot; Invent &centerdot; Impact
 
