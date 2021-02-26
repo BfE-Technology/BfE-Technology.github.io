@@ -6,8 +6,9 @@ layout: default
 
 ### Spotlight
 
-- We have recently released blablalbla
-- Check out blabalalb
+🚀 We are releasing our first self-hosted website soon!
+
+⭐ New projects available at blabla
 
 Sign up for our [**latest projects and roles**](https://opps.bridgesforenterprise.com/technology) or [**email us**](mailto:technology@bridgesforenterprise.com) about how you want to get involved today! 
 
