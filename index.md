@@ -81,7 +81,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          <div style="background-color:initial;">Beginner</div>
+          <div>Beginner</div>
           <img src="assets/img/colors.png">
         </div>
         <div class="flip-card-back" >
@@ -98,7 +98,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          <div style="background-color:initial;">Intermediate to Advanced</div>
+          <div>Intermediate to Advanced</div>
           <img src="assets/img/colors.png">
         </div>
         <div class="flip-card-back">
@@ -116,7 +116,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          <div style="background-color:initial;">No coding</div>
+          <div>No coding</div>
           <img src="assets/img/colors.png">
         </div>
         <div class="flip-card-back">
