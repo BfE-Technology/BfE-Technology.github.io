@@ -14,12 +14,13 @@ layout: default
 
 ⭐ New projects available for [**DevOps**](https://opps.bridgesforenterprise.com/technology), etc (TBD)
 
+<br>
 
 Sign up for our [**latest projects and roles**](https://opps.bridgesforenterprise.com/technology) or [**email us**](mailto:technology@bridgesforenterprise.com) about how you want to get involved today! 
 
 <br>
 
-<div style="background-image:url('assets/img/wind-farm.jpg'); color:white; background-position: center;  background-size: cover; z-index:0; position: relative;" markdown="1" class="full-width">  
+<div style="background-image:url('assets/img/wind-farm.jpg'); color:white; background-position: center;  background-size: cover; z-index:0; position: relative;" markdown="1" class="full-width force-white-link">  
 
 <div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: black;z-index: -1;opacity: 0.6;"> </div>
 
@@ -28,9 +29,9 @@ Sign up for our [**latest projects and roles**](https://opps.bridgesforenterpris
 <div markdown="1">
 ### Code with us to create a more sustainable and inclusive future
 
-[Bridges for Enterprise (BfE)](https://www.bridgesforenterprise.com) is a non-profit organisation that provides pro-bono advisory services to social enterprises in the developing world. Our Technology Division consists of student and professional volunteers from all around the world.
+[Bridges for Enterprise (BfE)](https://www.bridgesforenterprise.com) is a global non-profit that provides pro-bono advisory services to social enterprises in the developing world.
 
-We strive to analyse, automate and transform our operations to make our service model scalable and more widely accessible. This enables BfE to help more social impact startups and fuel their mission to make a difference in the local community.
+Our technology team builds products and algorithms to analyse and automate our operations, making our service model scalable and more widely accessible to passionate social impact startups around the globe.
 </div>
 
 <br>
@@ -38,6 +39,9 @@ We strive to analyse, automate and transform our operations to make our service 
 </div>
 
 ### Exciting technical challenges for beginners and the advanced
+
+
+
 
 Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you!
   
