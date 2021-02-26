@@ -66,10 +66,13 @@ We are a group of passionate professionals and students from all over the world,
 <div markdown="1">
 
 <br>
+<br>
 
 ## Exciting technical challenges for all experience levels
 
 Whether you are looking to pick up new tools or challenge yourself with advanced problems, at BfE Technology, your learning transforms into tangible outcomes that impact real businesses around the world.
+
+<br>
 
 </div>
 
@@ -182,9 +185,6 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
      <div>If you are looking to join Technical Advisory team to help our startups, they cover a much broader spectrum of work from app development to fintech and machine learning - in short, there is almost always something for you! </div>
       <br>
   </div>
-</div>
-</div>
-
 </div>
 
 
