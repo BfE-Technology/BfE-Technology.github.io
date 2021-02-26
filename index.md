@@ -84,8 +84,16 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
           <div>Beginner</div>
           <img src="assets/img/colors.png">
         </div>
-        <div class="flip-card-back">
-          <p>We perform data analyses to understand the effectiveness of our strategies and operational models, and work with other divisions to implement our proposed suggestions. We come from a mix of business and technology backgrounds, and enjoy using a minimalist framework to address the most sophisticated business needs. Some of the cool data we have looked at include startup application data, crowdfunding data and web traffic data for SEO optimisation.</p>
+        <div class="flip-card-back force-white-link" >
+          <p>
+            Join our student teams to start your journey with 
+            <ul>
+              <li>Data Analytics,</li>
+              <li>Machine Learning and Algorithm, and/or</li>
+              <li>Software Development,</li>
+            </ul>
+            with our wide variety of projects, training workshops, reading groups and external talks. 
+          </p>
         </div>
       </div>
     </div>      
@@ -96,7 +104,16 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
           <img src="assets/img/colors.png">
         </div>
         <div class="flip-card-back">
-          <p>We are the largest group in BfE, spearheading an ambitious initiaitve to build an extensive online platform for every aspect of BfE's work. We love building various things from small tools to large platforms, and abhor clicking our mouse like a caveman. We are soon releasing our self-hosted website and intranet, with various integrations with our internal tools such as Slack and Hubspot to connect the awesome people in BfE across the world. Many exciting features and apps are being proposed and developed by our teammates from around the world.</p>
+          <p>            
+            Sharpen your skills and make an impact as a
+            <ul>
+              <li>Global Tech Volunteer for web dev, algo, DevOps and cloud,</li>
+              <li>Project Tech Lead,</li>
+              <li>Technical Advisory for our startups,</li>
+              <li>Presenter at our workshops and talks, and/or</li>
+              <li><a href="https://www.bridgesforenterprise.com/professionals">Professional Technology Mentor.</a></li>
+            </ul>
+          </p>
         </div>
       </div>
     </div>      
@@ -107,7 +124,16 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
           <img src="assets/img/colors.png">
         </div>
         <div class="flip-card-back">
-          <p>We are the largest group in BfE, spearheading an ambitious initiaitve to build an extensive online platform for every aspect of BfE's work. We love building various things from small tools to large platforms, and abhor clicking our mouse like a caveman. We are soon releasing our self-hosted website and intranet, with various integrations with our internal tools such as Slack and Hubspot to connect the awesome people in BfE across the world. Many exciting features and apps are being proposed and developed by our teammates from around the world.</p>
+          <p>            
+            Contribute your unique set of skills to our technology team via
+            <ul>
+              <li>Business Analytics,</li>
+              <li>Product Management,</li>
+              <li>Partnerships, </li>
+              <li>Branding and Design, </li>
+              <li>and anything you can think of!</li>
+            </ul>
+          </p>
         </div>
       </div>
     </div>      
