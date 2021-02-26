@@ -167,7 +167,7 @@
 
 .two-cols{
   display: grid;
-  grid-template-columns: 2fr 5fr;
+  grid-template-columns: 1fr;
   grid-column-gap: 5%;
   justify-items: center;
   align-items: center;
@@ -181,7 +181,7 @@
     padding-right: max(10%, calc(50vw - 480px));
   }
   .two-cols{
-    grid-template-columns: 1fr;
+    grid-template-columns: 2fr 5fr;
   }
 } 
  
