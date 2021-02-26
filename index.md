@@ -2,8 +2,10 @@
 layout: default
 ---
 
-<br>
+<div markdown="1">
 
+<br>
+  
 # Recent Highlights
 
 🚀 Our first self-hosted website is on the way!
@@ -19,6 +21,13 @@ layout: default
 Sign up for our [**latest projects and roles**](https://opps.bridgesforenterprise.com/technology) or [**email us**](mailto:technology@bridgesforenterprise.com) about how you want to get involved today! 
 
 <br>
+
+</div>
+
+
+
+
+
 
 <div style="background-color: #163752; color: white;" markdown="1" class="full-width force-white-link">  
 
@@ -38,12 +47,23 @@ At BfE Technology, we build algorithms and products to connect our global commun
 
 </div>
 
+
+
+
+
+
+
+<div markdown="1">
+
 <br>
 
 ## Exciting technical challenges for all experience levels
 
 Whether you are looking to pick up new tools or challenge yourself with advanced problems, we make sure that your learning transforms into tangible outcomes that impact real businesses around the world.
 
+</div>
+
+<div>
 <div class="card-container">
     <div class="flip-card">
       <div class="flip-card-inner">
@@ -126,7 +146,15 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
       <br>
   </div>
 </div>
+</div>
 
+</div>
+
+
+
+
+
+<div markdown="1">
 <br>
 
 ### A global network passionate about social impact, startups and technology
@@ -154,9 +182,12 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
     <button>test </button>
   </div>
 </div>
+</div>
+           
            
 
 
+<div markdown="1">
 <div style="background-color: #163752; color: white;" class="full-width" markdown="1">
 <br>
 ### Inspire &centerdot; Invent &centerdot; Impact
@@ -166,9 +197,11 @@ We design software, analytics and algorithmic solutions addressing the most vita
 some fancy stats
 <br>  
 </div>
+</div>
 
+<div markdown="1">
 ### Any technology discipline from anywhere in the world
-
+</div>
 
 <div class="card-container">
     <div class="flip-card">
@@ -273,15 +306,16 @@ some fancy stats
 </div>
   
 
+<div markdown="1">
 If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know! ;)
-
+</div>
 
 <div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white;   background-size: cover;  background-position: 0% 95%;z-index:0; position: relative;"  class="full-width"> 
 
 <div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: black;z-index: -1;opacity: 0.6;"> </div>
 
 <br>
-<h2>Join us today </h2>
+<h2>Join us today</h2>
 
 <div markdown="1">
 
@@ -296,6 +330,7 @@ Browse our open roles and projects now at <a href="https://opps.bridgesforenterp
 <br>
 </div>
 
+<div markdown="1">
 ### If you need more convincing...
 
 "How is joining BfE Tech any different from other tech projects available at university and work?"
@@ -322,3 +357,4 @@ Browse our open roles and projects now at <a href="https://opps.bridgesforenterp
 
 
 **We go above and beyond.** Unlike doing a corporate job, everyone is involved in BfE on a voluntary basis, meaning that we are not here to be a small cog in a big machine and focus just on our small bit of code, but to take ownership and enact changes we believe will better serve our cause. We also echo with the principle of open-source code, and whenever we can (that is, without compromising the security of our users' data), we encourage you to open-source a modified version of the code you have done in BfE as our way to give back to the tech community.
+</div>
