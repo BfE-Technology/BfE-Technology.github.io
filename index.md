@@ -20,9 +20,7 @@ Sign up for our [**latest projects and roles**](https://opps.bridgesforenterpris
 
 <br>
 
-<div style="background-image:url('assets/img/wind-farm.jpg'); color:white; background-position: center;  background-size: cover; z-index:0; position: relative;" markdown="1" class="full-width force-white-link">  
-
-<div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: black;z-index: -1;opacity: 0.6;"> </div>
+<div style="background-color: #163752; color: white;" markdown="1" class="full-width force-white-link">  
 
 <br>
 
@@ -279,14 +277,13 @@ If there is anything you want to contribute that is not listed here and yet woul
 
 
 <div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white;   background-size: cover;  background-position: 0% 95%;z-index:0; position: relative;"  class="full-width"> 
-<br>
 
 <div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: black;z-index: -1;opacity: 0.6;"> </div>
 
 <br>
+<h2>Join us today </h2>
 
 <div markdown="1">
-### Join us today
 
 Our student projects are organised by our student chapters at the start of their academic term. We also have projects under the global team open year-round to students and professionals at various experience levels. The commitment levels are designed to take into account your full-time study/work schedule and will be specified in each project.
 
