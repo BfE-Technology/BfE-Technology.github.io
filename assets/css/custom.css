@@ -165,12 +165,23 @@
   width: auto;
 }
 
+.two-cols{
+  display: grid;
+  grid-template-columns: 2fr 5fr;
+  grid-column-gap: 5%;
+  justify-items: center;
+  align-items: center;
+}
+
 @media only screen and (min-width: 550px) {
   .full-width{
     margin-left: min(-10%, calc(-50vw + 480px));
     margin-right: min(-10%, calc(-50vw + 480px));
     padding-left: max(10%, calc(50vw - 480px));
     padding-right: max(10%, calc(50vw - 480px));
+  }
+  .two-cols{
+    grid-template-columns: 1fr;
   }
 } 
  
