@@ -42,18 +42,89 @@ At BfE Technology, we build algorithms and products to connect our global commun
 
 </div>
 
+<br>
+
 ## Exciting technical challenges for various experience levels
 
-Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you!
-  
-Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you!
+
+<div class="card-container">
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          <div>Beginner</div>
+          <img src="assets/img/DataAnalytics.jpg">
+        </div>
+        <div class="flip-card-back">
+          <p>We perform data analyses to understand the effectiveness of our strategies and operational models, and work with other divisions to implement our proposed suggestions. We come from a mix of business and technology backgrounds, and enjoy using a minimalist framework to address the most sophisticated business needs. Some of the cool data we have looked at include startup application data, crowdfunding data and web traffic data for SEO optimisation.</p>
+        </div>
+      </div>
+    </div>      
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          <div>Intermediate</div>
+          <img src="assets/img/WebAppDev.jpg">
+        </div>
+        <div class="flip-card-back">
+          <p>We are the largest group in BfE, spearheading an ambitious initiaitve to build an extensive online platform for every aspect of BfE's work. We love building various things from small tools to large platforms, and abhor clicking our mouse like a caveman. We are soon releasing our self-hosted website and intranet, with various integrations with our internal tools such as Slack and Hubspot to connect the awesome people in BfE across the world. Many exciting features and apps are being proposed and developed by our teammates from around the world.</p>
+        </div>
+      </div>
+    </div>      
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          <div>Advanced</div>
+          <img src="assets/img/WebAppDev.jpg">
+        </div>
+        <div class="flip-card-back">
+          <p>We are the largest group in BfE, spearheading an ambitious initiaitve to build an extensive online platform for every aspect of BfE's work. We love building various things from small tools to large platforms, and abhor clicking our mouse like a caveman. We are soon releasing our self-hosted website and intranet, with various integrations with our internal tools such as Slack and Hubspot to connect the awesome people in BfE across the world. Many exciting features and apps are being proposed and developed by our teammates from around the world.</p>
+        </div>
+      </div>
+    </div>      
+  </div>
 
 <br>
 
 <div style="background-color: #f4f4f4;" class="full-width two-cols">  
-  <h3>Tech Stack <span style="font-size: 12px">(non-exhasutive)</span></h3>
+  <h3>Tech Stack</h3>
   <div>
-    test
+     <div style="display:flex; flex-wrap: wrap;">   
+       <img src="assets/img/azure.svg"> 
+       <img src="assets/img/github.png">
+       <img src="assets/img/docker.png">
+       <img src="assets/img/terraform.png">
+       <img src="assets/img/github_actions.png">
+       <img src="assets/img/skeema.png">
+       <img src="assets/img/sass.png">
+       <img src="assets/img/wordpress.png">
+       <img src="assets/img/mysql.png">
+       <img src="assets/img/sass.png">
+       <img src="assets/img/jquery.png">
+       <img src="assets/img/d3.svg">
+       <img src="assets/img/django.png">
+       <img src="assets/img/react.png">
+       <img src="assets/img/redux.svg">
+       <img src="assets/img/python.png">
+       <img src="assets/img/colab.png">
+       <img src="assets/img/google_analytics.png">
+       <img src="assets/img/gensim.png">
+     </div>
+     <div style="font-size: 12px">Using these tools, we build automations across platforms used by non-tech teams such as</div>
+     <div style="display:flex; flex-wrap: wrap;">  
+       <img src="assets/img/facebook.png">
+       <img src="assets/img/hubspot.png">
+       <img src="assets/img/slack.png">
+       <img src="assets/img/google_workspace.png">
+     </div>
+     <div style="font-size: 12px">Don't worry if your coding tools are not listed above. We are always open to new tools that can improve our efficiency. In fact, we are actively looking for developers with experience in</div>
+     <div style="display:flex; flex-wrap: wrap;">  
+       <img src="assets/img/aws.png">
+       <img src="assets/img/rokect_chat.svg">
+       <img src="assets/img/laravel.png">
+       <img src="assets/img/flask.png">
+       <img src="assets/img/vue.png">
+     </div>
+     <div style="font-size: 12px">If you are looking to join Technical Advisory team to help our startups, they cover a much broader spectrum of work from app development to fintech and machine learning, and there is always likely to be something for you. </div>
   </div>
 </div>
 
