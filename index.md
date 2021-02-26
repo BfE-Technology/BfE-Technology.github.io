@@ -41,7 +41,7 @@ Sign up for our [**latest projects and roles**](https://opps.bridgesforenterpris
 <div class="two-cols">
   <h2> Who we are </h2>
   <div markdown="1">
-[Bridges for Enterprise](https://www.bridgesforenterprise.com) is a global non-profit that provides pro-bono advisory services to social impact startups in the developing world.
+[Bridges for Enterprise (BfE)](https://www.bridgesforenterprise.com) is a global non-profit that provides pro-bono advisory services to social impact startups in the developing world.
 
 At BfE Technology, we build algorithms and products to connect our global community and make our services accessible to all. 
 
