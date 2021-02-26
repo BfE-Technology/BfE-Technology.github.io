@@ -203,14 +203,14 @@ some fancy stats
 If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know! ;)
 
 
-<div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white; background-position: 0% 95%;z-index:0; position: relative;" markdown="1" class="full-width"> 
+<div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white; background-position: 0% 95%;z-index:0; position: relative;"  class="full-width"> 
 <br>
 
 <div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: black;z-index: -1;opacity: 0.6;"> </div>
 
 <br>
 
-<div>
+<div markdown="1">
 ### Join us today
 
 Our student projects are organised by our student chapters at the start of their academic term. We also have projects under the global team open year-round to students and professionals at various experience levels. The commitment levels are designed to take into account your full-time study/work schedule and will be specified in each project.
