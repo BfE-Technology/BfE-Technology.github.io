@@ -19,7 +19,7 @@ Sign up for our [**latest projects and roles**](https://opps.bridgesforenterpris
 
 <br>
 
-<div style="background-image:url('assets/img/wind-farm.jpg'); color:white; background-position: center;z-index:0; position: relative;" markdown="1" class="full-width">  
+<div style="background-image:url('assets/img/wind-farm.jpg'); color:white; background-position: center;  background-size: cover; z-index:0; position: relative;" markdown="1" class="full-width">  
 
 <div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: black;z-index: -1;opacity: 0.6;"> </div>
 
@@ -201,7 +201,7 @@ some fancy stats
 If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know! ;)
 
 
-<div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white; background-position: 0% 95%;z-index:0; position: relative;"  class="full-width"> 
+<div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white;   background-size: cover;  background-position: 0% 95%;z-index:0; position: relative;"  class="full-width"> 
 <br>
 
 <div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: black;z-index: -1;opacity: 0.6;"> </div>
