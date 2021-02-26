@@ -121,7 +121,7 @@ Drop us an email today at technology@bridgesforenterprise.com to explore how you
 
 If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know! ;)
 
-# Why Technology at BfE?</h1>
+# Why Technology at BfE?
 **We are startup-like.** We are a new division within BfE, meaning that there are plenty of opportunities to apply technology that hasn't been explored within the organisation. You can wear many hats! If you have an idea about what you want to do in BfE, we will provide you with the resources to fulfil it.
 
 
