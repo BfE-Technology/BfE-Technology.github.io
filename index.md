@@ -119,7 +119,7 @@ At BfE Technology, we build algorithms and products to connect our global commun
      <div style="font-size: 12px">Don't worry if your coding tools are not listed above. We are always open to new tools that can improve our efficiency. In fact, we are actively looking for developers with experience in</div>
      <div style="display:flex; flex-wrap: wrap;">  
        <img src="assets/img/aws.png">
-       <img src="assets/img/rokect_chat.svg">
+       <img src="assets/img/rocket_chat.svg">
        <img src="assets/img/laravel.png">
        <img src="assets/img/flask.png">
        <img src="assets/img/vue.png">
