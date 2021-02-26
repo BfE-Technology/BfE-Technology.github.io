@@ -20,8 +20,6 @@ Sign up for our [**latest projects and roles**](https://opps.bridgesforenterpris
 <br>
 
 <div markdown="1">
-
-
 ### Code with us to create a more inclusive and sustainable future
 
 Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you! 
@@ -42,7 +40,6 @@ Drop us an email today at technology@bridgesforenterprise.com to explore how you
 
 ### Exciting technical challenges for beginners and the advanced
 
-
 Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you!
   
 Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you!
@@ -54,17 +51,18 @@ Whether you are a junior engineer looking to expand your portfolio and skills, a
   <div>
     test
   </div>
-<div>
+</div>
 
 <br>
-<div markdown="1">
+
 ### A global network passionate about social impact, startups and technology
   
 Be part of a global community that cares deeply about applying professional skills to empower early-stage social enterprises and create local ground-up impact. Our students and professionals come from consulting, finance, legal and technical backgrounds, covering a broad spectrum of knowledge and experiences relevant to early-stage startups.
 
 Our startups work in a diverse range of sectors. Check out how some of them harness cutting-edge technology to scale their impact.
-</div>
+
 <br>
+
 <div class="three-cols">
   <div class="card">
     <img src="assets/imgs/
@@ -74,12 +72,7 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
   <div class="card">
   </div>
 </div>
-<br>
-  
-Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you!
-  
-Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you!
-
+                   
 <br>
 
 </div>
@@ -98,8 +91,7 @@ some fancy stats
 ### Any technology discipline from anywhere in the world
 
 
-
-  <div class="card-container">
+<div class="card-container">
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
@@ -199,21 +191,18 @@ some fancy stats
         </div>
       </div>
     </div> 
-  </div>
+</div>
   
 
 If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know! ;)
 
 
-<div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white; background-position: center;z-index:0; position: relative;" markdown="1" class="full-width">  
+<div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white; background-position: center;z-index:0; position: relative;" markdown="1" class="full-width"> 
 <br>
 
 ### Join us today
 
-<br>
-
 Our student projects are organised by our student chapters at the start of their academic term. We also have projects under the global team open year-round to students and professionals at various experience levels. The commitment levels are designed to take into account your full-time study/work schedule and will be specified in each project.
-
 
 We are also actively seeking experienced students or professionals to fill some vacancies in the global technology leadership team or to join our global mentor network. The commitment level for global leadership roles is typically less than a project, but depends on the actual responsibilities assigned and your personal interest. The commitment level for mentors is highly negotiable; you may choose to join our network first, and commit only when there are questions from students pertaining to your area of expertise and when you are free.
 
@@ -226,7 +215,6 @@ Browse our open roles and projects now at <a href="https://opps.bridgesforenterp
 ### If you need more convincing...
 
 "How is joining BfE Tech any different from other tech projects available at university and work?"
-
 
 **We are startup-like.** We are a new division within BfE, meaning that there are plenty of opportunities to apply technology that hasn't been explored within the organisation. You can wear many hats! If you have an idea about what you want to do in BfE, we will provide you with the resources to fulfil it.
 
