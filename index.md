@@ -2,12 +2,9 @@
 layout: default
 ---
 
-<div style="color: #163752">
-
 # Code with us to create a more inclusive and sustainable future
 
-
-</div>
+Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you! 
 
 
 
