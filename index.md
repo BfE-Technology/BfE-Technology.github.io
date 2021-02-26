@@ -86,6 +86,7 @@ At BfE Technology, we build algorithms and products to connect our global commun
 <div style="background-color: #f4f4f4;" class="full-width two-cols">  
   <h3>Tech Stack</h3>
   <div id="tech-stack">
+     <br>
      <div style="display:flex; flex-wrap: wrap;">   
        <img src="assets/img/azure.svg"> 
        <img src="assets/img/github.png">
@@ -107,14 +108,14 @@ At BfE Technology, we build algorithms and products to connect our global commun
        <img src="assets/img/google_analytics.png">
        <img src="assets/img/gensim.png">
      </div>
-     <div style="font-size: 12px">Using these tools, we build automations across platforms used by non-tech teams such as</div>
+     <div>Using these tools, we build automations across platforms used by non-tech teams such as</div>
      <div style="display:flex; flex-wrap: wrap;">  
        <img src="assets/img/facebook.png">
        <img src="assets/img/hubspot.png">
        <img src="assets/img/slack.png">
        <img src="assets/img/google_workspace.png">
      </div>
-     <div style="font-size: 12px">Don't worry if your coding tools are not listed above. We are always open to new tools that can improve our efficiency. In fact, we are actively looking for developers with experience in</div>
+     <div>Don't worry if your coding tools are not listed above. We are always open to new tools that can improve our efficiency. In fact, we are actively looking for developers with experience in</div>
      <div style="display:flex; flex-wrap: wrap;">  
        <img src="assets/img/aws.png">
        <img src="assets/img/rocket_chat.svg">
@@ -122,7 +123,8 @@ At BfE Technology, we build algorithms and products to connect our global commun
        <img src="assets/img/flask.png">
        <img src="assets/img/vue.png">
      </div>
-     <div style="font-size: 12px">If you are looking to join Technical Advisory team to help our startups, they cover a much broader spectrum of work from app development to fintech and machine learning, and there is always likely to be something for you. </div>
+     <div>If you are looking to join Technical Advisory team to help our startups, they cover a much broader spectrum of work from app development to fintech and machine learning, and there is always likely to be something for you. </div>
+      <br>
   </div>
 </div>
 
