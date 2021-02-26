@@ -192,8 +192,8 @@ body {
 
 @media only screen and (min-width: 550px) {
   .full-width{
-    margin-left: min(-20%, calc(-50vw + 480px));
-    margin-right: min(-20%, calc(-50vw + 480px));
+    margin-left: min(-40%, calc(-50vw + 480px));
+    margin-right: min(-40%, calc(-50vw + 480px));
     padding-left: max(20%, calc(50vw - 480px));
     padding-right: max(20%, calc(50vw - 480px));
   }
