@@ -1,3 +1,14 @@
+#about > div{
+  width:90%;
+  margin:0 auto;
+  max-width:960px;
+}
+@media only screen and (min-width:550px){
+  #about > div{
+    width:60%;
+  }
+}
+
 .about {
   text-align: left;
   text-justify: inter-word;
