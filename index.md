@@ -137,7 +137,8 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
 <br>
 
 <div style="background-color: #f4f4f4;">  
-  <h2>Tech Stack</h2>
+  <br>
+  <h2 style="text-align: center;">Tech Stack</h2>
   <div id="tech-stack">
      <br>
      <div style="display:flex; flex-wrap: wrap;">   
@@ -161,14 +162,18 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
        <img src="assets/img/google_analytics.png">
        <img src="assets/img/gensim.png">
      </div>
+      <br>
      <div>We also manage automations on platforms such as</div>
+      <br>
      <div style="display:flex; flex-wrap: wrap;">  
        <img src="assets/img/facebook.png">
        <img src="assets/img/hubspot.png">
        <img src="assets/img/slack.png">
        <img src="assets/img/google_workspace.png">
      </div>
+      <br>
      <div>We are always looking for new tools that can improve our work. Currently, we are actively looking for developers with experience in</div>
+      <br>
      <div style="display:flex; flex-wrap: wrap;">  
        <img src="assets/img/aws.png">
        <img src="assets/img/rocket_chat.svg">
@@ -176,7 +181,10 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
        <img src="assets/img/flask.png">
        <img src="assets/img/vue.png">
      </div>
+      <br>
      <div>If you are looking to join Technical Advisory team to help our startups, they cover a much broader spectrum of work from app development to fintech and machine learning - in short, there is almost always something for you! </div>
+      <br>
+      <br>
       <br>
   </div>
 </div>
@@ -186,6 +194,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
 
 
 <div markdown="1">
+<br>
 <br>
 
 ### A global network passionate about social impact, startups and technology
