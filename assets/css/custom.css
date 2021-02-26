@@ -65,6 +65,8 @@ body {
 
 .experience-levels .flip-card-front > img{
     height: 700px;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
 }
 
 
@@ -229,3 +231,13 @@ body {
   padding: 20px;
 }
 
+/* experience-level cards */
+#beginner{
+  object-position: -730px -450px;
+}
+#intermediate-advanced{
+  object-position: -400px -450px;
+}
+#no-coding{
+  object-position: -50px -450px;
+}
