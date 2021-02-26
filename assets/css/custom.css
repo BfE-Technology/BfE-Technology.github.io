@@ -156,3 +156,21 @@
   background-color: black;
   width: 100%;
 }
+
+.full-width{
+  margin-left: min(-5%, calc(-50vw + 480px));
+  margin-right: min(-5%, calc(-50vw + 480px));
+  padding-left: max(5%, calc(50vw - 480px));
+  padding-right: max(5%, calc(50vw - 480px));
+}
+
+@media only screen and (min-width: 550px) {
+  .full-width{
+    margin-left: min(-10%, calc(-50vw + 480px));
+    margin-right: min(-10%, calc(-50vw + 480px));
+    padding-left: max(10%, calc(50vw - 480px));
+    padding-right: max(10%, calc(50vw - 480px));
+    width: 100vw;
+  }
+} 
+ 
