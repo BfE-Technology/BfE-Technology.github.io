@@ -81,8 +81,8 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
+          <img src="assets/img/colors.png" id="beginner">          
           <div>Beginner</div>
-          <img src="assets/img/colors.png">
         </div>
         <div class="flip-card-back" >
             Join our student teams to start your journey with 
@@ -98,8 +98,8 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
+          <img src="assets/img/colors.png" id="intermediate-advanced">
           <div>Intermediate to Advanced</div>
-          <img src="assets/img/colors.png">
         </div>
         <div class="flip-card-back">
             Sharpen your skills and make an impact as a
@@ -116,8 +116,8 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
+          <img src="assets/img/colors.png" id="no-coding">
           <div>No coding</div>
-          <img src="assets/img/colors.png">
         </div>
         <div class="flip-card-back">
             Contribute your unique set of skills to our technology team via
