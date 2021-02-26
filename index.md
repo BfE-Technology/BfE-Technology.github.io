@@ -4,7 +4,7 @@ layout: default
 
 <br>
 
-### Spotlights
+# Spotlights
 
 🚀 Our first self-hosted website is on the way!
 
