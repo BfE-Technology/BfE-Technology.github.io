@@ -29,9 +29,9 @@ Sign up for our [**latest projects and roles**](https://opps.bridgesforenterpris
 
 
 
-<div style="background-image:url('assets/img/wind-farm.jpg'); color:white;   background-size: cover;  background-position: 0% 95%;z-index:0; position: relative;" > 
+<div style="background-image:url('assets/img/idea.jpg'); color:white;   background-size: cover;  background-position: 0% 95%;z-index:0; position: relative;" class="force-white-link" > 
 
-<div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: #163752;z-index: -1;opacity: 0.6;"> </div>
+<div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: black;z-index: -1;opacity: 0.8;"> </div>
 
 <br>
 
@@ -94,7 +94,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          <div>I don't want to code</div>
+          <div>No coding</div>
           <img src="assets/img/WebAppDev.jpg">
         </div>
         <div class="flip-card-back">
@@ -315,7 +315,7 @@ some fancy stats
 If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know! ;)
 </div>
 
-<div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white;   background-size: cover;  background-position: 0% 95%;z-index:0; position: relative;" > 
+<div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white;   background-size: cover;  background-position: 0% 95%;z-index:0; position: relative;" class="force-white-link" > 
 
 <div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: black;z-index: -1;opacity: 0.6;"> </div>
 
