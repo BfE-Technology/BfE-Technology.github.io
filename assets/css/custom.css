@@ -7,6 +7,23 @@ body {
   font-size: 14px;
 }
 
+@media only screen and (min-width: 550px) {
+  .site-title img {
+    width: 100px;
+    height: 100px;
+    transform: translate(0, 20px);
+    filter: brightness(100);
+    padding: 10px; 
+  }
+}
+
+
+.site-title img {
+  width: 100px;
+  height: 100px;
+  transform: translate(0, 20px);
+  padding: 10px; 
+}
 
 /* the main container */
 .card-container {
