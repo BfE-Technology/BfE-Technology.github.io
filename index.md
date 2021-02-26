@@ -77,11 +77,11 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
 </div>
 
 <div>
-<div class="card-container">
+<div class="card-container experience-levels">
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          <div>Beginner</div>
+          <div style="background-color:initial;">Beginner</div>
           <img src="assets/img/colors.png">
         </div>
         <div class="flip-card-back force-white-link" >
@@ -100,7 +100,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          <div>Intermediate to Advanced</div>
+          <div style="background-color:initial;">Intermediate to Advanced</div>
           <img src="assets/img/colors.png">
         </div>
         <div class="flip-card-back">
@@ -120,7 +120,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          <div>No coding</div>
+          <div style="background-color:initial;">No coding</div>
           <img src="assets/img/colors.png">
         </div>
         <div class="flip-card-back">
