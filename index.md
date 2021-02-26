@@ -87,7 +87,7 @@ At BfE Technology, we build algorithms and products to connect our global commun
 
 <div style="background-color: #f4f4f4;" class="full-width two-cols">  
   <h3>Tech Stack</h3>
-  <div>
+  <div id="tech-stack">
      <div style="display:flex; flex-wrap: wrap;">   
        <img src="assets/img/azure.svg"> 
        <img src="assets/img/github.png">
