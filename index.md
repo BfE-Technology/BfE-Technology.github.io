@@ -29,7 +29,9 @@ Sign up for our [**latest projects and roles**](https://opps.bridgesforenterpris
 
 
 
-<div style="background-color: #163752; color: white;" markdown="1" class="full-width force-white-link">  
+<div style="background-image:url('assets/img/wind-farm.jpg'); color:white;   background-size: cover;  background-position: 0% 95%;z-index:0; position: relative;" > 
+
+<div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: #163752;z-index: -1;opacity: 0.6;"> </div>
 
 <br>
 
@@ -38,7 +40,9 @@ Sign up for our [**latest projects and roles**](https://opps.bridgesforenterpris
   <div markdown="1">
 [Bridges for Enterprise](https://www.bridgesforenterprise.com) is a global non-profit that provides pro-bono advisory services to social impact startups in the developing world.
 
-At BfE Technology, we build algorithms and products to connect our global community and make our services accessible to all. We are a group of passionate professionals and students from all over the world, who care deeply about pursuing professional growth while creating a lasting social impact beyond our day-to-day work. 
+At BfE Technology, we build algorithms and products to connect our global community and make our services accessible to all. 
+
+We are a group of passionate professionals and students from all over the world, who care deeply about pursuing professional growth while creating a lasting social impact beyond our day-to-day work. 
 
   </div>
 </div>
@@ -311,7 +315,7 @@ some fancy stats
 If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know! ;)
 </div>
 
-<div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white;   background-size: cover;  background-position: 0% 95%;z-index:0; position: relative;"  class="full-width"> 
+<div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white;   background-size: cover;  background-position: 0% 95%;z-index:0; position: relative;" > 
 
 <div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: black;z-index: -1;opacity: 0.6;"> </div>
 
