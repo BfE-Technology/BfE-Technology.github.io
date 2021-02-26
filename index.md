@@ -42,8 +42,9 @@ At BfE Technology, we build algorithms and products to connect our global commun
 
 <br>
 
-## Exciting technical challenges for various experience levels
+## Exciting technical challenges for all experience levels
 
+Whether you are looking to pick up new tools or challenge yourself with advanced problems, we make sure that your learning transforms into tangible outcomes that impact real businesses around the world.
 
 <div class="card-container">
     <div class="flip-card">
