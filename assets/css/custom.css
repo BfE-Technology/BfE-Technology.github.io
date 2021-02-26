@@ -184,13 +184,6 @@ body {
   width: 100%;
 }
 
-.full-width{
-  margin-left: min(-5%, calc(-50vw + 480px));
-  margin-right: min(-5%, calc(-50vw + 480px));
-  padding-left: max(5%, calc(50vw - 480px));
-  padding-right: max(5%, calc(50vw - 480px));
-  width: auto;
-}
 
 .two-cols{
   display: grid;
@@ -201,12 +194,6 @@ body {
 }
 
 @media only screen and (min-width: 550px) {
-  .full-width{
-    margin-left: min(-40%, calc(-50vw + 480px));
-    margin-right: min(-40%, calc(-50vw + 480px));
-    padding-left: max(20%, calc(50vw - 480px));
-    padding-right: max(20%, calc(50vw - 480px));
-  }
   .two-cols{
     grid-template-columns: 2fr 5fr;
   }
