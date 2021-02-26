@@ -4,11 +4,15 @@ layout: default
 
 <br>
 
-### Spotlight
+### Spotlights
 
-🚀 We are releasing our first self-hosted website soon!
+🚀 Our first self-hosted website is on the way!
 
-⭐ New projects available at blabla
+🎉 We just launched a new Technology team at New York Chapter 🗽
+
+⭐ New positions available for [**Global Branding and Design Manager**](https://opps.bridgesforenterprise.com/technology), etc (TBD)
+
+⭐ New projects available for [**DevOps**](https://opps.bridgesforenterprise.com/technology), etc (TBD)
 
 Sign up for our [**latest projects and roles**](https://opps.bridgesforenterprise.com/technology) or [**email us**](mailto:technology@bridgesforenterprise.com) about how you want to get involved today! 
 
