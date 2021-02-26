@@ -26,22 +26,22 @@ Sign up for our [**latest projects and roles**](https://opps.bridgesforenterpris
 
 <br>
 
-<div markdown="1">
-### Code with us to create a more sustainable and inclusive future
+<div class="two-cols">
+  <h2> Who we are </h2>
+  <div markdown="1">
+[Bridges for Enterprise](https://www.bridgesforenterprise.com) is a global non-profit that provides pro-bono advisory services to social impact startups in the developing world.
 
-[Bridges for Enterprise (BfE)](https://www.bridgesforenterprise.com) is a global non-profit that provides pro-bono advisory services to social enterprises in the developing world.
+At BfE Technology, we are a group of passionate professionals and students who care about applying our technical skills to create social impact beyond our professional work.
 
-Our technology team builds products and algorithms to analyse and automate our operations, making our service model scalable and more widely accessible to passionate social impact startups around the globe.
+We build algorithms and products to connect our global community and make our services accessible to all.
+  </div>
 </div>
 
 <br>
 
 </div>
 
-### Exciting technical challenges for beginners and the advanced
-
-
-
+## Exciting technical challenges for various experience levels
 
 Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you!
   
