@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<br>
+
 ### Spotlight
 
 - We have recently released blablalbla
@@ -11,48 +13,17 @@ Sign up for our [**latest projects and roles**](https://opps.bridgesforenterpris
 
 <br>
 
-<div style="background-image:url('assets/img/wind-farm.jpg'); color:white; background-position: center;z-index:0;" markdown="1" class="full-width">  
+<div style="background-image:url('assets/img/wind-farm.jpg'); color:white; background-position: center;z-index:0; position: relative;" markdown="1" class="full-width">  
 
 <div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: black;z-index: -1;opacity: 0.6;"> </div>
 
+<br>
+
 <div markdown="1">
-### Code with us to create a more inclusive and sustainable future
-  
-Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you!
-  
-Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you!
 
-<br>
-
-</div>
-
-</div>
-
-
-
-
-
-
-
-<div style="background-color: #f4f4f4;" markdown="1" class="full-width">  
 
 ### Code with us to create a more inclusive and sustainable future
-  
-Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you!
-  
-Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you!
 
-<br>
-
-</div>
-
-
-
-
-
-# OBSOLETE
-
-# What is Technology at BfE?
 Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you! 
 
 
@@ -63,7 +34,70 @@ At the Technology Division, we design and deploy cutting-edge techonological too
 
 
 Drop us an email today at technology@bridgesforenterprise.com to explore how you can make a global impact from home with something you love.
+</div>
+
+<br>
+
+</div>
+
+### Exciting technical challenges for beginners and the advanced
+
+
+Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you!
   
+Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you!
+
+<br>
+
+<div style="background-color: #f4f4f4;" class="full-width two-cols">  
+  <h3>Tech Stack <span style="font-size: 12px">(non-exhasutive)</span></h3>
+  <div>
+    test
+  </div>
+<div>
+
+<br>
+<div markdown="1">
+### A global network passionate about social impact, startups and technology
+  
+Be part of a global community that cares deeply about applying professional skills to empower early-stage social enterprises and create local ground-up impact. Our students and professionals come from consulting, finance, legal and technical backgrounds, covering a broad spectrum of knowledge and experiences relevant to early-stage startups.
+
+Our startups work in a diverse range of sectors. Check out how some of them harness cutting-edge technology to scale their impact.
+</div>
+<br>
+<div class="three-cols">
+  <div class="card">
+    <img src="assets/imgs/
+  </div>
+  <div class="card">
+  </div>
+  <div class="card">
+  </div>
+</div>
+<br>
+  
+Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you!
+  
+Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you!
+
+<br>
+
+</div>
+
+
+<div style="background-color: #163752; color: white;" class="full-width">
+<br>
+### Inspire &centerdot; Invent &centerdot; Impact
+
+We design software, analytics and algorithmic solutions addressing the most vital issues in scaling the organisation for an ever-growing user base worldwide.
+
+some fancy stats
+<br>  
+</div>
+
+### Any technology discipline from anywhere in the world
+
+
 
   <div class="card-container">
     <div class="flip-card">
@@ -170,7 +204,30 @@ Drop us an email today at technology@bridgesforenterprise.com to explore how you
 
 If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know! ;)
 
-# Why Technology at BfE?
+
+<div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white; background-position: center;z-index:0; position: relative;" markdown="1" class="full-width">  
+<br>
+
+### Join us today
+
+<br>
+
+Our student projects are organised by our student chapters at the start of their academic term. We also have projects under the global team open year-round to students and professionals at various experience levels. The commitment levels are designed to take into account your full-time study/work schedule and will be specified in each project.
+
+
+We are also actively seeking experienced students or professionals to fill some vacancies in the global technology leadership team or to join our global mentor network. The commitment level for global leadership roles is typically less than a project, but depends on the actual responsibilities assigned and your personal interest. The commitment level for mentors is highly negotiable; you may choose to join our network first, and commit only when there are questions from students pertaining to your area of expertise and when you are free.
+
+
+Browse our open roles and projects now at <a href="https://opps.bridgesforenterprise.com/technology/">this page</a>. For mentorship applications, you may check out our <a href="https://www.bridgesforenterprise.com">main website</a> or email technology@bridgesforenterprise.com to find out more.  
+
+<br>
+</div>
+
+### If you need more convincing...
+
+"How is joining BfE Tech any different from other tech projects available at university and work?"
+
+
 **We are startup-like.** We are a new division within BfE, meaning that there are plenty of opportunities to apply technology that hasn't been explored within the organisation. You can wear many hats! If you have an idea about what you want to do in BfE, we will provide you with the resources to fulfil it.
 
 
@@ -193,16 +250,3 @@ If there is anything you want to contribute that is not listed here and yet woul
 
 
 **We go above and beyond.** Unlike doing a corporate job, everyone is involved in BfE on a voluntary basis, meaning that we are not here to be a small cog in a big machine and focus just on our small bit of code, but to take ownership and enact changes we believe will better serve our cause. We also echo with the principle of open-source code, and whenever we can (that is, without compromising the security of our users' data), we encourage you to open-source a modified version of the code you have done in BfE as our way to give back to the tech community.
-
-
-# How can I get involved?
-Our student projects are organised by our student chapters at the start of their academic term. We also have projects under the global team open year-round to students and professionals at various experience levels. The commitment levels are designed to take into account your full-time study/work schedule and will be specified in each project.
-
-
-We are also actively seeking experienced students or professionals to fill some vacancies in the global technology leadership team or to join our global mentor network. The commitment level for global leadership roles is typically less than a project, but depends on the actual responsibilities assigned and your personal interest. The commitment level for mentors is highly negotiable; you may choose to join our network first, and commit only when there are questions from students pertaining to your area of expertise and when you are free.
-
-
-Browse our open roles and projects now at <a href="https://opps.bridgesforenterprise.com/technology/">this page</a>. For mentorship applications, you may check out our <a href="https://www.bridgesforenterprise.com">main website</a> or email technology@bridgesforenterprise.com to find out more.  
-
-# What are we up to lately?
-Our new website is on the way... Stay tuned!
