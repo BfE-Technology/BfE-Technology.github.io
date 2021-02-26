@@ -6,8 +6,6 @@ layout: default
 
 # Recent Highlights
 
-<br>
-
 🚀 Our first self-hosted website is on the way!
 
 🎉 We just launched a new Technology team at New York Chapter 🗽
