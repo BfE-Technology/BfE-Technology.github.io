@@ -61,7 +61,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          <div>Intermediate</div>
+          <div>Intermediate to Advanced</div>
           <img src="assets/img/WebAppDev.jpg">
         </div>
         <div class="flip-card-back">
@@ -72,7 +72,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          <div>Advanced</div>
+          <div>I don't want to code</div>
           <img src="assets/img/WebAppDev.jpg">
         </div>
         <div class="flip-card-back">
@@ -84,8 +84,8 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
 
 <br>
 
-<div style="background-color: #f4f4f4;" class="full-width two-cols">  
-  <h3>Tech Stack</h3>
+<div style="background-color: #f4f4f4;" class="full-width">  
+  <h2>Tech Stack</h2>
   <div id="tech-stack">
      <br>
      <div style="display:flex; flex-wrap: wrap;">   
