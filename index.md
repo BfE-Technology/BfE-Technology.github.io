@@ -99,10 +99,11 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
       </div>
     </div>      
   </div>
+</div>
 
 <br>
 
-<div style="background-color: #f4f4f4;" class="full-width">  
+<div style="background-color: #f4f4f4;">  
   <h2>Tech Stack</h2>
   <div id="tech-stack">
      <br>
