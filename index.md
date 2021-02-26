@@ -14,6 +14,7 @@ layout: default
 
 ⭐ New projects available for [**DevOps**](https://opps.bridgesforenterprise.com/technology), etc (TBD)
 
+
 Sign up for our [**latest projects and roles**](https://opps.bridgesforenterprise.com/technology) or [**email us**](mailto:technology@bridgesforenterprise.com) about how you want to get involved today! 
 
 <br>
@@ -25,18 +26,11 @@ Sign up for our [**latest projects and roles**](https://opps.bridgesforenterpris
 <br>
 
 <div markdown="1">
-### Code with us to create a more inclusive and sustainable future
+### Code with us to create a more sustainable and inclusive future
 
-Whether you are a junior engineer looking to expand your portfolio and skills, a senior professional eager to translate your valuable work experience into scalable social impact, or a university student passionate about tech and entrepreneurship, BfE Technology is the place for you! 
+[Bridges for Enterprise (BfE)](https://www.bridgesforenterprise.com) is a non-profit organisation that provides pro-bono advisory services to social enterprises in the developing world. Our Technology Division consists of student and professional volunteers from all around the world.
 
-
-With BfE's 4 types of service offerings, 80+ startups, 200+ students and 200+ professionals across EMEA, Asia and the Americas, a huge amount of data go in and out of the organisation on a day-to-day basis. Our rapidly growing global user base makes it challenging to keep the community connected and our resources easily accessible, an issue only compounded by the COVID pandemic. To address these needs, the BfE Technology Division was founded in Aug 2020, replacing the previous Data Analytics team and encompassing a much wider spectrum of work.  
-
-
-At the Technology Division, we design and deploy cutting-edge techonological tools to scale BfE's services for social entrepreneurs in the developing world. Our work covers a wide range of technology disciplines. As long as you enjoy tech, there is almost always something for you wherever your skills and interests lie. 
-
-
-Drop us an email today at technology@bridgesforenterprise.com to explore how you can make a global impact from home with something you love.
+We strive to analyse, automate and transform our operations to make our service model scalable and more widely accessible. This enables BfE to help more social impact startups and fuel their mission to make a difference in the local community.
 </div>
 
 <br>
