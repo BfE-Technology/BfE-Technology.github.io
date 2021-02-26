@@ -4,7 +4,7 @@ layout: default
 
 <br>
 
-# Spotlights
+# Recent Highlights
 
 <br>
 
