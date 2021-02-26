@@ -6,6 +6,8 @@ layout: default
 
 # Spotlights
 
+<br>
+
 🚀 Our first self-hosted website is on the way!
 
 🎉 We just launched a new Technology team at New York Chapter 🗽
@@ -31,9 +33,8 @@ Sign up for our [**latest projects and roles**](https://opps.bridgesforenterpris
   <div markdown="1">
 [Bridges for Enterprise](https://www.bridgesforenterprise.com) is a global non-profit that provides pro-bono advisory services to social impact startups in the developing world.
 
-At BfE Technology, we are a group of passionate professionals and students who care about applying our technical skills to create social impact beyond our professional work.
+At BfE Technology, we build algorithms and products to connect our global community and make our services accessible to all. We are a group of passionate professionals and students from all over the world, who care deeply about pursuing professional growth while creating a lasting social impact beyond our day-to-day work. 
 
-We build algorithms and products to connect our global community and make our services accessible to all.
   </div>
 </div>
 
