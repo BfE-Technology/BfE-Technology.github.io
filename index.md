@@ -217,28 +217,32 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
     <div class="logo"><img src="assets/img/7.png"></div>
     <div class="text" markdown="1"> 
 ### BAG Innovation
-      
+
+Test description
     </div>
   </div>
   <div class="card logo-right">
     <div class="logo"><img src="assets/img/8.png"></div>
     <div class="text" markdown="1"> 
 ### Beat Drone
-      
+
+Test description
     </div>
   </div>
   <div class="card logo-left">
     <div class="logo"><img src="assets/img/24.png"></div>
     <div class="text" markdown="1"> 
 ### Farming Data
-      
+
+Test description      
     </div>
   </div>
   <div class="card logo-right">
     <div class="logo"><img src="assets/img/28.png"></div>
     <div class="text" markdown="1"> 
 ### Gravilog
-      
+
+Test description      
     </div>
   </div>
 </div>
