@@ -85,6 +85,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
           <div>Beginner</div>
         </div>
         <div class="flip-card-back" >
+          <div>
             Join our student teams to start your journey with 
             <ul>
               <li>Data Analytics,</li>
@@ -92,6 +93,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
               <li>Software Development,</li>
             </ul>
             with our wide variety of projects, training workshops, reading groups and external talks. 
+          </div>
         </div>
       </div>
     </div>      
@@ -102,6 +104,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
           <div>Intermediate to Advanced</div>
         </div>
         <div class="flip-card-back">
+          <div>
             Sharpen your skills and make an impact as a
             <ul>
               <li>Global Tech Volunteer for web dev, algo, DevOps and cloud,</li>
@@ -110,6 +113,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
               <li>Presenter at our workshops and talks, and/or</li>
               <li><a href="https://www.bridgesforenterprise.com/professionals">Professional Technology Mentor.</a></li>
             </ul>
+          </div>
         </div>
       </div>
     </div>      
@@ -120,6 +124,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
           <div>No coding</div>
         </div>
         <div class="flip-card-back">
+          <div>
             Contribute your unique set of skills to our technology team via
             <ul>
               <li>Business Analytics,</li>
@@ -128,6 +133,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
               <li>Branding and Design, </li>
               <li>and anything you can think of!</li>
             </ul>
+          </div>
         </div>
       </div>
     </div>      
@@ -137,6 +143,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
 <br>
 
 <div style="background-color: #f4f4f4;">  
+  <br>
   <br>
   <h2 style="text-align: center;">Tech Stack</h2>
   <div id="tech-stack">
