@@ -61,11 +61,11 @@ We are a group of passionate professionals and students from all over the world,
 
 
 
-<div markdown="1">
+<div id="disciplines">
   <br>  
-## Any technology discipline from anywhere in the world
+  <h2>Any technology discipline from anywhere in the world</h2>
 
-We leverage on a wide variety of technological solutions covering software, analytics, algorithms and cloud engineering to address vital needs of the organisation.
+<p>We leverage on a wide variety of technological solutions covering software, analytics, algorithms and cloud engineering to address vital needs of the organisation. Check out some of our ongoing projects <a href="#orojects">below</a>.</p>
 
 <br>  
 </div>
@@ -396,7 +396,7 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
           <ul>
             <li>Provides digital access through mini servers, portable solar kiosks and an in-house mobile app to 6 countries across Africa</li>
             <li>Recipient of numerous awards including <a href="https://microsoftcaregh.com/2019/07/25/a-solar-powered-mobile-digital-kiosk-that-empowers-women-across-rwanda/" target="_blank">Microsoft's affordable Access Initiative grant</a> and <a href="https://africa50innovationchallenge.com/solutions/" target="_blank">Special Recognition Award at Africa 50 Innovation Challenge</a> </li>
-            <li>Raised USD 500K as of Jan 2020 and on track to more rapid expansion; read more at <a href="https://techpoint.africa/2020/01/09/ared-profile/" target="_blank">their interview with Techpoint Africa</a></li>
+            <li>Raised 500K USD as of Jan 2020 and on track to more rapid expansion; read more at <a href="https://techpoint.africa/2020/01/09/ared-profile/" target="_blank">their interview with Techpoint Africa</a></li>
           </ul>
       </div>
     </div>
@@ -412,7 +412,7 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
       <div class="desc">
           <ul>
             <li>Gamification platform built by former Candy Crush developers</li>
-            <li>Raised USD 150K in <a href="https://disrupt-africa.com/2019/10/21/rwandan-ed-tech-startup-bag-innovation-raises-150k-seed-round" target="_blank">seed round</a>, and <a href="https://www.newtimes.co.rw/news/rwandan-duo-wins-over-rwf100-million-innovation-award" target="_blank">joint winner of Make-IT in Africa's contest</a> with an award of approx. 100K in USD </li>
+            <li>Raised 150K USD in <a href="https://disrupt-africa.com/2019/10/21/rwandan-ed-tech-startup-bag-innovation-raises-150k-seed-round" target="_blank">seed round</a>, and <a href="https://www.newtimes.co.rw/news/rwandan-duo-wins-over-rwf100-million-innovation-award" target="_blank">joint winner of Make-IT in Africa's contest</a> with an award of approx. 100K USD </li>
             <li><a href="https://www.cnbcafrica.com/2020/rwandan-start-ups-win-over-rwf100mn-innovation-award/" target="_blank">Interview with CNBC Africa</a></li>
           </ul>
       </div>
@@ -509,20 +509,22 @@ Here are some of the reasons why people join BfE Technology:
 <br>
 
 
-<div class="projects force-dark-link">
+<div id="projects" class="force-dark-link" style="background-color: #f4f4f4;margin-bottom: -100px;">
   <br>
   <h2>Featured Projects</h2>
   <div class="card">
     <h3>Startup-mentor matching algorithm</h3>
-    <div class="desc">This project balbla</div>
+    <div class="desc">BfE receives hundreds of startup applications yearly from all around the world. The selected few that enter our programme are assigned to a student team and paired with one or more professional mentors, based on a variety of factors such as location, industry and project needs. As our mentorship database rapidly grows, it becomes infeasible to do the pairing manually. Our Technology team is developing and testing an algorithm leveraging on classical statistical methods and Natural Language Processing tools to produce pairing recommendations based on a combination of structured and unstructured data.</div>
   </div>
   <div class="card">
     <h3>SEO and Website Analytics</h3>
-    <div class="desc">This project balbla</div>
+    <div class="desc">BfE receives 10K USD in kind from Google for Nonprofit every month to promote our opportunities and services via Google Ads. The challenge is to choose the appropriate keywords, regions, webpages and advertisement plan to maximise views and conversion rate from our target audience - mainly social entrepreneurs that may qualify for our free services. To make the best decision, our team has analysed past website traffic data in combination with startup application data, while consulting our global leadership team on strategic plans in expanding into new regions. <strong>This project will be available again soon as new configurations are needed for our new website and techniques such as A/B testing may be performed to obtain more robust evaluation of our strategies.</strong></div>
   </div>
   <div class="card">
     <h3>Members Portal</h3>
-    <div class="desc">This project balbla</div>
+    <div class="desc">This is a long-term project to build an intranet web platform within BfE, which will facilitate resource-sharing and automate many of the time-consuming manual operations. Basic integrations with internal apps such as Google Workspace, Slack, Hubspot and the new public website are being developed to provide an integral user experience within BfE. In the near future, We will also be building a new public platform that will make our learning resources available to the wider social impact and startup community via free subscriptions.</div>
   </div>
+  <br>
+  <br>
 </div>
 
