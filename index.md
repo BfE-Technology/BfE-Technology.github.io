@@ -487,8 +487,6 @@ All open roles and projects can be found <a href="https://opps.bridgesforenterpr
 
 **Professionals.** We host short volunteering projects throughout the year and occasionally recruit professionals into our global leadership team. You may also contribute by presenting at one-off training workshops and talks or offering one-off consultation sessions to startups and students.
 
-All roles are voluntary and unpaid.
-
 <br>
 <br>
 </div>
@@ -507,7 +505,7 @@ Here are some of the reasons why people join BfE Technology:
 <div class="map-reasons-to-join-wrapper">
   <div class="map-reasons-to-join" data-wordart-src="//cdn.wordart.com/json/10dk1hxhnb3x" data-wordart-show-attribution></div>
 </div>
-
+<div style="font-size: min(3vw, 12px);text-align:right;padding-right: min(4vw, 40px);color: gray;">Powered by wordart.com</div>
 <br>
 
 
