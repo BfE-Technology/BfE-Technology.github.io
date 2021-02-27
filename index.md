@@ -217,7 +217,7 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
     <div class="text"> 
       <h3>BAG Innovation</h3>
       <div class="shorttext">
-        <span>Gamified and AI-based digital learning platform for African youth | Rwanda</span><a href="">
+        <span>Gamified and AI-based digital learning platform for African youth | Rwanda</span>
         <a href="https://bag.rw/"><i class="fas fa-link"></i></a>
       </div>
       <div class="desc">
