@@ -214,6 +214,10 @@ body {
   font-weight: bold;
 }
  
+.force-black-link a {
+  color: black;
+  font-weight: bold;
+}
  
 @media only screen and (min-width: 550px) {
   #tech-stack img{
@@ -311,6 +315,11 @@ body {
 
 /* startups */
 
+.startups {
+  background-color: #F0E68C;
+  color: black;
+}
+
 .startups .card{
   display: grid;
   grid-template-columns: 1fr 5fr;
@@ -328,3 +337,19 @@ body {
   width: 100%;
 }
 
+
+.startups .card .text h2{
+   margin-bottom: 0;  
+   padding-left: 20px;
+   color: black;
+}
+
+.startups .card .text .shorttext{
+  font-size: smaller;  
+  padding-left: 20px;
+   color: black;
+}
+
+.startups .card .text .desc{
+  font-size: small;  
+}
