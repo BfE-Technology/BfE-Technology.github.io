@@ -214,7 +214,7 @@ If there is anything you want to contribute that is not listed here and yet woul
        <a href="https://developers.facebook.com/" target="_blank"><img src="assets/img/facebook.png"></a>
        <a href="https://developers.hubspot.com/docs/api/overview" target="_blank"><img src="assets/img/hubspot.png"></a>
        <a href="https://api.slack.com/" target="_blank"><img src="assets/img/slack.png"></a>
-       <a href="https://workspace.google.com/" target="_blank"><img style="height: 30px;transform: translate(0px, 5px);" src="assets/img/google_workspace.png"></a>
+       <a href="https://workspace.google.com/" target="_blank"><img style="height: 20px;transform: translate(0px, 10px);" src="assets/img/google_workspace.png"></a>
      </div>
       <br>
      <div>We are always looking for new tools that can improve our work. Currently, we are actively looking for developers with experience including but not limited to</div>
