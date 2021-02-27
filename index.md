@@ -359,6 +359,7 @@ Our students and professionals come from **consulting**, **finance**, **legal** 
 
 Our startups work in a diverse range of sectors. Read more about our in-house case studies [**here**](https://www.bridgesforenterprise.com/our-impact/case-studies/), or check out how some of them harness **cutting-edge technology** to scale their impact below.
 
+<br>
 
 </div>
 
