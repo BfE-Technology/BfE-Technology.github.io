@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div markdown="1">
+<div markdown="1" class="force-dark-link">
 
 <br>
   
