@@ -174,22 +174,6 @@ We are a group of passionate professionals and students from all over the world,
 If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know! ;)
 </div>
 
-<div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white;   background-size: cover;  background-position: 0% 95%;z-index:0; position: relative;" class="force-white-link" > 
-
-<div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: black;z-index: -1;opacity: 0.6;"> </div>
-
-<br>
-<h2>Join us today</h2>
-
-<div markdown="1">
-
-Our student projects are organised by our student chapters at the start of their academic term. We also have projects under the global team open year-round to students and professionals at various experience levels. The commitment levels are designed to take into account your full-time study/work schedule and will be specified in each project.
-
-We are also actively seeking experienced students or professionals to fill some vacancies in the global technology leadership team or to join our global mentor network. The commitment level for global leadership roles is typically less than a project, but depends on the actual responsibilities assigned and your personal interest. The commitment level for mentors is highly negotiable; you may choose to join our network first, and commit only when there are questions from students pertaining to your area of expertise and when you are free.
-
-
-Browse our open roles and projects now at <a href="https://opps.bridgesforenterprise.com/technology/">this page</a>. For mentorship applications, you may check out our <a href="https://www.bridgesforenterprise.com">main website</a> or email technology@bridgesforenterprise.com to find out more.  
-</div>
 
 <br>
 </div>
@@ -359,21 +343,39 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
 
 </div>
 
-<div class="startups force-dark-link">
+<div class="startups force-black-link">
+  <div class="card">
+    <div class="logo"><img src="assets/img/1.png"></div>
+    <div class="text"> 
+      <h2>ARED</h2>
+      <div class="shorttext">
+        <span>PaaS internet service and applications provider via solar powered kiosks</span>
+        <a href="http://www.a-r-e-d.com/" target="_blank"><i class="fas fa-link"></i></a>
+      </div>
+      <div class="desc">
+          <ul>
+            <li>Provides digital access through mini servers, portable solar kiosks and an in-house mobile app to 6 countries across Africa</li>
+            <li><a href="https://www.youtube.com/watch?v=-yFCinGjxeM&feature=youtu.be" target="_blank">3-minute video</a> about their business model</li>
+            <li>Recipient of numerous awards including <a href="https://microsoftcaregh.com/2019/07/25/a-solar-powered-mobile-digital-kiosk-that-empowers-women-across-rwanda/" target="_blank">Microsoft's affordable Access Initiative grant</a> and <a href="https://africa50innovationchallenge.com/solutions/" target="_blank">Special Recognition Award at Africa 50 Innovation Challenge</a> </li>
+            <li>Read <a href="https://techpoint.africa/2020/01/09/ared-profile/" target="_blank">an Techpoint Africa article about the startup</a>, where they raised 500K USD as of Jan 2020 and are on track to even more rapid expansion</li>
+          </ul>
+      </div>
+    </div>
+  </div>
   <div class="card">
     <div class="logo"><img src="assets/img/7.png"></div>
     <div class="text"> 
       <h2>BAG Innovation</h2>
       <div class="shorttext">
         <span>Gamified and AI-based digital learning platform for African youth </span>
-        <a href="https://bag.rw/"><i class="fas fa-link"></i></a>
+        <a href="https://bag.rw/" target="_blank"><i class="fas fa-link"></i></a>
       </div>
       <div class="desc">
           <ul>
-            <li>Gamification platform built by the former Candy Crush creator. See a <a href="https://youtu.be/MkxERat9jCM">one-minute video presentation of their work</a></li>
-            <li>Raised USD 150K in <a href="https://disrupt-africa.com/2019/10/21/rwandan-ed-tech-startup-bag-innovation-raises-150k-seed-round">seed round</a></li>
-            <li><a href="https://www.newtimes.co.rw/news/rwandan-duo-wins-over-rwf100-million-innovation-award">Joint winner of Make-IT in Africa's contest</a> with an award of approx. 100K in USD </li>
-            <li><a href="https://www.cnbcafrica.com/2020/rwandan-start-ups-win-over-rwf100mn-innovation-award/">Interview with CNBC Africa</a></li>
+            <li>Gamification platform built by former Candy Crush developers</li>
+            <li><a href="https://youtu.be/MkxERat9jCM" target="_blank">1-minute video presentation</a> of their work</li>
+            <li>Raised USD 150K in <a href="https://disrupt-africa.com/2019/10/21/rwandan-ed-tech-startup-bag-innovation-raises-150k-seed-round" target="_blank">seed round, and <a href="https://www.newtimes.co.rw/news/rwandan-duo-wins-over-rwf100-million-innovation-award" target="_blank">joint winner of Make-IT in Africa's contest</a> with an award of approx. 100K in USD </li>
+            <li><a href="https://www.cnbcafrica.com/2020/rwandan-start-ups-win-over-rwf100mn-innovation-award/" target="_blank">Interview with CNBC Africa</a></li>
           </ul>
       </div>
     </div>
@@ -382,28 +384,71 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
     <div class="logo" style="background-color:"><img src="assets/img/8_black.png"></div>
     <div class="text"> 
       <h2>Beat Drone</h2>
-      <div class="shorttext">Blabla | Rwanda</div>
-      <div class="desc">Test description</div>
+      <div class="shorttext">
+        <span>Nigerian drone service provider </span>
+        <a href="http://www.beatdrone.co/" target="_blank"><i class="fas fa-link"></i></a>
+      </div>
+      <div class="desc">
+          <ul>
+            <li>Provide drone services to businesses and governments <a href="http://beatdrone.co/blog/" target="_blank">across sectors</a> such as agriculture, warehouse inventory and construction</li>
+            <li>Helped local government and farmers in the fight against COVID-19 by <a href="https://disrupt-africa.com/2020/04/20/nigerian-startup-beat-drone-spraying-disinfectant-to-fight-covid-19/" target="_blank">using drones to spray agricultural disinfectants</a></li>
+            <li>Featured in a <a href="https://www.youtube.com/watch?v=ud__YBJjKxU" target="_blank">2-minute news clip by TRT World</a></li>
+          </ul>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="logo"><img src="assets/img/Coronet.webp"></div>
+    <div class="text"> 
+      <h2>Gravilog</h2>
+      <div class="shorttext">
+        <span>Blockchain-based hair product supply chain from ethical global manufacturers to South African salons </span>
+        <a href="https://www.coronetblockchain.com/" target="_blank"><i class="fas fa-link"></i></a>
+      </div>
+      <div class="desc">
+          <ul>
+            <li>End-to-end supply chain management built on IBM blockchain</li>
+            <li><a href="https://youtu.be/324XsWmpv8I" target="_blank">3-minute video presentation</a> of their work</li>
+            <li><a href="https://www.lionessesofafrica.com/blog/2020/6/28/startup-story-of-pretty-kubyane" target="_blank">Interview with Lionesses of Africa</a></li>
+          </ul>
+      </div>
     </div>
   </div>
   <div class="card">
     <div class="logo"><img src="assets/img/24.png"></div>
     <div class="text"> 
       <h2>Farming Data</h2>
-      <div class="shorttext">Blabla | Rwanda</div>
-      <div class="desc">Test description</div>
-    </div>
-  </div>
-  <div class="card">
-    <div class="logo"><img src="assets/img/28.png"></div>
-    <div class="text"> 
-      <h2>Gravilog</h2>
-      <div class="shorttext">Blabla | Rwanda</div>
-      <div class="desc">Test description</div>
+      <div class="shorttext">
+        <span>Colombia-based agricultural produce digital trading platform</span>
+        <a href="https://farmingdata.io/" target="_blank"><i class="fas fa-link"></i></a>
+      </div>
+      <div class="desc">
+          <ul>
+            <li>Founded and advised by PhDs and researchers from University of Cambridge; see an <a href="https://www.youtube.com/watch?v=BWkMiNHI57o">interview with the team</a></li>
+            <li>Won <a href="https://www.gatescambridge.org/about/news/alumna-leads-international-consortium-for-smallholders-in-colombia/">approx. 445K USD funding</a> from Innovate UK Grant and backed by <a href="https://farmingdata.io/about/">Cambridge Judge Business School and the UK Prosperity Fund, among others</a></li>
+            <li><a href="https://www.youtube.com/watch?v=qe51cq-GeBE" target="_blank">30-second video</a> about the pre-release version of their app, Listo, in 2018, or a <a href="https://www.youtube.com/watch?v=PhPvHw6VKWE" target="_blank">more recent one</a> in 2021 (in Spanish with auto-translated subtitles)</li>
+          </ul>
+      </div>
     </div>
   </div>
 </div>
            
+<div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white;   background-size: cover;  background-position: 0% 95%;z-index:0; position: relative;" class="force-white-link" > 
+
+<div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: black;z-index: -1;opacity: 0.6;"> </div>
+
+<br>
+<h2>Join us today</h2>
+
+<div markdown="1">
+
+Our student projects are organised by our student chapters at the start of their academic term. We also have projects under the global team open year-round to students and professionals at various experience levels. The commitment levels are designed to take into account your full-time study/work schedule and will be specified in each project.
+
+We are also actively seeking experienced students or professionals to fill some vacancies in the global technology leadership team or to join our global mentor network. The commitment level for global leadership roles is typically less than a project, but depends on the actual responsibilities assigned and your personal interest. The commitment level for mentors is highly negotiable; you may choose to join our network first, and commit only when there are questions from students pertaining to your area of expertise and when you are free.
+
+
+Browse our open roles and projects now at <a href="https://opps.bridgesforenterprise.com/technology/">this page</a>. For mentorship applications, you may check out our <a href="https://www.bridgesforenterprise.com">main website</a> or email technology@bridgesforenterprise.com to find out more.  
+</div>
 
 
 <div markdown="1">
