@@ -14,4 +14,21 @@ github_username:  BfE-Technology
 google-analytics:
   id: ""
 
+# Social icons displayed in footer
+social:
+    email:          leadership@bridgesforenterprise.com
+    website:        https://www.bridgesforenterprise.com
+    facebook:       https://www.facebook.com/BridgesforEnterprise/
+    flickr:
+    dribbble:
+    github:         https://github.com/BfE-Technology/BfE-Technology.github.io
+    googleplus:
+    instagram:      https://www.instagram.com/bfe.global/
+    linkedin:       https://www.linkedin.com/company/bridges-for-enterprise/
+    pinterest:
+    twitter:        
+    vimeo:          
+    youtube:        https://www.youtube.com/channel/UC6LhJnDH9UwlMhZLQShEl0A
+    medium:         https://medium.com/bridges-for-enterprise
+    
 exclude: ['package.json', 'src' , 'node_modules']
