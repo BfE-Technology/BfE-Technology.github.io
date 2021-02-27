@@ -304,3 +304,23 @@ body {
   }
 }
 
+
+/* startups */
+
+.startups .card{
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  grid-column-gap: min(5vw, 150px);
+  margin: 20px 0;
+}
+
+.startups .card .logo{
+  width: min(20vw, 150px);
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
+.startups .card .logo img{
+  width: 100%;
+}
+
