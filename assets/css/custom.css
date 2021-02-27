@@ -47,13 +47,6 @@ body {
   /* Remove this if you don't want the 3D effect */
 }
 
-.experience-levels .flip-card{
-  height: 250px;
-}
-.experience-levels .flip-card-front{
-  overflow: hidden;
-}
-
 
 /* image */
 .flip-card-front > img {
@@ -61,12 +54,6 @@ body {
   height: 420px;
   object-fit: cover;
   background-position: center center;
-}
-
-.experience-levels .flip-card-front > img{
-    height: 700px;
-    -webkit-transform: scaleX(-1);
-    transform: scaleX(-1);
 }
 
 
@@ -231,7 +218,7 @@ body {
   padding: 20px;
 }
 
-/* experience-level cards */
+/* experience-level card images */
 #beginner{
   object-position: -730px -450px;
 }
@@ -241,3 +228,76 @@ body {
 #no-coding{
   object-position: -50px -450px;
 }
+
+.experience-levels{
+  grid-column-gap: 25px;
+  grid-row-gap: 5px;
+}
+
+.experience-levels .flip-card{
+  height: 250px;
+}
+.experience-levels .flip-card-front{
+  overflow: hidden;
+}
+.experience-levels .flip-card-back > div{
+  font-size: 13px;
+  margin: 20px;
+}
+
+.experience-levels .flip-card-front > img{
+    height: 700px;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+@media (max-width: 1200px) {
+  .experience-levels .flip-card-front > img{
+    height: 800px;
+    -webkit-transform: scaleY(-1);
+    transform: scaleY(-1);
+  }
+  .experience-levels .flip-card{
+    height: 160px;
+  }
+
+  #beginner{
+    object-position: -250px 0;
+  }
+  #intermediate-advanced{
+    object-position: -250px 200px;
+  }
+  #no-coding{
+    object-position: -250px 500px;
+  }
+}
+
+
+@media (max-width: 540px) {
+  .experience-levels .flip-card-front > img{
+    height: 700px;
+    -webkit-transform: scaleY(-1);
+    transform: scaleY(-1);
+  }
+  .experience-levels .flip-card{
+    height: 180px;
+  }
+  .experience-levels .flip-card-front > div{
+    font-size: 20px;
+  }
+  .experience-levels .flip-card-back > div{
+    font-size: 12px;
+    margin: 10px;
+  }
+
+  #beginner{
+    object-position: -730px 0;
+  }
+  #intermediate-advanced{
+    object-position: -730px 250px;
+  }
+  #no-coding{
+    object-position: -730px 500px;
+  }
+}
+
