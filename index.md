@@ -326,16 +326,24 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
   </div>
   <div id="stats">
     <div class="stats-container">
-      <div class="number">77</div>
+      <div class="number">89</div>
       <div class="desc">startups served</div>
     </div>
     <div class="stats-container">
-      <div class="number">300+</div>
-      <div class="desc">students and professionals</div>
+      <div class="number">348</div>
+      <div class="desc">professional mentors</div>
     </div>
     <div class="stats-container">
-      <div class="number">20+</div>
+      <div class="number">30+</div>
       <div class="desc">countries where BfE leaves a footprint</div>
+    </div>
+    <div class="stats-container">
+      <div class="number">499</div>
+      <div class="desc">members who have contributed to our cause</div>
+    </div>
+    <div class="stats-container">
+      <div class="number">221</div>
+      <div class="desc">active members</div>
     </div>
     <div class="stats-container">
       <div class="number">5</div>
