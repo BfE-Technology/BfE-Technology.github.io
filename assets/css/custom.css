@@ -207,6 +207,12 @@ body {
   color: white;
   font-weight: bold;
 }
+
+.force-dark-link a {
+  color: #163752;
+  font-weight: bold;
+}
+ 
  
 @media only screen and (min-width: 550px) {
   #tech-stack img{
