@@ -173,7 +173,7 @@ We are a group of passionate professionals and students from all over the world,
 </div>
   
 
-<div markdown="1">
+<div markdown="1" class="force-dark-link">
 <br>
 If any of them sounds like what you may be interested in, check out our <a href="https://opps.bridgesforenterprise.com">available roles</a> now! If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know via <a href="mailto:technology@bridgesforenterprise.com">technology@bridgesforenterprise.com</a>.
 <br>
