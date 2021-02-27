@@ -147,7 +147,6 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
   <br>
   <h2 style="text-align: center;">Tech Stack</h2>
   <div id="tech-stack">
-     <br>
      <div style="display:flex; flex-wrap: wrap;">   
        <a href="https://azure.microsoft.com/" target="_blank"><img src="assets/img/azure.svg"></a>
        <a href="https://azure.microsoft.com/" target="_blank"><img src="assets/img/github.png"></a>
@@ -209,6 +208,7 @@ Be part of a global community that cares deeply about applying professional skil
 Our startups work in a diverse range of sectors. Check out how some of them harness cutting-edge technology to scale their impact.
 
 <br>
+</div>
 
 <div class="three-cols">
   <div class="card">
@@ -227,12 +227,10 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
     <button>test </button>
   </div>
 </div>
-</div>
            
            
 
 
-<div markdown="1">
 <div style="background-color: #163752; color: white;" class="full-width" markdown="1">
 <br>
 ### Inspire &centerdot; Invent &centerdot; Impact
@@ -241,7 +239,6 @@ We design software, analytics and algorithmic solutions addressing the most vita
 
 some fancy stats
 <br>  
-</div>
 </div>
 
 <div markdown="1">
