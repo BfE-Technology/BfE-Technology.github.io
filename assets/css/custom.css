@@ -454,8 +454,19 @@ body {
   padding: 0 10px !important;
 }
 
-.map-reasons-to-join{
+#featured-projects .card{
+  background-color: white;
+  box-shadow: 0 2px 8px rgba(22,55,82,0.08);
+  padding: 30px 20px;
+  margin: 20px 0;
 }
+
+#featured-projects .card h3{
+  margin-top: 0;
+}
+
+
+/* footer */
 
 .footer .icons{
     margin: 20px 0;
