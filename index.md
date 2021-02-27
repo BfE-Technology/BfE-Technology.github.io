@@ -64,6 +64,9 @@ We are a group of passionate professionals and students from all over the world,
 <div markdown="1">
   <br>  
 ### Any technology discipline from anywhere in the world
+
+We leverage on a wide variety of technological solutions to address vital needs of the organisation.
+
   <br>  
 </div>
 
@@ -75,7 +78,7 @@ We are a group of passionate professionals and students from all over the world,
           <img src="assets/img/DataAnalytics.jpg">
         </div>
         <div class="flip-card-back">
-          <p>We perform data analyses to understand the effectiveness of our strategies and operational models, and work with other divisions to implement our proposed suggestions. We come from a mix of business and technology backgrounds, and enjoy using a minimalist framework to address the most sophisticated business needs. Some of the cool data we have looked at include startup application data, crowdfunding data and web traffic data for SEO optimisation.</p>
+          <p>Discover insights from our large influx of structured and unstructured data, and propose solutions to improve our strategies and operational models</p>
         </div>
       </div>
     </div>      
@@ -86,7 +89,7 @@ We are a group of passionate professionals and students from all over the world,
           <img src="assets/img/WebAppDev.jpg">
         </div>
         <div class="flip-card-back">
-          <p>We are the largest group in BfE, spearheading an ambitious initiaitve to build an extensive online platform for every aspect of BfE's work. We love building various things from small tools to large platforms, and abhor clicking our mouse like a caveman. We are soon releasing our self-hosted website and intranet, with various integrations with our internal tools such as Slack and Hubspot to connect the awesome people in BfE across the world. Many exciting features and apps are being proposed and developed by our teammates from around the world.</p>
+          <p>Develop new features, tools and apps as part of BfE's growing digital platform, connecting our global user base and making our resources more widely accessible</p>
         </div>
       </div>
     </div>      
@@ -97,7 +100,7 @@ We are a group of passionate professionals and students from all over the world,
           <img src="assets/img/MLAlgo.jpg">
         </div>
         <div class="flip-card-back">
-          <p> We design and implement advanced algorithms and machine learning tools to automate complex decision-making processes in BfE. While some of us use NLP tools to help recommend investors for a given startup, others are looking at startup-mentor matching formulated as a graph matching problem, or advising the development of a voting system for startup selection. If you see a bunch of people arguing over maths on a whiteboard or getting all hyped about a new ML library in Python, that is us!</p>
+          <p>Design and implement advanced algorithms and machine learning tools to automate some of the most complex decision-making processes in BfE</p>
         </div>
       </div>
     </div>  
@@ -108,7 +111,7 @@ We are a group of passionate professionals and students from all over the world,
           <img src="assets/img/DevOps.jpg">
         </div>
         <div class="flip-card-back">
-          <p> DevOps knowledge is increasingly important, if not essential, for anyone working or aspiring to work as a software engineer. We design and implement DevOps processes from continous integration, testing to deployment, improving code collaboration across the globe. While we are only at our beginning with a minimal set of CD/CI configurations via GitHub Actions, we have many possible additions planned down the road to help manage our codebase and make the tech life easier. The nature of our work means that we are involved in high-level strategic decision making in the Technology Division.</p>
+          <p>Design and maintain a robust set of development toolkit and integration pipelines to ensure smooth delivery of our applications</p>
         </div>
       </div>
     </div>       
@@ -119,18 +122,18 @@ We are a group of passionate professionals and students from all over the world,
           <img src="assets/img/More.jpg">
         </div>
         <div class="flip-card-back">
-          <p>We are the glue that brings different components of tech together, and products are essentially our babies. We generate new feature ideas from our vision of BfE, and lay out the roadmap for execution. We liase with people across tech and non-tech teams to understand their requests and turn them into further improvements. We are from all kinds of backgrounds, with a strong passion in both technology and entrepreneurship. Most of us do not code, but that doesn't mean we are any less familiar with the tech lingua franca!</p>
+          <p>Be the glue that brings different parts of tech together, lead feature ideation and lay out the roadmap for execution</p>
         </div>
       </div>
     </div>
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          <div>Cloud & Security</div>
+          <div>Cyber Security</div>
           <img src="assets/img/CloudSecurity.jpg">
         </div>
         <div class="flip-card-back">
-          <p>Many in-house technology projects rely on our cloud servers, which needs to host our data securely, communicate with clients in different regions with low latency, and be managed within our budget. We work with DevOps to manage our new infrastructure-as-code process and investigate security loopholes in both our code and our server setup. We occassionally work with DataOps and our internal legal advisors to make sure our tech work is compliant with GDPR regulations.</p>
+          <p>Examine and maintain our tech stack to identify and patch critical security loopholes, while working with DataOps and our legal advisor to ensure compliance with data protection regulations</p>
         </div>
       </div>
     </div> 
@@ -141,7 +144,7 @@ We are a group of passionate professionals and students from all over the world,
           <img src="assets/img/DataOps.jpg">
         </div>
         <div class="flip-card-back">
-          <p>DataOps in BfE refers to the design and management of our internal database and any operational procedures that can alter our database, usually by people outside the Technology Division (as the other case is handled by DevOps). We work very closely with BfE global leadership to establish protocols for various procedures and develop a clear vision about how BfE's organisational structure should transform to meet our strategic needs. We code less often than the rest, usually in the context of database management or automation with DevOps. But when we do code, we rock.</p>
+          <p>Oversee the design and maintainence of our internal database, and work with global leadership to establish operational procedures that may alter the database</p>
         </div>
       </div>
     </div> 
@@ -152,7 +155,7 @@ We are a group of passionate professionals and students from all over the world,
           <img src="assets/img/BrandingDesign.jpg">
         </div>
         <div class="flip-card-back">
-          <p>We report primarily to BfE's Outreach Division. When we are in Tech, it is usually to convert the branding strategies and guidelines developed in Outreach into standardised stylesheet files that will be enforced within Tech. We are usually people who are passionate about front-end development, UI deisgn, digital media and branding.</p>
+          <p>Oversee branding strategies and guidelines for all types of digital media under the Outreach division, while converting them into standardised stylesheets to be imposed across the Technology Division</p>
         </div>
       </div>
     </div> 
@@ -163,7 +166,7 @@ We are a group of passionate professionals and students from all over the world,
           <img src="assets/img/TechnicalAdvisory.jpg">
         </div>
         <div class="flip-card-back">
-          <p>We report directly to BfE's Incubation Division, although we share many training and partnerships with Technology. We provide technical consulting to our startups as part of BfE's flagship incubation programme. As our startups range from solar energy firms to blockchain companies, we have not just programmers but also mechanical enginners, electronic engineers, material scientists, medical students... and many more. For programmers, it is easy (and often encouraged) for people working on internal projects to switch over to our side, and vice versa.</p>
+          <p>Oversee the Technical Advisory programme within Incubation, while working with the Technology Division to host joint technical trainings</p>
         </div>
       </div>
     </div> 
@@ -174,9 +177,7 @@ We are a group of passionate professionals and students from all over the world,
 If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know! ;)
 </div>
 
-
 <br>
-</div>
 
 
 <div style="background-color: #f4f4f4;">  
@@ -479,3 +480,8 @@ Browse our open roles and projects now at <a href="https://opps.bridgesforenterp
 
 **We go above and beyond.** Unlike doing a corporate job, everyone is involved in BfE on a voluntary basis, meaning that we are not here to be a small cog in a big machine and focus just on our small bit of code, but to take ownership and enact changes we believe will better serve our cause. We also echo with the principle of open-source code, and whenever we can (that is, without compromising the security of our users' data), we encourage you to open-source a modified version of the code you have done in BfE as our way to give back to the tech community.
 </div>
+
+
+Featured project:
+- Some of the cool data we have looked at include startup application data, crowdfunding data and web traffic data for SEO optimisation.
+- While some of us use NLP tools to help recommend investors for a given startup, others are looking at startup-mentor matching formulated as a graph matching problem, or advising the development of a voting system for startup selection. If you see a bunch of people arguing over maths on a whiteboard or getting all hyped about a new ML library in Python, that is us!
