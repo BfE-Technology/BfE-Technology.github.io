@@ -217,24 +217,28 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
     <div class="logo"><img src="assets/img/smile-entrepreneur.jpg"></div>
     <div class="text" markdown="1"> 
 ### ARED
+      
     </div>
   </div>
   <div class="card logo-right">
     <div class="logo"><img src="assets/img/smile-entrepreneur.jpg"></div>
     <div class="text" markdown="1"> 
 ### BAG Innovation
+      
     </div>
   </div>
   <div class="card logo-left">
     <div class="logo"><img src="assets/img/smile-entrepreneur.jpg"></div>
     <div class="text" markdown="1"> 
 ### Beat Drone
+      
     </div>
   </div>
   <div class="card logo-right">
     <div class="logo"><img src="assets/img/smile-entrepreneur.jpg"></div>
     <div class="text" markdown="1"> 
 ### Farming Data
+      
     </div>
   </div>
 </div>
