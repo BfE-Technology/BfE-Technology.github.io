@@ -1,6 +1,5 @@
 .about > div{
-    padding: 0 max(calc(50vw - 480px), 30px);
-  }
+  padding: 0 max(calc(50vw - 480px), 30px);
 }
 
 .about {
