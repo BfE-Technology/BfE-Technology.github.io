@@ -183,7 +183,6 @@ If there is anything you want to contribute that is not listed here and yet woul
 
 <div style="background-color: #f4f4f4;">  
   <br>
-  <br>
   <h2 style="text-align: center;">Tech Stack</h2>
   <div id="tech-stack">
      <div style="display:flex; flex-wrap: wrap;">   
