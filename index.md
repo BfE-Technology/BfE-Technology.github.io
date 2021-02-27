@@ -509,7 +509,7 @@ Here are some of the reasons why people join BfE Technology:
 <br>
 
 
-<div id="projects" class="force-dark-link" style="background-color: #f4f4f4;margin-bottom: -100px;">
+<div id="featured-projects" class="force-dark-link" style="background-color: #f4f4f4;margin-bottom: -100px;">
   <br>
   <h2>Featured Projects</h2>
   <div class="card">
@@ -524,6 +524,9 @@ Here are some of the reasons why people join BfE Technology:
     <h3>Members Portal</h3>
     <div class="desc">This is a long-term project to build an intranet web platform within BfE, which will facilitate resource-sharing and automate many of the time-consuming manual operations. Basic integrations with internal apps such as Google Workspace, Slack, Hubspot and the new public website are being developed to provide an integral user experience within BfE. In the near future, We will also be building a new public platform that will make our learning resources available to the wider social impact and startup community via free subscriptions.</div>
   </div>
+  <br>
+  <br>
+  <p>See how you may contribute to the projects from different <a href="#disciplines" data-scroll>disciplines</a>.</p>
   <br>
   <br>
 </div>
