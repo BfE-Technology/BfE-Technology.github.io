@@ -226,7 +226,7 @@ If there is anything you want to contribute that is not listed here and yet woul
        <a href="https://vuejs.org/" target="_blank"><img src="assets/img/vue.png"></a>
      </div>
       <br>
-     <div>If you are looking to join our Technical Advisory team to help our startups, they cover a much broader spectrum of work from <strong>app development</strong> to <strong>fintech</strong> and <strong>machine learning</strong> - in short, there is almost always something for you! </div>
+     <div>If you are looking to join our Technical Advisory team to help our startups, they cover a much broader spectrum of work from <strong>app development</strong> to <strong>blockchain</strong> and <strong>machine learning</strong> - in short, there is almost always something for you! </div>
       <br>
       <br>
       <br>
