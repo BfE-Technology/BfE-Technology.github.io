@@ -174,10 +174,11 @@ We leverage on a wide variety of technological solutions to address vital needs 
   
 
 <div markdown="1">
+<br>
 If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know! ;)
+<br>
 </div>
 
-<br>
 
 
 <div style="background-color: #f4f4f4;">  
@@ -339,14 +340,14 @@ Be part of a global community that cares deeply about empowering early-stage soc
 
 Our students and professionals come from **consulting**, **finance**, **legal** and **technology** backgrounds, covering a broad spectrum of knowledge and experiences and are found [**across the globe**](https://www.bridgesforenterprise.com).
 
-Our startups work in a diverse range of sectors. Check out how some of them harness **cutting-edge technology** to scale their impact below, or read more about our in-house case studies [**here**](https://www.bridgesforenterprise.com/our-impact/case-studies/).      
+Our startups work in a diverse range of sectors. Read more about our in-house case studies [**here**](https://www.bridgesforenterprise.com/our-impact/case-studies/), or check out how some of them harness **cutting-edge technology** to scale their impact below.
 
 
 </div>
 
 <div class="startups force-black-link">
-  <div class="card">
-    <div class="logo"><img src="assets/img/1.png"></div>
+  <div class="card video-left">
+    <div class="video"><iframe src="https://www.youtube.com/embed/-yFCinGjxeM?start=42&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
     <div class="text"> 
       <h2>ARED</h2>
       <div class="shorttext">
@@ -356,15 +357,14 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
       <div class="desc">
           <ul>
             <li>Provides digital access through mini servers, portable solar kiosks and an in-house mobile app to 6 countries across Africa</li>
-            <li><a href="https://www.youtube.com/watch?v=-yFCinGjxeM&feature=youtu.be" target="_blank">3-minute video</a> about their business model</li>
             <li>Recipient of numerous awards including <a href="https://microsoftcaregh.com/2019/07/25/a-solar-powered-mobile-digital-kiosk-that-empowers-women-across-rwanda/" target="_blank">Microsoft's affordable Access Initiative grant</a> and <a href="https://africa50innovationchallenge.com/solutions/" target="_blank">Special Recognition Award at Africa 50 Innovation Challenge</a> </li>
             <li>Read <a href="https://techpoint.africa/2020/01/09/ared-profile/" target="_blank">an Techpoint Africa article about the startup</a>, where they raised 500K USD as of Jan 2020 and are on track to even more rapid expansion</li>
           </ul>
       </div>
     </div>
   </div>
-  <div class="card">
-    <div class="logo"><img src="assets/img/7.png"></div>
+  <div class="card video-right">
+    <div class="video"><iframe src="https://www.youtube.com/embed/ektz966A188?modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
     <div class="text"> 
       <h2>BAG Innovation</h2>
       <div class="shorttext">
@@ -374,15 +374,14 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
       <div class="desc">
           <ul>
             <li>Gamification platform built by former Candy Crush developers</li>
-            <li><a href="https://youtu.be/MkxERat9jCM" target="_blank">1-minute video presentation</a> of their work</li>
             <li>Raised USD 150K in <a href="https://disrupt-africa.com/2019/10/21/rwandan-ed-tech-startup-bag-innovation-raises-150k-seed-round" target="_blank">seed round</a>, and <a href="https://www.newtimes.co.rw/news/rwandan-duo-wins-over-rwf100-million-innovation-award" target="_blank">joint winner of Make-IT in Africa's contest</a> with an award of approx. 100K in USD </li>
             <li><a href="https://www.cnbcafrica.com/2020/rwandan-start-ups-win-over-rwf100mn-innovation-award/" target="_blank">Interview with CNBC Africa</a></li>
           </ul>
       </div>
     </div>
   </div>
-  <div class="card">
-    <div class="logo" style="background-color:"><img src="assets/img/8_black.png"></div>
+  <div class="card video-left">
+    <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/ud__YBJjKxU?start=47&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
     <div class="text"> 
       <h2>Beat Drone</h2>
       <div class="shorttext">
@@ -398,8 +397,8 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
       </div>
     </div>
   </div>
-  <div class="card">
-    <div class="logo"><img src="assets/img/Coronet.webp"></div>
+  <div class="card video-right">
+    <div class="video"><img src="assets/img/Coronet.webp"></div>
     <div class="text"> 
       <h2>Gravilog</h2>
       <div class="shorttext">
@@ -415,8 +414,8 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
       </div>
     </div>
   </div>
-  <div class="card">
-    <div class="logo"><img src="assets/img/24.png"></div>
+  <div class="card video-left">
+    <div class="video"><img src="assets/img/24.png"></div>
     <div class="text"> 
       <h2>Farming Data</h2>
       <div class="shorttext">
