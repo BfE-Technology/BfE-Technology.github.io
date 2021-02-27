@@ -63,7 +63,7 @@ We are a group of passionate professionals and students from all over the world,
 
 <div markdown="1">
   <br>  
-### Any technology discipline from anywhere in the world
+## Any technology discipline from anywhere in the world
 
 We leverage on a wide variety of technological solutions to address vital needs of the organisation.
 
