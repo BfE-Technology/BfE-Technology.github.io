@@ -469,6 +469,8 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
   </div>
   <br>
   <br>
+  <br>
+  <br>
 </div>
            
 <div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white;   background-size: cover;  background-position: 0% 95%;z-index:0; position: relative;" class="force-white-link" > 
@@ -479,12 +481,16 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
 
 <div markdown="1">
 
-Our student projects are organised by our student chapters at the start of their academic term. We also have projects under the global team open year-round to students and professionals at various experience levels. The commitment levels are designed to take into account your full-time study/work schedule and will be specified in each project.
+All open roles and projects can be found <a href="https://opps.bridgesforenterprise.com/technology/">here</a>. If you are to join as a technology mentor, check out our <a href="https://www.bridgesforenterprise.com">main website</a>. You are always welcome to email technology@bridgesforenterprise.com to find out more.
 
-We are also actively seeking experienced students or professionals to fill some vacancies in the global technology leadership team or to join our global mentor network. The commitment level for global leadership roles is typically less than a project, but depends on the actual responsibilities assigned and your personal interest. The commitment level for mentors is highly negotiable; you may choose to join our network first, and commit only when there are questions from students pertaining to your area of expertise and when you are free.
+**Students.** Our projects are organised by our student chapters at the start of the academic term. There are also global projects available for students with advanced experience and occasionally summer internships for students in early undergraduate years.
 
+**Professionals.** We host short volunteering projects throughout the year and occasionally recruit professionals into our global leadership team. You may also contribute by presenting at one-off training workshops and talks or offering one-off consultation sessions to startups and students.
 
-Browse our open roles and projects now at <a href="https://opps.bridgesforenterprise.com/technology/">this page</a>. For mentorship applications, you may check out our <a href="https://www.bridgesforenterprise.com">main website</a> or email technology@bridgesforenterprise.com to find out more.  
+All roles are voluntary and unpaid.
+
+<br>
+<br>
 </div>
 </div>
 
