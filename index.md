@@ -346,12 +346,20 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
       <div class="desc">active members</div>
     </div>
     <div class="stats-container">
+      <div class="number">30+</div>
+      <div class="desc">nationalities</div>
+    </div>
+    <div class="stats-container">
       <div class="number">5</div>
       <div class="desc">city chapters</div>
     </div>
     <div class="stats-container">
       <div class="number">2</div>
-      <div class="desc">web platforms<br>(with 2 more on the way)</div>
+      <div class="desc">major web platforms<br>(with 2 more on the way)</div>
+    </div>
+    <div class="stats-container">
+      <div class="number">65</div>
+      <div class="desc">members have contributed to<br>our growing technology team</div>
     </div>
   </div>
   <br>  
