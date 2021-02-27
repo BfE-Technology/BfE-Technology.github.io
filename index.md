@@ -374,7 +374,7 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
           <ul>
             <li>Gamification platform built by former Candy Crush developers</li>
             <li><a href="https://youtu.be/MkxERat9jCM" target="_blank">1-minute video presentation</a> of their work</li>
-            <li>Raised USD 150K in <a href="https://disrupt-africa.com/2019/10/21/rwandan-ed-tech-startup-bag-innovation-raises-150k-seed-round" target="_blank">seed round, and <a href="https://www.newtimes.co.rw/news/rwandan-duo-wins-over-rwf100-million-innovation-award" target="_blank">joint winner of Make-IT in Africa's contest</a> with an award of approx. 100K in USD </li>
+            <li>Raised USD 150K in <a href="https://disrupt-africa.com/2019/10/21/rwandan-ed-tech-startup-bag-innovation-raises-150k-seed-round" target="_blank">seed round</a>, and <a href="https://www.newtimes.co.rw/news/rwandan-duo-wins-over-rwf100-million-innovation-award" target="_blank">joint winner of Make-IT in Africa's contest</a> with an award of approx. 100K in USD </li>
             <li><a href="https://www.cnbcafrica.com/2020/rwandan-start-ups-win-over-rwf100mn-innovation-award/" target="_blank">Interview with CNBC Africa</a></li>
           </ul>
       </div>
