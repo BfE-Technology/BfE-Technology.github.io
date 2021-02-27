@@ -205,11 +205,10 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
   
 Be part of a global community that cares deeply about empowering early-stage social enterprises with our professional skills. 
 
-Our students and professionals come from consulting, finance, legal and technical backgrounds, covering a broad spectrum of knowledge and experiences and are found [**across the globe**](https://www.bridgesforenterprise.com).
+Our students and professionals come from **consulting**, **finance**, **legal** and **technology** backgrounds, covering a broad spectrum of knowledge and experiences and are found [**across the globe**](https://www.bridgesforenterprise.com).
 
 Our startups work in a diverse range of sectors. Check out how some of them harness **cutting-edge technology** to scale their impact.
 
-<br>
 </div>
 
 <div class="startups">
