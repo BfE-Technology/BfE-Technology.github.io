@@ -65,7 +65,7 @@ We are a group of passionate professionals and students from all over the world,
   <br>  
   <h2>Any technology discipline from anywhere in the world</h2>
 
-<p>We leverage on a wide variety of technological solutions covering software, analytics, algorithms and cloud engineering to address vital needs of the organisation. Check out some of our ongoing projects <a href="#orojects">below</a>.</p>
+<p>We leverage on a wide variety of technological solutions covering software, analytics, algorithms and cloud engineering to address vital needs of the organisation. Check out some of our ongoing projects <a href="#projects" data-scroll>below</a>.</p>
 
 <br>  
 </div>
