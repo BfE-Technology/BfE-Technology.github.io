@@ -334,12 +334,16 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
       <div class="desc">students and professionals</div>
     </div>
     <div class="stats-container">
-      <div class="number">77</div>
-      <div class="desc">startups served</div>
+      <div class="number">20+</div>
+      <div class="desc">countries where BfE leaves a footprint</div>
     </div>
     <div class="stats-container">
-      <div class="number">300+</div>
-      <div class="desc">students and professionals</div>
+      <div class="number">5</div>
+      <div class="desc">city chapters</div>
+    </div>
+    <div class="stats-container">
+      <div class="number">2</div>
+      <div class="desc">web platforms (with 2 more on the way)</div>
     </div>
   </div>
   <br>  
