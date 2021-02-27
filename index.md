@@ -215,34 +215,34 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
 <div class="startups">
   <div class="card logo-left">
     <div class="logo"><img src="assets/img/7.png"></div>
-    <div class="text" markdown="1"> 
-### BAG Innovation
-
-Test description
+    <div class="text"> 
+      <h3>BAG Innovation</h3>
+      <div class="shorttext">Blabla | Rwanda</div>
+      <div class="desc">Test description</div>
     </div>
   </div>
   <div class="card logo-right">
-    <div class="logo"><img src="assets/img/8.png"></div>
-    <div class="text" markdown="1"> 
-### Beat Drone
-
-Test description
+    <div class="logo" style="background-color:"><img src="assets/img/8_black.png"></div>
+    <div class="text"> 
+      <h3>Beat Drone</h3>
+      <div class="shorttext">Blabla | Rwanda</div>
+      <div class="desc">Test description</div>
     </div>
   </div>
   <div class="card logo-left">
     <div class="logo"><img src="assets/img/24.png"></div>
-    <div class="text" markdown="1"> 
-### Farming Data
-
-Test description      
+    <div class="text"> 
+      <h3>Farming Data</h3>
+      <div class="shorttext">Blabla | Rwanda</div>
+      <div class="desc">Test description</div>
     </div>
   </div>
   <div class="card logo-right">
     <div class="logo"><img src="assets/img/28.png"></div>
-    <div class="text" markdown="1"> 
-### Gravilog
-
-Test description      
+    <div class="text"> 
+      <h3>Gravilog</h3>
+      <div class="shorttext">Blabla | Rwanda</div>
+      <div class="desc">Test description</div>
     </div>
   </div>
 </div>
