@@ -61,218 +61,6 @@ We are a group of passionate professionals and students from all over the world,
 
 
 
-
-
-<div markdown="1">
-
-<br>
-
-## Exciting technical challenges for all experience levels
-
-Whether you are looking to pick up new tools or challenge yourself with advanced problems, at BfE Technology, your learning transforms into tangible outcomes that impact real businesses around the world.
-
-<br>
-
-</div>
-
-<div>
-<div class="card-container experience-levels force-white-link">
-    <div class="flip-card">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          <img src="assets/img/colors.png" id="beginner">          
-          <div>Beginner</div>
-        </div>
-        <div class="flip-card-back" >
-          <div>
-            Join our student teams to start your journey with 
-            <ul>
-              <li>Data Analytics,</li>
-              <li>Machine Learning and Algorithm, and/or</li>
-              <li>Software Development,</li>
-            </ul>
-            with our wide variety of projects, training workshops, reading groups and external talks. 
-          </div>
-        </div>
-      </div>
-    </div>      
-    <div class="flip-card">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          <img src="assets/img/colors.png" id="intermediate-advanced">
-          <div>Intermediate to Advanced</div>
-        </div>
-        <div class="flip-card-back">
-          <div>
-            Sharpen your skills and make an impact as a
-            <ul>
-              <li>Global Tech Volunteer for web dev, algo, DevOps and cloud,</li>
-              <li>Project Tech Lead,</li>
-              <li>Technical Advisory for our startups,</li>
-              <li>Presenter at our workshops and talks, and/or</li>
-              <li><a href="https://www.bridgesforenterprise.com/professionals">Professional Technology Mentor.</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>      
-    <div class="flip-card">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          <img src="assets/img/colors.png" id="no-coding">
-          <div>No coding</div>
-        </div>
-        <div class="flip-card-back">
-          <div>
-            Contribute your unique set of skills to our technology team via
-            <ul>
-              <li>Business Analytics,</li>
-              <li>Product Management,</li>
-              <li>Partnerships, </li>
-              <li>Branding and Design, </li>
-              <li>and anything you can think of!</li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>      
-  </div>
-</div>
-
-<br>
-<br>
-
-<div style="background-color: #f4f4f4;">  
-  <br>
-  <br>
-  <h2 style="text-align: center;">Tech Stack</h2>
-  <div id="tech-stack">
-     <div style="display:flex; flex-wrap: wrap;">   
-       <a href="https://azure.microsoft.com/" target="_blank"><img src="assets/img/azure.svg"></a>
-       <a href="https://azure.microsoft.com/" target="_blank"><img src="assets/img/github.png"></a>
-       <a href="https://www.docker.com/" target="_blank"><img src="assets/img/docker.png"></a>
-       <a href="https://www.terraform.io/" target="_blank"><img src="assets/img/terraform.png"></a>
-       <a href="https://github.com/features/actions" target="_blank"><img src="assets/img/github_actions.png"></a>
-       <a href="https://www.skeema.io/" target="_blank"><img src="assets/img/skeema.png"></a>
-       <a href="https://developer.wordpress.org/" target="_blank"><img src="assets/img/wordpress.png"></a>
-       <a href="https://dev.mysql.com/" target="_blank"><img src="assets/img/mysql.png"></a>
-       <a href="https://sass-lang.com/" target="_blank"><img src="assets/img/sass.png"></a>
-       <a href="https://d3js.org/" target="_blank"><img src="assets/img/d3.svg"></a>
-       <a href="https://jquery.com/" target="_blank"><img src="assets/img/jquery.png"></a>
-       <a href="https://www.djangoproject.com/" target="_blank"><img src="assets/img/django.png"></a>
-       <a href="https://reactjs.org/" target="_blank"><img src="assets/img/react.png"></a>
-       <a href="https://redux.js.org/" target="_blank"><img src="assets/img/redux.svg"></a>
-       <a href="https://www.python.org/" target="_blank"><img src="assets/img/python.png"></a>
-       <a href="https://colab.research.google.com/" target="_blank"><img src="assets/img/colab.png"></a>
-       <a href="https://marketingplatform.google.com/intl/en_uk/about/analytics/" target="_blank"><img src="assets/img/google_analytics.png"></a>
-       <a href="https://radimrehurek.com/gensim/" target="_blank"><img src="assets/img/gensim.png"></a>
-     </div>
-      <br>
-     <div>We also manage automations on platforms such as</div>
-      <br>
-     <div style="display:flex; flex-wrap: wrap;">  
-       <a href="https://developers.facebook.com/" target="_blank"><img src="assets/img/facebook.png"></a>
-       <a href="https://developers.hubspot.com/docs/api/overview" target="_blank"><img src="assets/img/hubspot.png"></a>
-       <a href="https://api.slack.com/" target="_blank"><img src="assets/img/slack.png"></a>
-       <a href="https://workspace.google.com/" target="_blank"><img src="assets/img/google_workspace.png"></a>
-     </div>
-      <br>
-     <div>We are always looking for new tools that can improve our work. Currently, we are actively looking for developers with experience including but not limited to</div>
-      <br>
-     <div style="display:flex; flex-wrap: wrap;">  
-       <a href="https://rocket.chat/" target="_blank"><img src="assets/img/rocket_chat.svg"></a>
-       <a href="https://aws.amazon.com/" target="_blank"><img src="assets/img/aws.png"></a>
-       <a href="https://laravel.com/" target="_blank"><img src="assets/img/laravel.png"></a>
-       <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img src="assets/img/flask.png"></a>
-       <a href="https://vuejs.org/" target="_blank"><img src="assets/img/vue.png"></a>
-     </div>
-      <br>
-     <div>If you are looking to join our Technical Advisory team to help our startups, they cover a much broader spectrum of work from <strong>app development</strong> to <strong>fintech</strong> and <strong>machine learning</strong> - in short, there is almost always something for you! </div>
-      <br>
-      <br>
-      <br>
-  </div>
-</div>
-
-
-
-
-
-<div markdown="1" class="force-dark-link">
-<br>
-
-## A global network passionate about social impact, startups and technology
-  
-Be part of a global community that cares deeply about empowering early-stage social enterprises with our professional skills. 
-
-Our students and professionals come from **consulting**, **finance**, **legal** and **technology** backgrounds, covering a broad spectrum of knowledge and experiences and are found [**across the globe**](https://www.bridgesforenterprise.com).
-
-Our startups work in a diverse range of sectors. Check out how some of them harness **cutting-edge technology** to scale their impact.
-
-</div>
-
-<div class="startups force-dark-link">
-  <div class="card">
-    <div class="logo"><img src="assets/img/7.png"></div>
-    <div class="text"> 
-      <h3>BAG Innovation</h3>
-      <div class="shorttext">
-        <span>Gamified and AI-based digital learning platform for African youth | Rwanda</span>
-        <a href="https://bag.rw/"><i class="fas fa-link"></i></a>
-      </div>
-      <div class="desc">
-          <ul>
-            <li>Gamification platform built by the former Candy Crush creator. See a <a href="https://youtu.be/MkxERat9jCM">one-minute video presentation of their work</a></li>
-            <li>Raised USD 150K in <a href="https://disrupt-africa.com/2019/10/21/rwandan-ed-tech-startup-bag-innovation-raises-150k-seed-round">seed round</a></li>
-            <li><a href="https://www.newtimes.co.rw/news/rwandan-duo-wins-over-rwf100-million-innovation-award">Joint winner of Make-IT in Africa's contest</a> with an award of approx. 100K in USD </li>
-            <li><a href="https://www.cnbcafrica.com/2020/rwandan-start-ups-win-over-rwf100mn-innovation-award/">Interview with CNBC Africa</a></li>
-          </ul>
-      </div>
-    </div>
-  </div>
-  <div class="card">
-    <div class="logo" style="background-color:"><img src="assets/img/8_black.png"></div>
-    <div class="text"> 
-      <h3>Beat Drone</h3>
-      <div class="shorttext">Blabla | Rwanda</div>
-      <div class="desc">Test description</div>
-    </div>
-  </div>
-  <div class="card">
-    <div class="logo"><img src="assets/img/24.png"></div>
-    <div class="text"> 
-      <h3>Farming Data</h3>
-      <div class="shorttext">Blabla | Rwanda</div>
-      <div class="desc">Test description</div>
-    </div>
-  </div>
-  <div class="card">
-    <div class="logo"><img src="assets/img/28.png"></div>
-    <div class="text"> 
-      <h3>Gravilog</h3>
-      <div class="shorttext">Blabla | Rwanda</div>
-      <div class="desc">Test description</div>
-    </div>
-  </div>
-</div>
-           
-<div markdown="1" class="force-dark-link">
-Read more [**here**](https://www.bridgesforenterprise.com/our-impact/case-studies/) about our portfolio of startups.      
-</div>
-
-<div style="background-color: #163752; color: white;">
-  <br>
-  <h2 style="text-align:center">Inspire • Invent • Impact</h2>
-  <div>
-    We design software, analytics and algorithmic solutions addressing the most vital issues in scaling the organisation for an ever-growing user base worldwide.
-  </div>
-  <div>
-    some fancy stats
-  </div>
-  <br>  
-  <br>  
-</div>
-
 <div markdown="1">
   <br>  
 ### Any technology discipline from anywhere in the world
@@ -405,6 +193,218 @@ Browse our open roles and projects now at <a href="https://opps.bridgesforenterp
 
 <br>
 </div>
+
+
+<div style="background-color: #f4f4f4;">  
+  <br>
+  <br>
+  <h2 style="text-align: center;">Tech Stack</h2>
+  <div id="tech-stack">
+     <div style="display:flex; flex-wrap: wrap;">   
+       <a href="https://azure.microsoft.com/" target="_blank"><img src="assets/img/azure.svg"></a>
+       <a href="https://azure.microsoft.com/" target="_blank"><img src="assets/img/github.png"></a>
+       <a href="https://www.docker.com/" target="_blank"><img src="assets/img/docker.png"></a>
+       <a href="https://www.terraform.io/" target="_blank"><img src="assets/img/terraform.png"></a>
+       <a href="https://github.com/features/actions" target="_blank"><img src="assets/img/github_actions.png"></a>
+       <a href="https://www.skeema.io/" target="_blank"><img src="assets/img/skeema.png"></a>
+       <a href="https://developer.wordpress.org/" target="_blank"><img src="assets/img/wordpress.png"></a>
+       <a href="https://dev.mysql.com/" target="_blank"><img src="assets/img/mysql.png"></a>
+       <a href="https://sass-lang.com/" target="_blank"><img src="assets/img/sass.png"></a>
+       <a href="https://d3js.org/" target="_blank"><img src="assets/img/d3.svg"></a>
+       <a href="https://jquery.com/" target="_blank"><img src="assets/img/jquery.png"></a>
+       <a href="https://www.djangoproject.com/" target="_blank"><img src="assets/img/django.png"></a>
+       <a href="https://reactjs.org/" target="_blank"><img src="assets/img/react.png"></a>
+       <a href="https://redux.js.org/" target="_blank"><img src="assets/img/redux.svg"></a>
+       <a href="https://www.python.org/" target="_blank"><img src="assets/img/python.png"></a>
+       <a href="https://colab.research.google.com/" target="_blank"><img src="assets/img/colab.png"></a>
+       <a href="https://marketingplatform.google.com/intl/en_uk/about/analytics/" target="_blank"><img src="assets/img/google_analytics.png"></a>
+       <a href="https://radimrehurek.com/gensim/" target="_blank"><img src="assets/img/gensim.png"></a>
+     </div>
+      <br>
+     <div>We also manage automations on platforms such as</div>
+      <br>
+     <div style="display:flex; flex-wrap: wrap;">  
+       <a href="https://developers.facebook.com/" target="_blank"><img src="assets/img/facebook.png"></a>
+       <a href="https://developers.hubspot.com/docs/api/overview" target="_blank"><img src="assets/img/hubspot.png"></a>
+       <a href="https://api.slack.com/" target="_blank"><img src="assets/img/slack.png"></a>
+       <a href="https://workspace.google.com/" target="_blank"><img src="assets/img/google_workspace.png"></a>
+     </div>
+      <br>
+     <div>We are always looking for new tools that can improve our work. Currently, we are actively looking for developers with experience including but not limited to</div>
+      <br>
+     <div style="display:flex; flex-wrap: wrap;">  
+       <a href="https://rocket.chat/" target="_blank"><img src="assets/img/rocket_chat.svg"></a>
+       <a href="https://aws.amazon.com/" target="_blank"><img src="assets/img/aws.png"></a>
+       <a href="https://laravel.com/" target="_blank"><img src="assets/img/laravel.png"></a>
+       <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img src="assets/img/flask.png"></a>
+       <a href="https://vuejs.org/" target="_blank"><img src="assets/img/vue.png"></a>
+     </div>
+      <br>
+     <div>If you are looking to join our Technical Advisory team to help our startups, they cover a much broader spectrum of work from <strong>app development</strong> to <strong>fintech</strong> and <strong>machine learning</strong> - in short, there is almost always something for you! </div>
+      <br>
+      <br>
+      <br>
+  </div>
+</div>
+
+
+
+<div markdown="1">
+
+<br>
+
+## Exciting technical challenges for all experience levels
+
+Whether you are looking to pick up new tools or challenge yourself with advanced problems, at BfE Technology, your learning transforms into tangible outcomes that impact real businesses around the world.
+
+<br>
+
+</div>
+
+<div>
+<div class="card-container experience-levels force-white-link">
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          <img src="assets/img/colors.png" id="beginner">          
+          <div>Beginner</div>
+        </div>
+        <div class="flip-card-back" >
+          <div>
+            Join our student teams to start your journey with 
+            <ul>
+              <li>Data Analytics,</li>
+              <li>Machine Learning and Algorithm, and/or</li>
+              <li>Software Development,</li>
+            </ul>
+            with our wide variety of projects, training workshops, reading groups and external talks. 
+          </div>
+        </div>
+      </div>
+    </div>      
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          <img src="assets/img/colors.png" id="intermediate-advanced">
+          <div>Intermediate to Advanced</div>
+        </div>
+        <div class="flip-card-back">
+          <div>
+            Sharpen your skills and make an impact as a
+            <ul>
+              <li>Global Tech Volunteer for web dev, algo, DevOps and cloud,</li>
+              <li>Project Tech Lead,</li>
+              <li>Technical Advisory for our startups,</li>
+              <li>Presenter at our workshops and talks, and/or</li>
+              <li><a href="https://www.bridgesforenterprise.com/professionals">Professional Technology Mentor.</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>      
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          <img src="assets/img/colors.png" id="no-coding">
+          <div>No coding</div>
+        </div>
+        <div class="flip-card-back">
+          <div>
+            Contribute your unique set of skills to our technology team via
+            <ul>
+              <li>Business Analytics,</li>
+              <li>Product Management,</li>
+              <li>Partnerships, </li>
+              <li>Branding and Design, </li>
+              <li>and anything you can think of!</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>      
+  </div>
+</div>
+
+<br>
+<br>
+
+
+
+<div style="background-color: #163752; color: white;">
+  <br>
+  <h2 style="text-align:center">Inspire • Invent • Impact</h2>
+  <div>
+    We design software, analytics and algorithmic solutions addressing the most vital issues in scaling the organisation for an ever-growing user base worldwide.
+  </div>
+  <div>
+    some fancy stats
+  </div>
+  <br>  
+  <br>  
+</div>
+
+
+
+<div markdown="1" class="force-dark-link">
+<br>
+
+## A global network passionate about social impact, startups and technology
+  
+Be part of a global community that cares deeply about empowering early-stage social enterprises with our professional skills. 
+
+Our students and professionals come from **consulting**, **finance**, **legal** and **technology** backgrounds, covering a broad spectrum of knowledge and experiences and are found [**across the globe**](https://www.bridgesforenterprise.com).
+
+Our startups work in a diverse range of sectors. Check out how some of them harness **cutting-edge technology** to scale their impact below, or read more about our in-house case studies [**here**](https://www.bridgesforenterprise.com/our-impact/case-studies/).      
+
+
+</div>
+
+<div class="startups force-dark-link">
+  <div class="card">
+    <div class="logo"><img src="assets/img/7.png"></div>
+    <div class="text"> 
+      <h2>BAG Innovation</h2>
+      <div class="shorttext">
+        <span>Gamified and AI-based digital learning platform for African youth </span>
+        <a href="https://bag.rw/"><i class="fas fa-link"></i></a>
+      </div>
+      <div class="desc">
+          <ul>
+            <li>Gamification platform built by the former Candy Crush creator. See a <a href="https://youtu.be/MkxERat9jCM">one-minute video presentation of their work</a></li>
+            <li>Raised USD 150K in <a href="https://disrupt-africa.com/2019/10/21/rwandan-ed-tech-startup-bag-innovation-raises-150k-seed-round">seed round</a></li>
+            <li><a href="https://www.newtimes.co.rw/news/rwandan-duo-wins-over-rwf100-million-innovation-award">Joint winner of Make-IT in Africa's contest</a> with an award of approx. 100K in USD </li>
+            <li><a href="https://www.cnbcafrica.com/2020/rwandan-start-ups-win-over-rwf100mn-innovation-award/">Interview with CNBC Africa</a></li>
+          </ul>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="logo" style="background-color:"><img src="assets/img/8_black.png"></div>
+    <div class="text"> 
+      <h2>Beat Drone</h2>
+      <div class="shorttext">Blabla | Rwanda</div>
+      <div class="desc">Test description</div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="logo"><img src="assets/img/24.png"></div>
+    <div class="text"> 
+      <h2>Farming Data</h2>
+      <div class="shorttext">Blabla | Rwanda</div>
+      <div class="desc">Test description</div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="logo"><img src="assets/img/28.png"></div>
+    <div class="text"> 
+      <h2>Gravilog</h2>
+      <div class="shorttext">Blabla | Rwanda</div>
+      <div class="desc">Test description</div>
+    </div>
+  </div>
+</div>
+           
+
 
 <div markdown="1">
 ### If you need more convincing...
