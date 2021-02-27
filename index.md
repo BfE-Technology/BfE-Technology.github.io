@@ -214,19 +214,19 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
 
 <div class="three-cols">
   <div class="card">
-    <img src="assets/img/smile-entrepreneur.jpg">
-    <p> text </p>
-    <button>test </button>
+    <div class="image-wrapper"><img src="assets/img/smile-entrepreneur.jpg"></div>
+    <div class="text"> text </div>
+    <div class="button-wrapper"> <button>test </button> </div>
   </div>
   <div class="card">
-    <img src="assets/img/smile-entrepreneur.jpg">
-    <p> text </p>
-    <button>test </button>
+    <div class="image-wrapper"><img src="assets/img/smile-entrepreneur.jpg"></div>
+    <div class="text"> text </div>
+    <div class="button-wrapper"> <button>test </button> </div>
   </div>
   <div class="card">
-    <img src="assets/img/smile-entrepreneur.jpg">
-    <p> text </p>
-    <button>test </button>
+    <div class="image-wrapper"><img src="assets/img/smile-entrepreneur.jpg"></div>
+    <div class="text"> text </div>
+    <div class="button-wrapper"> <button>test </button> </div>
   </div>
 </div>
            
