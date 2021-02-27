@@ -298,13 +298,13 @@ body {
   }
 
   #beginner{
-    object-position: -730px 0;
+    object-position: -480px 0;
   }
   #intermediate-advanced{
-    object-position: -730px 250px;
+    object-position: -480px 250px;
   }
   #no-coding{
-    object-position: -730px 500px;
+    object-position: -480px 500px;
   }
 }
 
