@@ -65,7 +65,7 @@ We are a group of passionate professionals and students from all over the world,
   <br>  
 ## Any technology discipline from anywhere in the world
 
-We leverage on a wide variety of technological solutions to address vital needs of the organisation.
+We leverage on a wide variety of technological solutions covering software, analytics, algorithms and cloud engineering to address vital needs of the organisation.
 
   <br>  
 </div>
@@ -320,10 +320,25 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
   <br>
   <h2 style="text-align:center">Inspire • Invent • Impact</h2>
   <div>
-    We design software, analytics and algorithmic solutions addressing the most vital issues in scaling the organisation for an ever-growing user base worldwide.
+    We formulate analysis, build innovative products and offer insightful advice to create a lasting global impact on our community. Here are some statistics about our operation.  
   </div>
-  <div>
-    some fancy stats
+  <div id="stats">
+    <div class="stats-container">
+      <div class="number">77</div>
+      <div class="desc">startups served</div>
+    </div>
+    <div class="stats-container">
+      <div class="number">300+</div>
+      <div class="desc">students and professionals</div>
+    </div>
+    <div class="stats-container">
+      <div class="number">77</div>
+      <div class="desc">startups served</div>
+    </div>
+    <div class="stats-container">
+      <div class="number">300+</div>
+      <div class="desc">students and professionals</div>
+    </div>
   </div>
   <br>  
   <br>  
