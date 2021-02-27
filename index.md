@@ -513,7 +513,7 @@ Here are some of the reasons why people join BfE Technology:
   <br>
   <h2>Featured Projects</h2>
   <div class="card">
-    <h3>Startup-mentor matching algorithm</h3>
+    <h3>Startup-Mentor Matching Algorithm</h3>
     <div class="desc">BfE receives hundreds of startup applications yearly from all around the world. The selected few that enter our programme are assigned to a student team and paired with one or more professional mentors, based on a variety of factors such as location, industry and project needs. As our mentorship database rapidly grows, it becomes infeasible to do the pairing manually. Our Technology team is developing and testing an algorithm leveraging on classical statistical methods and Natural Language Processing tools to produce pairing recommendations based on a combination of structured and unstructured data.</div>
   </div>
   <div class="card">
