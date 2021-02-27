@@ -351,7 +351,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
     </div>
     <div class="stats-container">
       <div class="number">2</div>
-      <div class="desc">web platforms (with 2 more on the way)</div>
+      <div class="desc">web platforms<br>(with 2 more on the way)</div>
     </div>
   </div>
   <br>  
