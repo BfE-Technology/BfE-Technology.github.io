@@ -373,7 +373,7 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
           <ul>
             <li>Provides digital access through mini servers, portable solar kiosks and an in-house mobile app to 6 countries across Africa</li>
             <li>Recipient of numerous awards including <a href="https://microsoftcaregh.com/2019/07/25/a-solar-powered-mobile-digital-kiosk-that-empowers-women-across-rwanda/" target="_blank">Microsoft's affordable Access Initiative grant</a> and <a href="https://africa50innovationchallenge.com/solutions/" target="_blank">Special Recognition Award at Africa 50 Innovation Challenge</a> </li>
-            <li>Read <a href="https://techpoint.africa/2020/01/09/ared-profile/" target="_blank">an Techpoint Africa article about the startup</a>, where they raised 500K USD as of Jan 2020 and are on track to even more rapid expansion</li>
+            <li>Raised USD 500K as of Jan 2020 and on track to more rapid expansion; read more at <a href="https://techpoint.africa/2020/01/09/ared-profile/" target="_blank">their interview with Techpoint Africa</a></li>
           </ul>
       </div>
     </div>
@@ -407,7 +407,6 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
           <ul>
             <li>Provide drone services to businesses and governments <a href="http://beatdrone.co/blog/" target="_blank">across sectors</a> such as agriculture, warehouse inventory and construction</li>
             <li>Helped local government and farmers in the fight against COVID-19 by <a href="https://disrupt-africa.com/2020/04/20/nigerian-startup-beat-drone-spraying-disinfectant-to-fight-covid-19/" target="_blank">using drones to spray agricultural disinfectants</a></li>
-            <li>Featured in a <a href="https://www.youtube.com/watch?v=ud__YBJjKxU" target="_blank">2-minute news clip by TRT World</a></li>
           </ul>
       </div>
     </div>
@@ -446,12 +445,13 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
     </div>
   </div>
   <br>
+  <br>
 </div>
            
 <div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white;   background-size: cover;  background-position: 0% 95%;z-index:0; position: relative;" class="force-white-link" > 
 
 <div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: black;z-index: -1;opacity: 0.6;"> </div>
-
+<br>
 <h2>Join us today</h2>
 
 <div markdown="1">
@@ -463,7 +463,7 @@ We are also actively seeking experienced students or professionals to fill some 
 
 Browse our open roles and projects now at <a href="https://opps.bridgesforenterprise.com/technology/">this page</a>. For mentorship applications, you may check out our <a href="https://www.bridgesforenterprise.com">main website</a> or email technology@bridgesforenterprise.com to find out more.  
 </div>
-
+</div>
 
 <div markdown="1">
 ### If you need more convincing...
