@@ -532,7 +532,6 @@ Here are some of the reasons why people join BfE Technology:
     <p>This is a long-term project to build an intranet web platform within BfE, which will facilitate resource-sharing and automate many of the time-consuming manual operations. Basic integrations with internal apps such as Google Workspace, Slack, Hubspot and the new public website are being developed to provide an integral user experience within BfE. In the near future, We will also be building a new public platform that will make our learning resources available to the wider social impact and startup community via free subscriptions.</p>
     </div>
   </div>
-  <br>
   <p>See how you may contribute to the projects from different <a href="#disciplines" data-scroll>disciplines</a>, and sign up for our <a href="https://opps.bridgesforenterprise.com/technology">available projects and roles</a> now!</p>
   <br>
   <br>
