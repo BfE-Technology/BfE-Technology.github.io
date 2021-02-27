@@ -61,7 +61,7 @@ We are a group of passionate professionals and students from all over the world,
 
 
 
-<div id="disciplines">
+<div id="disciplines" class="force-dark-link">
   <br>  
   <h2>Any technology discipline from anywhere in the world</h2>
 
