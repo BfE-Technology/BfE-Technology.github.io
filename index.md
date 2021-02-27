@@ -212,25 +212,34 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
 <br>
 </div>
 
-<div class="three-cols">
-  <div class="card">
-    <div class="image-wrapper"><img src="assets/img/smile-entrepreneur.jpg"></div>
-    <div class="text"> text </div>
-    <div class="button-wrapper"> <button>test </button> </div>
+<div class="startups">
+  <div class="card logo-left">
+    <div class="logo"><img src="assets/img/smile-entrepreneur.jpg"></div>
+    <div class="text" markdown="1"> 
+        ### ARED
+    </div>
   </div>
-  <div class="card">
-    <div class="image-wrapper"><img src="assets/img/smile-entrepreneur.jpg"></div>
-    <div class="text"> text </div>
-    <div class="button-wrapper"> <button>test </button> </div>
+  <div class="card logo-right">
+    <div class="logo"><img src="assets/img/smile-entrepreneur.jpg"></div>
+    <div class="text" markdown="1"> 
+        ### BAG Innovation
+    </div>
   </div>
-  <div class="card">
-    <div class="image-wrapper"><img src="assets/img/smile-entrepreneur.jpg"></div>
-    <div class="text"> text </div>
-    <div class="button-wrapper"> <button>test </button> </div>
+  <div class="card logo-left">
+    <div class="logo"><img src="assets/img/smile-entrepreneur.jpg"></div>
+    <div class="text" markdown="1"> 
+        ### Beat Drone
+    </div>
+  </div>
+  <div class="card logo-right">
+    <div class="logo"><img src="assets/img/smile-entrepreneur.jpg"></div>
+    <div class="text" markdown="1"> 
+        ### Farming Data
+    </div>
   </div>
 </div>
            
-           
+Read more [**here**](https://www.bridgesforenterprise.com/our-impact/case-studies/) about our portfolio of startups.      
 
 
 <div style="background-color: #163752; color: white;" class="full-width" markdown="1">
