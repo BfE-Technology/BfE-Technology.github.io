@@ -67,6 +67,7 @@ We are a group of passionate professionals and students from all over the world,
 
 We leverage on a wide variety of technological solutions covering software, analytics, algorithms and cloud engineering to address vital needs of the organisation.
 
+<br>  
 </div>
 
 <div class="card-container">
@@ -176,6 +177,7 @@ We leverage on a wide variety of technological solutions covering software, anal
 <br>
 If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know! ;)
 <br>
+<br>  
 <br>  
 </div>
 
