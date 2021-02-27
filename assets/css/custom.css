@@ -446,5 +446,13 @@ body {
 }
 
 /* map reasons to join */
+.map-reasons-to-join a[href="https://wordart.com/"], #word-art-context-menu{
+  display: none !important;
+}
+
+.map-reasons-to-join-wrapper{
+  padding: 0 10px !important;
+}
+
 .map-reasons-to-join{
 }
