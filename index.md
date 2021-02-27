@@ -509,8 +509,6 @@ Here are some of the reasons why people join BfE Technology:
 <br>
 
 
-</div>
-
 <div class="projects force-dark-link">
   <br>
   <h2>Featured Projects</h2>
