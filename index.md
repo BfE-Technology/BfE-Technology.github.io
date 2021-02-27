@@ -509,3 +509,22 @@ Here are some of the reasons why people join BfE Technology:
 <br>
 
 
+</div>
+
+<div class="projects force-dark-link">
+  <br>
+  <h2>Featured Projects</h2>
+  <div class="card">
+    <h3>Startup-mentor matching algorithm</h3>
+    <div class="desc">This project balbla</div>
+  </div>
+  <div class="card">
+    <h3>SEO and Website Analytics</h3>
+    <div class="desc">This project balbla</div>
+  </div>
+  <div class="card">
+    <h3>Members Portal</h3>
+    <div class="desc">This project balbla</div>
+  </div>
+</div>
+
