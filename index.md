@@ -347,7 +347,7 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
 
 <div class="startups force-black-link">
   <div class="card video-left">
-    <div class="video"><iframe src="https://www.youtube.com/embed/-yFCinGjxeM?start=42&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+    <div class="video"><iframe src="https://www.youtube.com/embed/-yFCinGjxeM?start=42&modestbranding=1&cc_lang_pref=en&cc_load_policy=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
     <div class="text"> 
       <h2>ARED</h2>
       <div class="shorttext">
@@ -364,7 +364,7 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
     </div>
   </div>
   <div class="card video-right">
-    <div class="video"><iframe src="https://www.youtube.com/embed/ektz966A188?modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    <div class="video"><iframe src="https://www.youtube.com/embed/ektz966A188?modestbranding=1&cc_lang_pref=en&cc_load_policy=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
     <div class="text"> 
       <h2>BAG Innovation</h2>
       <div class="shorttext">
@@ -381,7 +381,7 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
     </div>
   </div>
   <div class="card video-left">
-    <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/ud__YBJjKxU?start=47&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/ud__YBJjKxU?start=47&modestbranding=1&cc_lang_pref=en&cc_load_policy=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
     <div class="text"> 
       <h2>Beat Drone</h2>
       <div class="shorttext">
@@ -398,24 +398,23 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
     </div>
   </div>
   <div class="card video-right">
-    <div class="video"><img src="assets/img/Coronet.webp"></div>
+    <div class="video"><iframe src="https://www.youtube.com/embed/324XsWmpv8I?modestbranding=1&cc_lang_pref=en&cc_load_policy=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
     <div class="text"> 
-      <h2>Gravilog</h2>
+      <h2>Coronet Blockchain</h2>
       <div class="shorttext">
-        <span>Blockchain-based hair product supply chain from ethical global manufacturers to South African salons </span>
+        <span>South African blockchain-based hair product supply chain solutions from ethical global manufacturers</span>
         <a href="https://www.coronetblockchain.com/" target="_blank"><i class="fas fa-link"></i></a>
       </div>
       <div class="desc">
           <ul>
             <li>End-to-end supply chain management built on IBM blockchain</li>
-            <li><a href="https://youtu.be/324XsWmpv8I" target="_blank">3-minute video presentation</a> of their work</li>
             <li><a href="https://www.lionessesofafrica.com/blog/2020/6/28/startup-story-of-pretty-kubyane" target="_blank">Interview with Lionesses of Africa</a></li>
           </ul>
       </div>
     </div>
   </div>
   <div class="card video-left">
-    <div class="video"><img src="assets/img/24.png"></div>
+    <div class="video"><iframe src="https://www.youtube.com/embed/BWkMiNHI57o?modestbranding=1&cc_lang_pref=en&cc_load_policy=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
     <div class="text"> 
       <h2>Farming Data</h2>
       <div class="shorttext">
@@ -425,8 +424,8 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
       <div class="desc">
           <ul>
             <li>Founded and advised by PhDs and researchers from University of Cambridge; see an <a href="https://www.youtube.com/watch?v=BWkMiNHI57o">interview with the team</a></li>
-            <li>Won <a href="https://www.gatescambridge.org/about/news/alumna-leads-international-consortium-for-smallholders-in-colombia/">approx. 445K USD funding</a> from Innovate UK Grant and backed by <a href="https://farmingdata.io/about/">Cambridge Judge Business School and the UK Prosperity Fund, among others</a></li>
-            <li><a href="https://www.youtube.com/watch?v=qe51cq-GeBE" target="_blank">30-second video</a> about the pre-release version of their app, Listo, in 2018, or a <a href="https://www.youtube.com/watch?v=PhPvHw6VKWE" target="_blank">more recent one</a> in 2021 (in Spanish with auto-translated subtitles)</li>
+            <li>Won <a href="https://www.gatescambridge.org/about/news/alumna-leads-international-consortium-for-smallholders-in-colombia/">approx. 445K USD funding</a> from Innovate UK Grant and backed by <a href="https://farmingdata.io/about/" target="_blank">Cambridge Judge Business School and the UK Prosperity Fund, among others</a></li>
+            <li>Check out <a href="https://youtu.be/PhPvHw6VKWE" target="_blank">the latest video</a> of their flagship trading app, Listo (the video is in Spanish with auto-translated subtitle available)</li>
           </ul>
       </div>
     </div>
