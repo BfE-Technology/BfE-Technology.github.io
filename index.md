@@ -331,11 +331,11 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
     </div>
     <div class="stats-container">
       <div class="number">348</div>
-      <div class="desc">professional mentors</div>
+      <div class="desc">professional mentors joined our cause</div>
     </div>
     <div class="stats-container">
       <div class="number">30+</div>
-      <div class="desc">countries where BfE has left a footprint</div>
+      <div class="desc">countries where BfE left a footprint</div>
     </div>
     <div class="stats-container">
       <div class="number">499</div>
