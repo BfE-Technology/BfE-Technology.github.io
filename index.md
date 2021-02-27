@@ -175,7 +175,7 @@ We are a group of passionate professionals and students from all over the world,
 
 <div markdown="1">
 <br>
-If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know! ;)
+If any of them sounds like what you may be interested in, check out our <a href="https://opps.bridgesforenterprise.com">available roles</a> now! If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know via <a href="mailto:technology@bridgesforenterprise.com">technology@bridgesforenterprise.com</a>.
 <br>
 <br>  
 <br>  
@@ -481,7 +481,7 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
 
 <div markdown="1">
 
-All open roles and projects can be found <a href="https://opps.bridgesforenterprise.com/technology/">here</a>. If you are to join as a technology mentor, check out our <a href="https://www.bridgesforenterprise.com">main website</a>. You are always welcome to email technology@bridgesforenterprise.com to find out more.
+All open roles and projects can be found <a href="https://opps.bridgesforenterprise.com/technology/">here</a>. If you are to join as a technology mentor, check out our <a href="https://www.bridgesforenterprise.com">main website</a>. You are always welcome to email <a href="mailto:technology@bridgesforenterprise.com">technology@bridgesforenterprise.com</a> to find out more.
 
 **Students.** Our projects are organised by our student chapters at the start of the academic term. There are also global projects available for students with advanced experience and occasionally summer internships for students in early undergraduate years.
 
@@ -511,7 +511,7 @@ Here are some of the reasons why people join BfE Technology:
 
 <div id="featured-projects" class="force-dark-link" style="background-color: #f4f4f4;margin-bottom: -100px;">
   <br>
-  <h2>Featured Projects</h2>
+  <h2 style="text-align: center;">Featured Projects</h2>
   <div class="card">
     <h3>Startup-Mentor Matching Algorithm</h3>
     <div class="desc">
@@ -533,8 +533,7 @@ Here are some of the reasons why people join BfE Technology:
     </div>
   </div>
   <br>
-  <br>
-  <p>See how you may contribute to the projects from different <a href="#disciplines" data-scroll>disciplines</a>.</p>
+  <p>See how you may contribute to the projects from different <a href="#disciplines" data-scroll>disciplines</a>, and sign up for our <a href="https://opps.bridgesforenterprise.com/technology">available projects and roles</a> now!</p>
   <br>
   <br>
 </div>
