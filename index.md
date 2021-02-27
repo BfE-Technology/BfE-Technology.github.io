@@ -66,7 +66,6 @@ We are a group of passionate professionals and students from all over the world,
 <div markdown="1">
 
 <br>
-<br>
 
 ## Exciting technical challenges for all experience levels
 
@@ -141,6 +140,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
 </div>
 
 <br>
+<br>
 
 <div style="background-color: #f4f4f4;">  
   <br>
@@ -149,47 +149,46 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
   <div id="tech-stack">
      <br>
      <div style="display:flex; flex-wrap: wrap;">   
-       <img src="assets/img/azure.svg"> 
-       <img src="assets/img/github.png">
-       <img src="assets/img/docker.png">
-       <img src="assets/img/terraform.png">
-       <img src="assets/img/github_actions.png">
-       <img src="assets/img/skeema.png">
-       <img src="assets/img/sass.png">
-       <img src="assets/img/wordpress.png">
-       <img src="assets/img/mysql.png">
-       <img src="assets/img/sass.png">
-       <img src="assets/img/jquery.png">
-       <img src="assets/img/d3.svg">
-       <img src="assets/img/django.png">
-       <img src="assets/img/react.png">
-       <img src="assets/img/redux.svg">
-       <img src="assets/img/python.png">
-       <img src="assets/img/colab.png">
-       <img src="assets/img/google_analytics.png">
-       <img src="assets/img/gensim.png">
+       <a href="https://azure.microsoft.com/" target="_blank"><img src="assets/img/azure.svg"></a>
+       <a href="https://azure.microsoft.com/" target="_blank"><img src="assets/img/github.png"></a>
+       <a href="https://www.docker.com/" target="_blank"><img src="assets/img/docker.png"></a>
+       <a href="https://www.terraform.io/" target="_blank"><img src="assets/img/terraform.png"></a>
+       <a href="https://github.com/features/actions" target="_blank"><img src="assets/img/github_actions.png"></a>
+       <a href="https://www.skeema.io/" target="_blank"><img src="assets/img/skeema.png"></a>
+       <a href="https://developer.wordpress.org/" target="_blank"><img src="assets/img/wordpress.png"></a>
+       <a href="https://dev.mysql.com/" target="_blank"><img src="assets/img/mysql.png"></a>
+       <a href="https://sass-lang.com/" target="_blank"><img src="assets/img/sass.png"></a>
+       <a href="https://jquery.com/" target="_blank"><img src="assets/img/jquery.png"></a>
+       <a href="https://d3js.org/" target="_blank"><img src="assets/img/d3.svg"></a>
+       <a href="https://www.djangoproject.com/" target="_blank"><img src="assets/img/django.png"></a>
+       <a href="https://reactjs.org/" target="_blank"><img src="assets/img/react.png"></a>
+       <a href="https://redux.js.org/" target="_blank"><img src="assets/img/redux.svg"></a>
+       <a href="https://www.python.org/" target="_blank"><img src="assets/img/python.png"></a>
+       <a href="https://colab.research.google.com/" target="_blank"><img src="assets/img/colab.png"></a>
+       <a href="https://marketingplatform.google.com/intl/en_uk/about/analytics/" target="_blank"><img src="assets/img/google_analytics.png"></a>
+       <a href="https://radimrehurek.com/gensim/" target="_blank"><img src="assets/img/gensim.png"></a>
      </div>
       <br>
      <div>We also manage automations on platforms such as</div>
       <br>
      <div style="display:flex; flex-wrap: wrap;">  
-       <img src="assets/img/facebook.png">
-       <img src="assets/img/hubspot.png">
-       <img src="assets/img/slack.png">
-       <img src="assets/img/google_workspace.png">
+       <a href="https://developers.facebook.com/" target="_blank"><img src="assets/img/facebook.png"></a>
+       <a href="https://developers.hubspot.com/docs/api/overview" target="_blank"><img src="assets/img/hubspot.png"></a>
+       <a href="https://api.slack.com/" target="_blank"><img src="assets/img/slack.png"></a>
+       <a href="https://workspace.google.com/" target="_blank"><img src="assets/img/google_workspace.png"></a>
      </div>
       <br>
-     <div>We are always looking for new tools that can improve our work. Currently, we are actively looking for developers with experience in</div>
+     <div>We are always looking for new tools that can improve our work. Currently, we are actively looking for developers with experience including but not limited to</div>
       <br>
      <div style="display:flex; flex-wrap: wrap;">  
-       <img src="assets/img/aws.png">
-       <img src="assets/img/rocket_chat.svg">
-       <img src="assets/img/laravel.png">
-       <img src="assets/img/flask.png">
-       <img src="assets/img/vue.png">
+       <a href="https://rocket.chat/" target="_blank"><img src="assets/img/rocket_chat.svg"></a>
+       <a href="https://aws.amazon.com/" target="_blank"><img src="assets/img/aws.png"></a>
+       <a href="https://laravel.com/" target="_blank"><img src="assets/img/laravel.png"></a>
+       <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img src="assets/img/flask.png"></a>
+       <a href="https://vuejs.org/" target="_blank"><img src="assets/img/vue.png"></a>
      </div>
       <br>
-     <div>If you are looking to join Technical Advisory team to help our startups, they cover a much broader spectrum of work from app development to fintech and machine learning - in short, there is almost always something for you! </div>
+     <div>If you are looking to join our Technical Advisory team to help our startups, they cover a much broader spectrum of work from <strong>app development</strong> to <strong>fintech</strong> and <strong>machine learning</strong> - in short, there is almost always something for you! </div>
       <br>
       <br>
       <br>
@@ -202,7 +201,6 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
 
 <div markdown="1">
 <br>
-<br>
 
 ### A global network passionate about social impact, startups and technology
   
@@ -214,17 +212,17 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
 
 <div class="three-cols">
   <div class="card">
-    <img src="url(assets/img/smile-entrepreneur.jpg)">
+    <img src="assets/img/smile-entrepreneur.jpg">
     <p> text </p>
     <button>test </button>
   </div>
   <div class="card">
-    <img src="url(assets/img/smile-entrepreneur.jpg)">
+    <img src="assets/img/smile-entrepreneur.jpg">
     <p> text </p>
     <button>test </button>
   </div>
   <div class="card">
-    <img src="url(assets/img/smile-entrepreneur.jpg)">
+    <img src="assets/img/smile-entrepreneur.jpg">
     <p> text </p>
     <button>test </button>
   </div>
