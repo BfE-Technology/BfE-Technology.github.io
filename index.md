@@ -502,12 +502,12 @@ Here are some of the reasons why people join BfE Technology:
 
 <br>
 
-<div class="map-reasons-to-join" data-wordart-src="//cdn.wordart.com/json/10dk1hxhnb3x" data-wordart-show-attribution></div>
-
-<br>
 </div>
 
+<div class="map-reasons-to-join-wrapper">
+  <div class="map-reasons-to-join" data-wordart-src="//cdn.wordart.com/json/10dk1hxhnb3x" data-wordart-show-attribution></div>
+</div>
 
-Featured project:
-- Some of the cool data we have looked at include startup application data, crowdfunding data and web traffic data for SEO optimisation.
-- While some of us use NLP tools to help recommend investors for a given startup, others are looking at startup-mentor matching formulated as a graph matching problem, or advising the development of a voting system for startup selection. If you see a bunch of people arguing over maths on a whiteboard or getting all hyped about a new ML library in Python, that is us!
+<br>
+
+
