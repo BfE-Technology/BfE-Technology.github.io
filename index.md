@@ -335,7 +335,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
     </div>
     <div class="stats-container">
       <div class="number">30+</div>
-      <div class="desc">countries where BfE leaves a footprint</div>
+      <div class="desc">countries where BfE has left a footprint</div>
     </div>
     <div class="stats-container">
       <div class="number">499</div>
