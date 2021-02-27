@@ -67,7 +67,6 @@ We are a group of passionate professionals and students from all over the world,
 
 We leverage on a wide variety of technological solutions covering software, analytics, algorithms and cloud engineering to address vital needs of the organisation.
 
-  <br>  
 </div>
 
 <div class="card-container">
@@ -177,6 +176,7 @@ We leverage on a wide variety of technological solutions covering software, anal
 <br>
 If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know! ;)
 <br>
+<br>  
 </div>
 
 
@@ -360,7 +360,7 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
 
 </div>
 
-<div class="startups force-black-link">
+<div class="startups force-black-link" style="margin-bottom: -31px;">
   <div class="card video-left">
     <div class="video"><iframe src="https://www.youtube.com/embed/-yFCinGjxeM?start=42&modestbranding=1&cc_lang_pref=en&cc_load_policy=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
     <div class="text"> 
@@ -445,6 +445,7 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
       </div>
     </div>
   </div>
+  <br>
 </div>
            
 <div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white;   background-size: cover;  background-position: 0% 95%;z-index:0; position: relative;" class="force-white-link" > 
