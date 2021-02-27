@@ -247,21 +247,27 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
   </div>
 </div>
            
+<div markdown="1" class="force-dark-link">
 Read more [**here**](https://www.bridgesforenterprise.com/our-impact/case-studies/) about our portfolio of startups.      
+</div>
 
-
-<div style="background-color: #163752; color: white;" class="full-width" markdown="1">
-<br>
-### Inspire &centerdot; Invent &centerdot; Impact
-
-We design software, analytics and algorithmic solutions addressing the most vital issues in scaling the organisation for an ever-growing user base worldwide.
-
-some fancy stats
-<br>  
+<div style="background-color: #163752; color: white;">
+  <br>
+  <h2 style="text-align:center">Inspire • Invent • Impact</h2>
+  <div>
+    We design software, analytics and algorithmic solutions addressing the most vital issues in scaling the organisation for an ever-growing user base worldwide.
+  </div>
+  <div>
+    some fancy stats
+  </div>
+  <br>  
+  <br>  
 </div>
 
 <div markdown="1">
+  <br>  
 ### Any technology discipline from anywhere in the world
+  <br>  
 </div>
 
 <div class="card-container">
