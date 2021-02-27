@@ -498,7 +498,7 @@ All roles are voluntary and unpaid.
 <br>
 ### If you need more convincing...
 
-Here are some of the reasons why people join BfE Technology -
+Here are some of the reasons why people join BfE Technology:
 
 <br>
 
