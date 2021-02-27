@@ -222,6 +222,7 @@ If there is anything you want to contribute that is not listed here and yet woul
      <div style="display:flex; flex-wrap: wrap;">  
        <a href="https://rocket.chat/" target="_blank"><img src="assets/img/rocket_chat.svg"></a>
        <a href="https://aws.amazon.com/" target="_blank"><img src="assets/img/aws.png"></a>
+       <a href="https://www.digitalocean.com/" target="_blank"><img src="assets/img/digitalocean.svg"></a>
        <a href="https://laravel.com/" target="_blank"><img src="assets/img/laravel.png"></a>
        <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img src="assets/img/flask.png"></a>
        <a href="https://vuejs.org/" target="_blank"><img src="assets/img/vue.png"></a>
