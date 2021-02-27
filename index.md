@@ -12,13 +12,13 @@ layout: default
 
 🎉 We just launched a new Technology team at New York Chapter 🗽
 
-⭐ New positions available for [**Global Branding and Design Manager**](https://opps.bridgesforenterprise.com/technology), etc (TBD)
+⭐ New positions available for <a href="https://opps.bridgesforenterprise.com/technology" target="_blank">Global Branding and Design Manager</a> etc (TBD)
 
-⭐ New projects available for [**DevOps**](https://opps.bridgesforenterprise.com/technology), etc (TBD)
+⭐ New projects available for <a href="https://opps.bridgesforenterprise.com/technology" target="_blank">DevOps Manager</a> etc (TBD)
 
 <br>
 
-Sign up for our [**latest projects and roles**](https://opps.bridgesforenterprise.com/technology) or [**email us**](mailto:technology@bridgesforenterprise.com) about how you want to get involved today! 
+Sign up for our <a href="https://opps.bridgesforenterprise.com/technology" target="_blank">latest projects and roles</a> or <a href="mailto:technology@bridgesforenterprise.com">email us</a> today about how you want to get involved! 
 
 <br>
 <br>
@@ -175,9 +175,9 @@ We are a group of passionate professionals and students from all over the world,
 
 <div markdown="1" class="force-dark-link">
 <br>
-If any of them sounds like what you may be interested in, check out our <a href="https://opps.bridgesforenterprise.com">available roles</a> now! 
+If any of them sounds like what you may be interested in, check out our <a href="https://opps.bridgesforenterprise.com" target="_blank">available roles</a> now! 
 
-If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know via <a href="mailto:technology@bridgesforenterprise.com">technology@bridgesforenterprise.com</a>.
+If there is anything you want to contribute that is not listed here and yet would be a great fit for us, let us know via <a href="mailto:technology@bridgesforenterprise.com" target="_blank">technology@bridgesforenterprise.com</a>.
 <br>
 <br>  
 <br>  
@@ -286,7 +286,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
               <li>Project Tech Lead,</li>
               <li>Technical Advisory for our startups,</li>
               <li>Presenter at our workshops and talks, and/or</li>
-              <li><a href="https://www.bridgesforenterprise.com/professionals">Professional Technology Mentor.</a></li>
+              <li><a href="https://www.bridgesforenterprise.com/professionals" target="_blank">Professional Technology Mentor.</a></li>
             </ul>
           </div>
         </div>
@@ -483,7 +483,7 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
 
 <div markdown="1">
 
-All open roles and projects can be found <a href="https://opps.bridgesforenterprise.com/technology/">here</a>. If you are to join as a technology mentor, check out our <a href="https://www.bridgesforenterprise.com">main website</a>. You are always welcome to email <a href="mailto:technology@bridgesforenterprise.com">technology@bridgesforenterprise.com</a> to find out more.
+All open roles and projects can be found <a href="https://opps.bridgesforenterprise.com/technology/" target="_blank">here</a>. If you are to join as a technology mentor, check out our <a href="https://www.bridgesforenterprise.com">main website</a>. You are always welcome to email <a href="mailto:technology@bridgesforenterprise.com" target="_blank">technology@bridgesforenterprise.com</a> to find out more.
 
 **Students.** Our projects are organised by our student chapters at the start of the academic term. There are also global projects available for students with advanced experience and occasionally summer internships for students in early undergraduate years.
 
@@ -534,7 +534,7 @@ Here are some of the reasons why people join BfE Technology:
     <p>This is a long-term project to build an intranet web platform within BfE, which will facilitate resource-sharing and automate many of the time-consuming manual operations. Basic integrations with internal apps such as Google Workspace, Slack, Hubspot and the new public website are being developed to provide an integral user experience within BfE. In the near future, We will also be building a new public platform that will make our learning resources available to the wider social impact and startup community via free subscriptions.</p>
     </div>
   </div>
-  <p>See how you may contribute to the projects from different <a href="#disciplines" data-scroll>disciplines</a>, and sign up for our <a href="https://opps.bridgesforenterprise.com/technology">available projects and roles</a> now!</p>
+  <p>See how you may contribute to the projects from different <a href="#disciplines" data-scroll target="_blank">disciplines</a>, and sign up for our <a href="https://opps.bridgesforenterprise.com/technology" target="_blank">available projects and roles</a> now!</p>
   <br>
   <br>
 </div>
