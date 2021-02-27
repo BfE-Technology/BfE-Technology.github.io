@@ -157,8 +157,8 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
        <a href="https://developer.wordpress.org/" target="_blank"><img src="assets/img/wordpress.png"></a>
        <a href="https://dev.mysql.com/" target="_blank"><img src="assets/img/mysql.png"></a>
        <a href="https://sass-lang.com/" target="_blank"><img src="assets/img/sass.png"></a>
-       <a href="https://jquery.com/" target="_blank"><img src="assets/img/jquery.png"></a>
        <a href="https://d3js.org/" target="_blank"><img src="assets/img/d3.svg"></a>
+       <a href="https://jquery.com/" target="_blank"><img src="assets/img/jquery.png"></a>
        <a href="https://www.djangoproject.com/" target="_blank"><img src="assets/img/django.png"></a>
        <a href="https://reactjs.org/" target="_blank"><img src="assets/img/react.png"></a>
        <a href="https://redux.js.org/" target="_blank"><img src="assets/img/redux.svg"></a>
@@ -198,14 +198,16 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
 
 
 
-<div markdown="1">
+<div markdown="1" class="force-dark-link">
 <br>
 
-### A global network passionate about social impact, startups and technology
+## A global network passionate about social impact, startups and technology
   
-Be part of a global community that cares deeply about applying professional skills to empower early-stage social enterprises and create local ground-up impact. Our students and professionals come from consulting, finance, legal and technical backgrounds, covering a broad spectrum of knowledge and experiences relevant to early-stage startups.
+Be part of a global community that cares deeply about empowering early-stage social enterprises with our professional skills. 
 
-Our startups work in a diverse range of sectors. Check out how some of them harness cutting-edge technology to scale their impact.
+Our students and professionals come from consulting, finance, legal and technical backgrounds, covering a broad spectrum of knowledge and experiences and are found [**across the globe**](https://www.bridgesforenterprise.com).
+
+Our startups work in a diverse range of sectors. Check out how some of them harness **cutting-edge technology** to scale their impact.
 
 <br>
 </div>
