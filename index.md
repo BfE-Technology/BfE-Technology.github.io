@@ -211,16 +211,26 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
 
 </div>
 
-<div class="startups">
-  <div class="card logo-left">
+<div class="startups force-dark-link">
+  <div class="card">
     <div class="logo"><img src="assets/img/7.png"></div>
     <div class="text"> 
       <h3>BAG Innovation</h3>
-      <div class="shorttext">Blabla | Rwanda</div>
-      <div class="desc">Test description</div>
+      <div class="shorttext">
+        <span>Gamified and AI-based digital learning platform for African youth | Rwanda</span><a href="">
+        <a href="https://bag.rw/"><i class="fas fa-link"></i></a>
+      </div>
+      <div class="desc">
+          <ul>
+            <li>Gamification platform built by the former Candy Crush creator. See a <a href="https://youtu.be/MkxERat9jCM">one-minute video presentation of their work</a></li>
+            <li>Raised USD 150K in <a href="https://disrupt-africa.com/2019/10/21/rwandan-ed-tech-startup-bag-innovation-raises-150k-seed-round">seed round</a></li>
+            <li><a href="https://www.newtimes.co.rw/news/rwandan-duo-wins-over-rwf100-million-innovation-award">Joint winner of Make-IT in Africa's contest</a> with an award of approx. 100K in USD </li>
+            <li><a href="https://www.cnbcafrica.com/2020/rwandan-start-ups-win-over-rwf100mn-innovation-award/">Interview with CNBC Africa</a></li>
+          </ul>
+      </div>
     </div>
   </div>
-  <div class="card logo-right">
+  <div class="card">
     <div class="logo" style="background-color:"><img src="assets/img/8_black.png"></div>
     <div class="text"> 
       <h3>Beat Drone</h3>
@@ -228,7 +238,7 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
       <div class="desc">Test description</div>
     </div>
   </div>
-  <div class="card logo-left">
+  <div class="card">
     <div class="logo"><img src="assets/img/24.png"></div>
     <div class="text"> 
       <h3>Farming Data</h3>
@@ -236,7 +246,7 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
       <div class="desc">Test description</div>
     </div>
   </div>
-  <div class="card logo-right">
+  <div class="card">
     <div class="logo"><img src="assets/img/28.png"></div>
     <div class="text"> 
       <h3>Gravilog</h3>
