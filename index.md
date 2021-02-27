@@ -438,7 +438,6 @@ Our startups work in a diverse range of sectors. Check out how some of them harn
 
 <div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: black;z-index: -1;opacity: 0.6;"> </div>
 
-<br>
 <h2>Join us today</h2>
 
 <div markdown="1">
