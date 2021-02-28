@@ -199,7 +199,7 @@ If there is anything you want to contribute that is not listed here and yet woul
   <br>
   <h2 style="text-align: center;">Tech Stack</h2>
   <div id="tech-stack">
-     <div style="display:flex; flex-wrap: wrap;">   
+     <div class="tech-stack-logos">   
        <a href="https://azure.microsoft.com/" target="_blank"><img src="assets/img/azure.svg"></a>
        <a href="https://azure.microsoft.com/" target="_blank"><img src="assets/img/github.png"></a>
        <a href="https://www.docker.com/" target="_blank"><img src="assets/img/docker.png"></a>
@@ -222,7 +222,7 @@ If there is anything you want to contribute that is not listed here and yet woul
       <br>
      <div>We also manage automations on platforms such as</div>
       <br>
-     <div style="display:flex; flex-wrap: wrap;">  
+     <div class="tech-stack-logos">  
        <a href="https://developers.facebook.com/" target="_blank"><img src="assets/img/facebook.png"></a>
        <a href="https://developers.hubspot.com/docs/api/overview" target="_blank"><img src="assets/img/hubspot.png"></a>
        <a href="https://api.slack.com/" target="_blank"><img src="assets/img/slack.png"></a>
@@ -231,7 +231,7 @@ If there is anything you want to contribute that is not listed here and yet woul
       <br>
      <div>We are always looking for new tools that can improve our work. Currently, we are actively looking for developers with experience including but not limited to</div>
       <br>
-     <div style="display:flex; flex-wrap: wrap;">  
+     <div class="tech-stack-logos">  
        <a href="https://nodejs.org/" target="_blank"><img src="assets/img/nodejs.png"></a>  
        <a href="https://www.mongodb.com/" target="_blank"><img src="assets/img/MongoDB.png"></a>
        <a href="https://rocket.chat/" target="_blank"><img src="assets/img/rocket_chat.svg"></a>
