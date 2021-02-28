@@ -222,6 +222,8 @@ If there is anything you want to contribute that is not listed here and yet woul
      <div>We are always looking for new tools that can improve our work. Currently, we are actively looking for developers with experience including but not limited to</div>
       <br>
      <div style="display:flex; flex-wrap: wrap;">  
+       <a href="https://nodejs.org/" target="_blank"><img src="assets/img/nodejs.png"></a>  
+       <a href="https://www.mongodb.com/" target="_blank"><img src="assets/img/MongoDB.png"></a>
        <a href="https://rocket.chat/" target="_blank"><img src="assets/img/rocket_chat.svg"></a>
        <a href="https://aws.amazon.com/" target="_blank"><img src="assets/img/aws.png"></a>
        <a href="https://www.digitalocean.com/" target="_blank"><img src="assets/img/digitalocean.svg"></a>
