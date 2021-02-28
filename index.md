@@ -474,7 +474,7 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
       </div>
       <div class="desc">
           <ul>
-            <li>Founded and advised by PhDs and researchers from University of Cambridge; see an <a href="https://www.youtube.com/watch?v=BWkMiNHI57o">interview with the team</a></li>
+            <li>Founded and advised by PhDs and researchers from University of Cambridge
             <li>Won <a href="https://www.gatescambridge.org/about/news/alumna-leads-international-consortium-for-smallholders-in-colombia/">approx. 445K USD funding</a> from Innovate UK Grant and backed by <a href="https://farmingdata.io/about/" target="_blank">Cambridge Judge Business School and the UK Prosperity Fund, among others</a></li>
             <li>Check out <a href="https://youtu.be/PhPvHw6VKWE" target="_blank">the latest video</a> of their flagship trading app, Listo (the video is in Spanish with auto-translated subtitle available)</li>
           </ul>
