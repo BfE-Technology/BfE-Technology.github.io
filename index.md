@@ -345,7 +345,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
     </div>
     <div class="stats-container">
       <div class="number">348</div>
-      <div class="desc">professional mentors joined our cause</div>
+      <div class="desc">professional mentors signed up for our cause</div>
     </div>
     <div class="stats-container">
       <div class="number">30+</div>
