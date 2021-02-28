@@ -12,9 +12,19 @@ layout: default
 
 🎉 We just launched a new Technology team at New York Chapter 🗽
 
-⭐ New positions available for <a href="https://opps.bridgesforenterprise.com/technology" target="_blank">Global Branding and Design Manager</a> etc (TBD)
+⭐ New positions available for <a href="https://opps.bridgesforenterprise.com/global/technology/outreach/Global-Branding-and-Design-Manager/" target="_blank">Global Branding and Design Manager</a>, <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Product-Manager/" target="_blank">Global Product Manager</a>, <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Technology-Outreach-Manager/" target="_blank">Global Technology Outreach Manager</a>, <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Cyber-Security-Manager/" target="_blank">Global Cyber Security Manager</a> and <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Analytics-and-Algorithms-Manager/" target="_blank">Global Analytics and Algorithms Manager</a> 
 
-⭐ New projects available for <a href="https://opps.bridgesforenterprise.com/technology" target="_blank">DevOps Manager</a> etc (TBD)
+⭐ New projects available in <a href="https://opps.bridgesforenterprise.com/global/technology/DevOps-Project/" target="_blank">DevOps and Cloud Engineering</a>, <a href="https://opps.bridgesforenterprise.com/global/cambridge/singapore/new%20york/rotterdam/vancouver/technology/InvestorSelector-NLP-Project/" target="_blank">Natural Language Processing</a> and <a href="https://opps.bridgesforenterprise.com/global/technology/RocketChat-Project/" target="_blank">App Development for our first internal chat platform</a>!
+
+🔥 Recruiting for summer interns in <a href="https://opps.bridgesforenterprise.com/global/cambridge/singapore/new%20york/rotterdam/vancouver/technology/InvestorSelector-AppDev-Project/" target="_blank">app development for a smart database</a> for our finance advisory services. We will start reviewing applications from **1 May** onwards
+
+🎆 Are you a huge proponent of the open-source culture just like we do? Join to lead OpenBfE, our first <a href="https://opps.bridgesforenterprise.com/global/technology/Open-BfE/" target="_blank">open-source initiative</a>
+
+⭐ We are looking for a talented and driven student based in the University of Cambridge to lead <a href="https://opps.bridgesforenterprise.com/cambridge/technology/Cam-Tech-Director/" target="_blank">our Cambridge Technology Team</a> 🇬🇧! We will start reviewing applications from **20 March** onwards
+
+
+
+
 
 <br>
 
