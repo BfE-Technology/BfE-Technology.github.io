@@ -12,7 +12,13 @@ layout: default
 
 🎉 We just launched a new Technology team at New York Chapter 🗽
 
-⭐ New positions available for <a href="https://opps.bridgesforenterprise.com/global/technology/outreach/Global-Branding-and-Design-Manager/" target="_blank">Global Branding and Design Manager</a>, <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Product-Manager/" target="_blank">Global Product Manager</a>, <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Technology-Outreach-Manager/" target="_blank">Global Technology Outreach Manager</a>, <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Cyber-Security-Manager/" target="_blank">Global Cyber Security Manager</a> and <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Analytics-and-Algorithms-Manager/" target="_blank">Global Analytics and Algorithms Manager</a> 
+⭐ New positions available for Global Managers in
+- <a href="https://opps.bridgesforenterprise.com/global/technology/outreach/Global-Branding-and-Design-Manager/" target="_blank">Branding and Design</a>
+- <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Product-Manager/" target="_blank">Product Management</a>
+- <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Technology-Outreach-Manager/" target="_blank">Technology Outreach</a>
+- <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Cyber-Security-Manager/" target="_blank">Cyber Security</a>
+- <a href="https://opps.bridgesforenterprise.com/global/technology/Global-DataOps-Manager/" target="_blank">DataOps</a>
+- <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Analytics-and-Algorithms-Manager/" target="_blank">Analytics and Algorithms</a> 
 
 ⭐ New projects available in <a href="https://opps.bridgesforenterprise.com/global/technology/DevOps-Project/" target="_blank">DevOps and Cloud Engineering</a>, <a href="https://opps.bridgesforenterprise.com/global/cambridge/singapore/new%20york/rotterdam/vancouver/technology/InvestorSelector-NLP-Project/" target="_blank">Natural Language Processing</a> and <a href="https://opps.bridgesforenterprise.com/global/technology/RocketChat-Project/" target="_blank">App Development for our first internal chat platform</a>!
 
