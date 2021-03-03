@@ -485,13 +485,14 @@ body {
 }
 
 /* fix home icon bug */
+
+#landing-home-icon{
+  font-size: 18px;
+}
+
 @media only screen and (min-width: 550px){
     #landing-home-icon{
       font-size: 32px;
     }
 }
 
-
-#landing-home-icon{
-  font-size: 18px;
-}
