@@ -484,3 +484,14 @@ body {
   justify-content: center;
 }
 
+/* fix home icon bug */
+@media only screen and (min-width: 550px){
+    #landing-home-icon{
+      font-size: 32px;
+    }
+}
+
+
+#landing-home-icon{
+  font-size: 18px;
+}
