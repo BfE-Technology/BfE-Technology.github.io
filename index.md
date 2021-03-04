@@ -15,8 +15,9 @@ layout: default
 🎉 We just launched a new Technology team at New York Chapter 🗽
 
 ⭐ New positions available for Global Managers in
-- <a href="https://opps.bridgesforenterprise.com/global/technology/outreach/Global-Branding-and-Design-Manager/" target="_blank">Branding and Design</a>
+- <a href="https://opps.bridgesforenterprise.com/global/technology/DevOps-Project/" target="_blank">DevOps</a>
 - <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Technology-Outreach-Manager/" target="_blank">Technology Outreach</a>
+- <a href="https://opps.bridgesforenterprise.com/global/technology/outreach/Global-Branding-and-Design-Manager/" target="_blank">Branding and Design</a>
 - <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Cyber-Security-Manager/" target="_blank">Cyber Security</a>
 
 ⭐ New projects available in <a href="https://opps.bridgesforenterprise.com/global/technology/DevOps-Project/" target="_blank">DevOps and Cloud Engineering</a>, <a href="https://opps.bridgesforenterprise.com/global/cambridge/singapore/new%20york/rotterdam/vancouver/technology/InvestorSelector-NLP-Project/" target="_blank">Natural Language Processing</a> and <a href="https://opps.bridgesforenterprise.com/global/technology/RocketChat-Project/" target="_blank">App Development for our first internal chat platform</a>!
