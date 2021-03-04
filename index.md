@@ -405,7 +405,7 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
 
 <div class="startups force-black-link" style="margin-bottom: -31px;">
   <div class="card video-left">
-    <div class="video"><iframe src="https://www.youtube.com/embed/-yFCinGjxeM?start=42&modestbranding=1&cc_lang_pref=en&cc_load_policy=1&rel=0&playlist=-yFCinGjxeM&loop=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+    <div class="video"><iframe src="https://www.youtube.com/embed/-yFCinGjxeM?start=42&modestbranding=1&cc_lang_pref=en&cc_load_policy=1&rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
     <div class="text"> 
       <h2>ARED</h2>
       <div class="shorttext">
@@ -422,7 +422,7 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
     </div>
   </div>
   <div class="card video-right">
-    <div class="video"><iframe src="https://www.youtube.com/embed/ektz966A188?modestbranding=1&cc_lang_pref=en&cc_load_policy=1&rel=0&playlist=ektz966A188&loop=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    <div class="video"><iframe src="https://www.youtube.com/embed/ektz966A188?modestbranding=1&cc_lang_pref=en&cc_load_policy=1&rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
     <div class="text"> 
       <h2>BAG Innovation</h2>
       <div class="shorttext">
@@ -439,7 +439,7 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
     </div>
   </div>
   <div class="card video-left">
-    <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/ud__YBJjKxU?start=47&modestbranding=1&cc_lang_pref=en&cc_load_policy=1&rel=0&playlist=ud__YBJjKxU&loop=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/ud__YBJjKxU?start=47&modestbranding=1&cc_lang_pref=en&cc_load_policy=1&rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
     <div class="text"> 
       <h2>Beat Drone</h2>
       <div class="shorttext">
@@ -455,7 +455,7 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
     </div>
   </div>
   <div class="card video-right">
-    <div class="video"><iframe src="https://www.youtube.com/embed/324XsWmpv8I?modestbranding=1&cc_lang_pref=en&cc_load_policy=1&rel=0&playlist=324XsWmpv8I&loop=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    <div class="video"><iframe src="https://www.youtube.com/embed/324XsWmpv8I?modestbranding=1&cc_lang_pref=en&cc_load_policy=1&rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
     <div class="text"> 
       <h2>Coronet Blockchain</h2>
       <div class="shorttext">
@@ -471,7 +471,7 @@ Our startups work in a diverse range of sectors. Read more about our in-house ca
     </div>
   </div>
   <div class="card video-left">
-    <div class="video"><iframe src="https://www.youtube.com/embed/BWkMiNHI57o?modestbranding=1&cc_lang_pref=en&cc_load_policy=1&rel=0&playlist=BWkMiNHI57o&loop=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    <div class="video"><iframe src="https://www.youtube.com/embed/BWkMiNHI57o?modestbranding=1&cc_lang_pref=en&cc_load_policy=1&rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
     <div class="text"> 
       <h2>Farming Data</h2>
       <div class="shorttext">
