@@ -181,7 +181,7 @@ We are a group of passionate professionals and students from all over the world,
           <img src="assets/img/TechnicalAdvisory.jpg">
         </div>
         <div class="flip-card-back">
-          <p>Offer technical advice to our startups as part of our flagship incubation programmes in any engineering and technology discipline</p>
+          <p>Offer technical advice to startups as part of our flagship incubation programme in any engineering and technology discipline</p>
         </div>
       </div>
     </div> 
