@@ -170,7 +170,7 @@ We are a group of passionate professionals and students from all over the world,
           <img src="assets/img/BrandingDesign.jpg">
         </div>
         <div class="flip-card-back">
-          <p>Oversee branding strategies and guidelines for all types of digital media under the Outreach division, while converting them into standardised stylesheets to be imposed across the Technology Division</p>
+          <p>Manage branding strategies and guidelines for all types of digital media under the Outreach division, while converting them into standardised stylesheets to be imposed across the Technology Division</p>
         </div>
       </div>
     </div> 
@@ -181,7 +181,7 @@ We are a group of passionate professionals and students from all over the world,
           <img src="assets/img/TechnicalAdvisory.jpg">
         </div>
         <div class="flip-card-back">
-          <p>Oversee the Technical Advisory programme within Incubation, while working with the Technology Division to host joint technical trainings</p>
+          <p>Offer technical advice to our startups as part of our flagship incubation programmes in any engineering and technology discipline</p>
         </div>
       </div>
     </div> 
