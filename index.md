@@ -8,21 +8,30 @@ layout: default
   
 # Recent Highlights
 
+## Project Updates
+
 🚀 Our first <a href="https://www.bridgesforenterprise.com" target="_blank">self-hosted website</a> has now launched!
 
-🎉 We just onboarded our new Global Analytics and Algorithm Manager and Global Product Manager 🌍
+## Team Updates
+
+🎉 We are excited to onboard our new Global Analytics and Algorithm Manager and Global Product Manager 🌍
 
 🎉 We just launched a new Technology team at New York Chapter 🗽
 
-⭐ New positions available for Global Managers in
+## New Openings
+
+⭐ Looking to expand your technology exposure while building technical leadership skills? Apply to one of our Global Manager roles today!
 - <a href="https://opps.bridgesforenterprise.com/global/technology/DevOps-Project/" target="_blank">DevOps</a>
 - <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Technology-Outreach-Manager/" target="_blank">Technology Outreach</a>
 - <a href="https://opps.bridgesforenterprise.com/global/technology/outreach/Global-UI-UX-Manager/" target="_blank">UI/UX</a>
 - <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Cyber-Security-Manager/" target="_blank">Cyber Security</a>
 
-⭐ New projects available in <a href="https://opps.bridgesforenterprise.com/global/technology/DevOps-Project/" target="_blank">DevOps and Cloud Engineering</a>, <a href="https://opps.bridgesforenterprise.com/global/cambridge/singapore/new%20york/rotterdam/vancouver/technology/InvestorSelector-NLP-Project/" target="_blank">Natural Language Processing</a> and <a href="https://opps.bridgesforenterprise.com/global/technology/RocketChat-Project/" target="_blank">App Development for our first internal chat platform</a>!
+⭐ Contribute to our cause via the wide range of projects available in 
+- <a href="https://opps.bridgesforenterprise.com/global/technology/DevOps-Project/" target="_blank">DevOps and Cloud Engineering</a>
+- <a href="https://opps.bridgesforenterprise.com/global/cambridge/singapore/new%20york/rotterdam/vancouver/technology/InvestorSelector-NLP-Project/" target="_blank">Natural Language Processing</a>
+- <a href="https://opps.bridgesforenterprise.com/global/technology/RocketChat-Project/" target="_blank">App Development for our first internal chat platform</a>
 
-🔥 Recruiting for summer interns in <a href="https://opps.bridgesforenterprise.com/global/cambridge/singapore/new%20york/rotterdam/vancouver/technology/InvestorSelector-AppDev-Project/" target="_blank">app development for a smart database</a> for our finance advisory services. We will start reviewing applications from **1 May** onwards
+🔥 Join us for a fruitful summer internship in <a href="https://opps.bridgesforenterprise.com/global/cambridge/singapore/new%20york/rotterdam/vancouver/technology/InvestorSelector-AppDev-Project/" target="_blank">app development for a smart database</a> for our finance advisory services. We will start reviewing applications from **1 May** onwards
 
 🎆 Are you a huge proponent of the open-source culture just like we do? Join to lead OpenBfE, our first <a href="https://opps.bridgesforenterprise.com/global/technology/Open-BfE/" target="_blank">open-source initiative</a>
 
@@ -57,12 +66,13 @@ Don't want to miss updates on our <a href="https://opps.bridgesforenterprise.com
 <div class="two-cols">
   <h2> Who we are </h2>
   <div markdown="1">
-[Bridges for Enterprise (BfE)](https://www.bridgesforenterprise.com) is a global non-profit that provides pro-bono advisory services to social impact startups in the developing world.
+Bridges for Enterprise (BfE) is a global non-profit that provides pro-bono advisory services to social impact startups in the developing world.
 
 At BfE Technology, we build algorithms and products to connect our global community and make our services accessible to all. 
 
-
 We are a group of passionate professionals and students from all over the world, who care deeply about pursuing professional growth while creating a lasting social impact beyond our day-to-day work. 
+
+Check out our <a href="https://www.bridgesforenterprise.com" target="_blank">main website</a> to find out more about what we do.
 
   </div>
 </div>
