@@ -33,7 +33,9 @@ layout: default
 
 <br>
 
-Don't want to miss updates on our <a href="https://opps.bridgesforenterprise.com/technology" target="_blank">latest projects and roles</a>? Sign up for our newly launched  or <a href="mailto:technology@bridgesforenterprise.com">email us</a> today about how you want to get involved! 
+Don't want to miss updates on our <a href="https://opps.bridgesforenterprise.com/technology" target="_blank">latest projects and roles</a>? Subscribe to our newly launched <a href="https://www.bridgesforenterprise.com/our-insights/newsletter/" target="_blank">Tech@BfE Newsletter</a> today!
+
+Don't forget that you are always welcome to <a href="mailto:technology@bridgesforenterprise.com">email us</a> about how you want to get involved 😎
 
 <br>
 <br>
