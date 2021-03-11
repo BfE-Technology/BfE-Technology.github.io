@@ -2,23 +2,23 @@
 layout: default
 ---
 
-<div markdown="1" class="force-dark-link">
+<div markdown="1" class="force-dark-link" id="recent-highlights">
 
 <br>
   
 # Recent Highlights
 
-### Project Updates
+#### Project Updates
 
 🚀 Our first <a href="https://www.bridgesforenterprise.com" target="_blank">self-hosted website</a> has now launched!
 
-### Team Updates
+#### Team Updates
 
 🎉 We are excited to onboard our new Global Analytics and Algorithm Manager and Global Product Manager 🌍
 
 🎉 We just launched a new Technology team at New York Chapter 🗽
 
-### New Openings
+#### New Openings
 
 ⭐ Looking to expand your technology exposure while building technical leadership skills? Apply to one of our Global Manager roles today!
 - <a href="https://opps.bridgesforenterprise.com/global/technology/DevOps-Project/" target="_blank">DevOps</a>
@@ -31,7 +31,7 @@ layout: default
 - <a href="https://opps.bridgesforenterprise.com/global/cambridge/singapore/new%20york/rotterdam/vancouver/technology/InvestorSelector-NLP-Project/" target="_blank">Natural Language Processing</a>
 - <a href="https://opps.bridgesforenterprise.com/global/technology/RocketChat-Project/" target="_blank">App Development for our first internal chat platform</a>
 
-🔥 Join us for a fruitful summer internship in <a href="https://opps.bridgesforenterprise.com/global/cambridge/singapore/new%20york/rotterdam/vancouver/technology/InvestorSelector-AppDev-Project/" target="_blank">app development for a smart database</a> for our finance advisory services. We will start reviewing applications from **1 May** onwards
+🔥 Join us for a fruitful software development summer internship on <a href="https://opps.bridgesforenterprise.com/global/cambridge/singapore/new%20york/rotterdam/vancouver/technology/Self-hosted-Password-Manager-Project/" target="_blank">our self-hosted password manager</a>. We will start reviewing applications from **1 May** onwards
 
 🎆 Are you a huge proponent of the open-source culture just like we do? Join to lead OpenBfE, our first <a href="https://opps.bridgesforenterprise.com/global/technology/Open-BfE/" target="_blank">open-source initiative</a>
 
