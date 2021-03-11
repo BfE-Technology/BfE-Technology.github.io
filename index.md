@@ -24,6 +24,7 @@ layout: default
 - <a href="https://opps.bridgesforenterprise.com/global/technology/DevOps-Project/" target="_blank">DevOps and Cloud Engineering</a>
 - <a href="https://opps.bridgesforenterprise.com/global/cambridge/singapore/new%20york/rotterdam/vancouver/technology/InvestorSelector-NLP-Project/" target="_blank">Natural Language Processing</a>
 - <a href="https://opps.bridgesforenterprise.com/global/technology/RocketChat-Project/" target="_blank">App Development for our first internal chat platform</a>
+- <a href="https://opps.bridgesforenterprise.com/global/communications/outreach/technology/VideoAnimation-Project/" target="_blank">Video Animation</a>
 
 🔥 Join us for a fruitful software development summer internship on <a href="https://opps.bridgesforenterprise.com/global/cambridge/singapore/new%20york/rotterdam/vancouver/technology/Self-hosted-Password-Manager-Project/" target="_blank">our self-hosted password manager</a>. We will start reviewing applications from **1 May** onwards
 
