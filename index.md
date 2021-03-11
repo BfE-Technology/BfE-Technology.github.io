@@ -527,7 +527,7 @@ Here are some of the reasons why people join BfE Technology:
 
 <div id="featured-projects" class="force-dark-link" style="background-color: #f4f4f4;margin-bottom: -100px;">
   <br>
-  <h2 style="text-align: center;">Featured Projects</h2>
+  <h2 style="text-align: center;">Ongoing projects you could help to build</h2>
   <div class="card">
     <h3>Startup-Mentor Matching Algorithm</h3>
     <div class="desc">
