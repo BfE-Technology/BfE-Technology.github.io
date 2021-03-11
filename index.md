@@ -205,6 +205,8 @@ If there is anything you want to contribute that is not listed here and yet woul
   <br>
   <h2 style="text-align: center;">Tech Stack</h2>
   <div id="tech-stack">
+     <div>We currently work with the following platforms and tools:</div>
+     <br>
      <div class="tech-stack-logos">   
        <a href="https://azure.microsoft.com/" target="_blank"><img src="assets/img/azure.svg"></a>
        <a href="https://azure.microsoft.com/" target="_blank"><img src="assets/img/github.png"></a>
@@ -274,6 +276,26 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
+          <img src="assets/img/colors.png" id="no-coding">
+          <div>No Coding</div>
+        </div>
+        <div class="flip-card-back">
+          <div>
+            Contribute your unique set of skills to our technology team via
+            <ul>
+              <li>Business Analytics,</li>
+              <li>Product Management,</li>
+              <li>Partnerships, </li>
+              <li>Branding and Design, </li>
+              <li>and anything you can think of!</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>      
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
           <img src="assets/img/colors.png" id="beginner">          
           <div>Beginner</div>
         </div>
@@ -305,26 +327,6 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
               <li>Technical Advisory for our startups,</li>
               <li>Presenter at our workshops and talks, and/or</li>
               <li><a href="https://www.bridgesforenterprise.com/professionals" target="_blank">Professional Technology Mentor.</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>      
-    <div class="flip-card">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          <img src="assets/img/colors.png" id="no-coding">
-          <div>No coding</div>
-        </div>
-        <div class="flip-card-back">
-          <div>
-            Contribute your unique set of skills to our technology team via
-            <ul>
-              <li>Business Analytics,</li>
-              <li>Product Management,</li>
-              <li>Partnerships, </li>
-              <li>Branding and Design, </li>
-              <li>and anything you can think of!</li>
             </ul>
           </div>
         </div>
@@ -372,10 +374,6 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
     <div class="stats-container">
       <div class="number">5</div>
       <div class="desc">city chapters</div>
-    </div>
-    <div class="stats-container">
-      <div class="number">2</div>
-      <div class="desc">major web platforms<br>(with 2 more on the way)</div>
     </div>
     <div class="stats-container">
       <div class="number">65</div>
