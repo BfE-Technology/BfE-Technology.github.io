@@ -228,7 +228,7 @@ If there is anything you want to contribute that is not listed here and yet woul
        <a href="https://radimrehurek.com/gensim/" target="_blank"><img src="assets/img/gensim.png"></a>
      </div>
       <br>
-     <div>We also manage automations on platforms such as</div>
+     <div>We also manage automations on platforms such as:</div>
       <br>
      <div class="tech-stack-logos">  
        <a href="https://developers.facebook.com/" target="_blank"><img src="assets/img/facebook.png"></a>
@@ -237,7 +237,7 @@ If there is anything you want to contribute that is not listed here and yet woul
        <a href="https://workspace.google.com/" target="_blank"><img style="height: 20px;transform: translate(0px, 10px);" src="assets/img/google_workspace.png"></a>
      </div>
       <br>
-     <div>We are always looking for new tools that can improve our work. Currently, we are actively looking for developers with experience including but not limited to</div>
+     <div>We are always looking for new tools that can improve our work. Currently, we are actively looking for developers with experience including but not limited to:</div>
       <br>
      <div class="tech-stack-logos">  
        <a href="https://nodejs.org/" target="_blank"><img src="assets/img/nodejs.png"></a>  
@@ -391,8 +391,6 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
 
 ## A global network passionate about social impact, startups and technology
   
-Be part of a global community that cares deeply about empowering early-stage social enterprises with our professional skills. 
-
 Our students and professionals come from **consulting**, **finance**, **legal** and **technology** backgrounds, covering a broad spectrum of knowledge and experiences and are found [**across the globe**](https://www.bridgesforenterprise.com).
 
 Our startups work in a diverse range of sectors. Read more about our in-house case studies [**here**](https://www.bridgesforenterprise.com/our-impact/case-studies/), or check out how some of them harness **cutting-edge technology** to scale their impact below.
