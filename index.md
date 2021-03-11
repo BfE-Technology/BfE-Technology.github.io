@@ -8,7 +8,7 @@ layout: default
   
 # Recent Highlights
 
-🚀 Our first self-hosted website is on the way!
+🚀 Our first <a href="https://www.bridgesforenterprise.com" target="_blank">self-hosted website</a> has now launched!
 
 🎉 We just onboarded our new Global Analytics and Algorithm Manager and Global Product Manager 🌍
 
@@ -34,7 +34,7 @@ layout: default
 
 <br>
 
-Sign up for our <a href="https://opps.bridgesforenterprise.com/technology" target="_blank">latest projects and roles</a> or <a href="mailto:technology@bridgesforenterprise.com">email us</a> today about how you want to get involved! 
+Don't want to miss updates on our <a href="https://opps.bridgesforenterprise.com/technology" target="_blank">latest projects and roles</a>? Sign up for our newly launched  or <a href="mailto:technology@bridgesforenterprise.com">email us</a> today about how you want to get involved! 
 
 <br>
 <br>
@@ -79,10 +79,11 @@ We are a group of passionate professionals and students from all over the world,
 
 <div id="disciplines" class="force-dark-link">
   <br>  
-  <h2>Disciplines we are looking for:</h2>
+  <h2>Disciplines we are looking for</h2>
 
-<p>We leverage on a wide variety of technological solutions covering software, analytics, algorithms and cloud engineering to address vital needs of the organisation. Check out some of our ongoing projects <a href="#featured-projects" data-scroll>below</a>.</p>
+<p>We leverage on a wide variety of technological solutions covering software, analytics, algorithms and cloud engineering to address vital needs of the organisation. </p>
 
+<p>You may also check out some of our ongoing projects <a href="#featured-projects" data-scroll>here</a>.</p>
 <br>  
 </div>
 
