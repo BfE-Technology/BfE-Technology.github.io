@@ -8,17 +8,11 @@ layout: default
   
 # Recent Highlights
 
-### Project Updates
-
 🚀 Our first <a href="https://www.bridgesforenterprise.com" target="_blank">self-hosted website</a> has now launched!
-
-### Team Updates
 
 🎉 We are excited to onboard our new Global Analytics and Algorithm Manager and Global Product Manager 🌍
 
 🎉 We just launched a new Technology team at New York Chapter 🗽
-
-### New Openings
 
 ⭐ Looking to expand your technology exposure while building technical leadership skills? Apply to one of our Global Manager roles today!
 - <a href="https://opps.bridgesforenterprise.com/global/technology/DevOps-Project/" target="_blank">DevOps</a>
@@ -36,10 +30,6 @@ layout: default
 🎆 Are you a huge proponent of the open-source culture just like we do? Join to lead OpenBfE, our first <a href="https://opps.bridgesforenterprise.com/global/technology/Open-BfE/" target="_blank">open-source initiative</a>
 
 ⭐ We are looking for a talented and driven student based in the University of Cambridge to lead <a href="https://opps.bridgesforenterprise.com/cambridge/technology/Cam-Tech-Director/" target="_blank">our Cambridge Technology Team</a> 🇬🇧! We will start reviewing applications from **20 March** onwards
-
-
-
-
 
 <br>
 
