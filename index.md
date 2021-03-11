@@ -8,17 +8,17 @@ layout: default
   
 # Recent Highlights
 
-#### Project Updates
+### Project Updates
 
 🚀 Our first <a href="https://www.bridgesforenterprise.com" target="_blank">self-hosted website</a> has now launched!
 
-#### Team Updates
+### Team Updates
 
 🎉 We are excited to onboard our new Global Analytics and Algorithm Manager and Global Product Manager 🌍
 
 🎉 We just launched a new Technology team at New York Chapter 🗽
 
-#### New Openings
+### New Openings
 
 ⭐ Looking to expand your technology exposure while building technical leadership skills? Apply to one of our Global Manager roles today!
 - <a href="https://opps.bridgesforenterprise.com/global/technology/DevOps-Project/" target="_blank">DevOps</a>
