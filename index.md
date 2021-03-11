@@ -351,7 +351,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
   </div>
   <div id="stats">
     <div class="stats-container">
-      <div class="number">89</div>
+      <div class="number">94</div>
       <div class="desc">startups served</div>
     </div>
     <div class="stats-container">
