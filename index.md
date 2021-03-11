@@ -79,7 +79,7 @@ We are a group of passionate professionals and students from all over the world,
 
 <div id="disciplines" class="force-dark-link">
   <br>  
-  <h2>Any technology discipline from anywhere in the world</h2>
+  <h2>Disciplines we are looking for:</h2>
 
 <p>We leverage on a wide variety of technological solutions covering software, analytics, algorithms and cloud engineering to address vital needs of the organisation. Check out some of our ongoing projects <a href="#featured-projects" data-scroll>below</a>.</p>
 
@@ -123,7 +123,7 @@ We are a group of passionate professionals and students from all over the world,
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          <div>DevOps</div>
+          <div>DevOps and Cloud</div>
           <img src="assets/img/DevOps.jpg">
         </div>
         <div class="flip-card-back">
