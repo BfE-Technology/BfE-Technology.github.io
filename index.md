@@ -343,7 +343,7 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
 
 <div style="background-color: #163752; color: white;">
   <br>
-  <h2 style="text-align:center">Inspire • Invent • Impact</h2>
+  <h2 style="text-align:center">BfE in Numbers</h2>
   <div>
     We formulate analysis, build innovative products and offer insightful advice to create a lasting global impact on our community. Here are some statistics about our operation.  
   </div>
@@ -390,11 +390,10 @@ Whether you are looking to pick up new tools or challenge yourself with advanced
 <div markdown="1" class="force-dark-link">
 <br>
 
-## A global network passionate about social impact, startups and technology
+## How our startups leverage technology for impact
   
-Our students and professionals come from **consulting**, **finance**, **legal** and **technology** backgrounds, covering a broad spectrum of knowledge and experiences and are found [**across the globe**](https://www.bridgesforenterprise.com).
-
-Our startups work in a diverse range of sectors. Read more about our in-house case studies [**here**](https://www.bridgesforenterprise.com/our-impact/case-studies/), or check out how some of them harness **cutting-edge technology** to scale their impact below.
+Our internal technology team empowers social entrepreneurs across the world by improving the productivity and efficiency of our advisory services. Check out some of our portfolio startups below 
+👇
 
 <br>
 
