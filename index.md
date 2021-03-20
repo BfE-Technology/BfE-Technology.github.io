@@ -225,7 +225,6 @@ If there is anything you want to contribute that is not listed here and yet woul
        <a href="https://jquery.com/" target="_blank"><img src="assets/img/jquery.png"></a>
        <a href="https://www.djangoproject.com/" target="_blank"><img src="assets/img/django.png"></a>
        <a href="https://reactjs.org/" target="_blank"><img src="assets/img/react.png"></a>
-       <a href="https://redux.js.org/" target="_blank"><img src="assets/img/redux.svg"></a>
        <a href="https://www.python.org/" target="_blank"><img src="assets/img/python.png"></a>
        <a href="https://colab.research.google.com/" target="_blank"><img src="assets/img/colab.png"></a>
        <a href="https://marketingplatform.google.com/intl/en_uk/about/analytics/" target="_blank"><img src="assets/img/google_analytics.png"></a>
