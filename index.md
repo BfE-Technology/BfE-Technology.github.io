@@ -22,7 +22,7 @@ layout: default
 
 ⭐ Contribute to our cause via the wide range of projects available in 
 - <a href="https://opps.bridgesforenterprise.com/global/technology/DevOps-Project/" target="_blank">DevOps and Cloud Engineering</a>
-- <a href="https://opps.bridgesforenterprise.com/global/cambridge/singapore/new%20york/rotterdam/vancouver/technology/InvestorSelector-NLP-Project/" target="_blank">Natural Language Processing</a>
+- <a href="https://opps.bridgesforenterprise.com/global/cambridge/singapore/new%20york/rotterdam/vancouver/technology/InvestorSelector-NLP-Project/" target="_blank">Natural Language Processing for Investor Data</a>
 - <a href="https://opps.bridgesforenterprise.com/global/technology/RocketChat-Project/" target="_blank">App Development for our first internal chat platform</a>
 - <a href="https://opps.bridgesforenterprise.com/global/communications/outreach/technology/VideoAnimation-Project/" target="_blank">Video Animation</a>
 
