@@ -14,7 +14,7 @@ layout: default
 
 🎉 We just launched a new Technology team at New York Chapter 🗽
 
-⭐ Looking to expand your technology exposure while building technical leadership skills? Apply to one of our Global Manager roles today!
+⭐ Looking to expand your technology exposure while building technical leadership skills? Apply to join our management team today!
 - <a href="https://opps.bridgesforenterprise.com/global/technology/DevOps-Project/" target="_blank">DevOps</a>
 - <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Technology-Outreach-Manager/" target="_blank">Technology Outreach</a>
 - <a href="https://opps.bridgesforenterprise.com/global/technology/outreach/Global-UI-UX-Manager/" target="_blank">UI/UX</a>
