@@ -12,7 +12,7 @@ layout: default
 
 🚀 Our first <a href="https://www.bridgesforenterprise.com" target="_blank">self-hosted website</a> has now launched!
 
-🎉 We are excited to onboard our new Global Analytics and Algorithm Manager and Global Product Manager 🌍
+🎉 We are excited to onboard our new Global Analytics and Algorithm Manager 🌍
 
 🎉 We just launched a new Technology team at New York Chapter 🗽
 
@@ -20,6 +20,7 @@ layout: default
 - <a href="https://opps.bridgesforenterprise.com/global/technology/DevOps-Project/" target="_blank">DevOps</a>
 - <a href="https://opps.bridgesforenterprise.com/global/technology/outreach/Global-UI-UX-Manager/" target="_blank">UI/UX</a>
 - <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Cyber-Security-Manager/" target="_blank">Cyber Security</a>
+- <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Product-Manager/" target="_blank">Product Management</a>
 
 ⭐ Contribute to our cause via the wide range of projects available in 
 - <a href="https://opps.bridgesforenterprise.com/global/technology/DevOps-Project/" target="_blank">DevOps and Cloud Engineering</a>
