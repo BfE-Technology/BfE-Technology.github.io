@@ -12,9 +12,7 @@ layout: default
 
 🚀 Our first <a href="https://www.bridgesforenterprise.com" target="_blank">self-hosted website</a> has now launched!
 
-🎉 We are excited to onboard our new Global Analytics and Algorithm Manager and Global UI/UX Manager 🌍
-
-🎉 We just launched a new Technology team at New York Chapter 🗽
+🎉 We are excited to onboard our new UI/UX Manager, Tech Strategies Manager and Tech Initiatives Manager 🌍
 
 ⭐ Looking to expand your technology exposure while building technical leadership skills? Apply to join our management team today!
 - <a href="https://opps.bridgesforenterprise.com/global/technology/DevOps-Project/" target="_blank">DevOps</a>
