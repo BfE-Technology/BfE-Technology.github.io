@@ -10,7 +10,7 @@ layout: default
 
 🔥 We have successfully concluded our Global Tech Info Events! Watch our info session <a href="https://youtu.be/H0RsXbnANKM" target="_blank">here</a> if you have missed it!
 
-✨ Watch our first Tech for Social Goods talk on Accessibility in Web Development <a href="https://youtu.be/hCCbOEmv8cA", target="_blank">here</a>, delivered to you by our very own Wendi Fan, BfE's Software Development Manager! 
+✨ Watch our first Tech for Social Goods talk on Accessibility in Web Development <a href="https://youtu.be/hCCbOEmv8cA" target="_blank">here</a>, delivered to you by our very own Wendi Fan, BfE's Software Development Manager! 
 
 🚀 Our first <a href="https://www.bridgesforenterprise.com" target="_blank">self-hosted website</a> has now launched!
 
