@@ -8,24 +8,22 @@ layout: default
   
 # Recent Highlights
 
-🌐 We are hosting our Global Tech Info Events on 17 and 18 April! There will also be a short talk on Accessibility in Web Development as part of our Tech for Social Goods series. Register <a href="https://linktr.ee/bfe.tech" target="_blank">here</a> today to meet our team "in person"!
+🔥 We have successfully concluded our Global Tech Info Events! Watch our info session <a href="https://youtu.be/H0RsXbnANKM" target="_blank">here</a> if you have missed it!
+
+✨ Watch our first Tech for Social Goods talk on Accessibility in Web Development <a href="https://youtu.be/hCCbOEmv8cA", target="_blank">here</a>, delivered to you by our very own Wendi Fan, BfE's Software Development Manager! 
 
 🚀 Our first <a href="https://www.bridgesforenterprise.com" target="_blank">self-hosted website</a> has now launched!
 
-🎉 We are excited to onboard our new UI/UX Manager, Tech Strategies Manager and Tech Initiatives Manager 🌍
+🎉 We are excited to onboard our new Product Manager 🌍
 
 ⭐ Looking to expand your technology exposure while building technical leadership skills? Apply to join our management team today!
 - <a href="https://opps.bridgesforenterprise.com/global/technology/DevOps-Project/" target="_blank">DevOps</a>
 - <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Cyber-Security-Manager/" target="_blank">Cyber Security</a>
-- <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Product-Manager/" target="_blank">Product Management</a>
 
 ⭐ Contribute to our cause via the wide range of projects available in 
 - <a href="https://opps.bridgesforenterprise.com/global/technology/DevOps-Project/" target="_blank">DevOps and Cloud Engineering</a>
 - <a href="https://opps.bridgesforenterprise.com/global/cambridge/singapore/new%20york/rotterdam/vancouver/technology/InvestorSelector-NLP-Project/" target="_blank">Natural Language Processing for Investor Data</a>
-- <a href="https://opps.bridgesforenterprise.com/global/technology/RocketChat-Project/" target="_blank">App Development for our first internal chat platform</a>
 - <a href="https://opps.bridgesforenterprise.com/global/communications/outreach/technology/VideoAnimation-Project/" target="_blank">Video Animation</a>
-
-🔥 Join us for a fruitful software development summer internship on <a href="https://opps.bridgesforenterprise.com/global/cambridge/singapore/new%20york/rotterdam/vancouver/technology/Self-hosted-Password-Manager-Project/" target="_blank">our self-hosted password manager</a>. We will start reviewing applications from **1 May** onwards
 
 🎆 Are you a huge proponent of the open-source culture just like we do? Join to lead OpenBfE, our first <a href="https://opps.bridgesforenterprise.com/global/technology/Open-BfE/" target="_blank">open-source initiative</a>
 
