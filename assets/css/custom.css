@@ -499,5 +499,12 @@ body {
     }
 }
 
+/* fix about video */
+.about .video{
+    max-width: 560px;
+    height: 315px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 
