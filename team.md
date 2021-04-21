@@ -14,8 +14,7 @@ layout: subpage
 
 <div class="team-wrapper">
    <div class="team-card">
-     <div class="team-photo-wrapper">
-       <img src="assets/headshots/Kevin_Huang.png" alt="Kevin Huang" class="team-photo">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Kevin_Huang.png');">
      </div>
      <div class="team-text">
        <h4 class="team-name">Kevin Huang</h4>
@@ -30,8 +29,7 @@ layout: subpage
      </div>
    </div>
    <div class="team-card">
-     <div class="team-photo-wrapper">
-       <img src="assets/headshots/Wendi_Fan.jpg" alt="Wendi Fan" class="team-photo">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Wendi_Fan.jpg');">
      </div>
      <div class="team-text">
        <h4 class="team-name">Wendi Fan</h4>
@@ -46,8 +44,7 @@ layout: subpage
      </div>
    </div>
    <div class="team-card">
-     <div class="team-photo-wrapper">
-       <img src="assets/headshots/Olivia_Hu.png" alt="Olivia Hu" class="team-photo">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Olivia_Hu.png');">
      </div>
      <div class="team-text">
        <h4 class="team-name">Olivia Hu</h4>
@@ -62,8 +59,7 @@ layout: subpage
      </div>
    </div>
    <div class="team-card">
-     <div class="team-photo-wrapper">
-       <img src="assets/headshots/Xing_Liu.jpg" alt="Xing Liu" class="team-photo">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Xing_Liu.jpg');">
      </div>
      <div class="team-text">
        <h4 class="team-name">Xing Liu</h4>
@@ -80,8 +76,7 @@ layout: subpage
      </div>
    </div>
    <div class="team-card">
-     <div class="team-photo-wrapper">
-       <img src="assets/headshots/Brittany_Howell.png" alt="Brittany Howell" class="team-photo">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Brittany_Howell.png');">
      </div>
      <div class="team-text">
        <h4 class="team-name">Brittany Howell</h4>
@@ -96,8 +91,7 @@ layout: subpage
      </div>
    </div>
    <div class="team-card">
-     <div class="team-photo-wrapper">
-       <img src="assets/headshots/Zhong_Jun_Hsu.jpg" alt="Zhong Jun Hsu" class="team-photo">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Zhong_Jun_Hsu.jpg');">
      </div>
      <div class="team-text">
        <h4 class="team-name">Zhong Jun Hsu</h4>
@@ -118,8 +112,7 @@ layout: subpage
 
 <div class="team-wrapper">
    <div class="team-card">
-     <div class="team-photo-wrapper">
-       <img src="assets/headshots/Jiaxiang_Yu.jpg" alt="Jiaxiang Yu" class="team-photo">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Jiaxiang_Yu.jpg');">
      </div>
      <div class="team-text">
        <h4 class="team-name">Jiaxiang Yu</h4>
@@ -132,8 +125,7 @@ layout: subpage
      </div>
    </div>
    <div class="team-card">
-     <div class="team-photo-wrapper">
-       <img src="assets/headshots/Xin_Zhe.jpg" alt="Xin Zhe" class="team-photo">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Xin_Zhe.jpg');">
      </div>
      <div class="team-text">
        <h4 class="team-name">Xin Zhe</h4>
