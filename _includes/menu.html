@@ -20,7 +20,7 @@
   }
   var prevScrollpos = window.pageYOffset;
   window.onscroll = function() {
-    if (!$("#myTopnav").hasClass("responsive")){      
+    if (!document.body.classList.contains('responsive')){      
       var currentScrollPos = window.pageYOffset;
       if (prevScrollpos + 1 > currentScrollPos) {
         document.getElementById("myTopnav").style.top = "0";
