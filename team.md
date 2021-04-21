@@ -23,6 +23,7 @@ layout: subpage
        <div class="team-desc">
           PhD student in Theoretical Machine Learning, Gatsby Unit, UCL
           <br>
+          <br>
           MMath and BA in Mathematics, University of Cambridge
        </div>
        <div class="team-linkedin"><a href="https://www.linkedin.com/in/kevin-han-huang-995ab1a0/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
@@ -37,6 +38,7 @@ layout: subpage
        <div class="team-location"><i class="fas fa-map-marker-alt"></i>London, United Kingdom</div>
        <div class="team-desc">
          Software Developer, Softwire
+         <br>
          <br>
          BA in Mathematics, Univesrity of Cambridge
        </div>
@@ -53,6 +55,7 @@ layout: subpage
        <div class="team-desc">
          Imaging Scientist / Geophysicist, CGG
          <br>
+         <br>
          Master in Natural Sceience and BA in Mathematics, Univesrity of Cambridge
        </div>
        <div class="team-linkedin"><a href="https://www.linkedin.com/in/xuezi-hu-b11421184/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
@@ -68,7 +71,9 @@ layout: subpage
        <div class="team-desc">
          PhD student in statistics and machine learning, Imperial College London
          <br>
+         <br>
          Master in Mathematics, Univesrity of Cambridge
+         <br>
          <br>
          BA in Mathematics, Imperial College London
        </div>
@@ -84,6 +89,7 @@ layout: subpage
        <div class="team-location"><i class="fas fa-map-marker-alt"></i>Cambridge, United Kingdom</div>
        <div class="team-desc">
          PhD student in Quantitative Genetics, Wellcome Sanger Institute, University of Cambridge
+         <br>
          <br>
          Bachelor and Masters in Genetics and Immunology, University of Adelaide
        </div>
@@ -111,6 +117,32 @@ layout: subpage
 <h2> Student Chapter Team </h2>
 
 <div class="team-wrapper">
+   <div class="team-card">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Nancy_Shen.jpg');">
+     </div>
+     <div class="team-text">
+       <h4 class="team-name">Nancy Shen</h4>
+       <div class="team-title">Cambridge Technology Director (Technical Advisory)</div>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>Cambridge</div>
+       <div class="team-desc">
+         Undergraduate student in Engineering, University of Cambridge
+       </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/xinyu-shen-129559176/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
+     </div>
+   </div>
+   <div class="team-card">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Santiago_Del_Pino.png');">
+     </div>
+     <div class="team-text">
+       <h4 class="team-name">Santiago Lopez Del Pino</h4>
+       <div class="team-title">New York Technology Director</div>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>New York</div>
+       <div class="team-desc">
+         Undergraduate student in Business, Finance, Management and Computer Science, New York University
+       </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/santiago-lopez-del-pino-9b794a14b/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
+     </div>
+   </div>
    <div class="team-card">
      <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Jiaxiang_Yu.jpg');">
      </div>
