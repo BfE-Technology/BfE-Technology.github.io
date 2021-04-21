@@ -599,10 +599,10 @@ body {
 
 .team-text {
     padding-left: 15px;
+    padding-right: 15px;
 }
 
 h4.team-name {
-    margin-top: 5px;
     margin-bottom: 5px;
 }
 
@@ -617,7 +617,10 @@ h4.team-name {
     font-family: arial;
 }
 
-.team-linkedin {
-    margin-top: 10px;
+.team-location {
+    font-size: 0.7rem;
     margin-bottom: 10px;
+}
+.team-location i{
+    margin-right: 5px;
 }
