@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div style="background-image:url('assets/img/idea.jpg'); color:white;   background-size: cover;  background-position: 0% 95%;z-index:0; position: relative;" class="force-white-link" > 
+<div style="background-image:url('assets/img/idea.jpg'); color:white;   background-size: cover;  background-position: 0% 95%;z-index:0; position: relative;" class="force-white-link" id="who-we-are"> 
 
 <div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: black;z-index: -1;opacity: 0.8;"> </div>
 
