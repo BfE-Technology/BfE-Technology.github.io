@@ -104,7 +104,7 @@ layout: subpage
        <div class="team-title">Technology Initiatives Manager</div>
        <div class="team-location"><i class="fas fa-map-marker-alt"></i>Singapore</div>
        <div class="team-desc">
-         Undergraduate student in Computer Science, National University of Singapore
+         Undergraduate student in Computer Science and Business Administration, National University of Singapore
        </div>
      </div>
        <div class="team-linkedin"><a href="https://www.linkedin.com/in/hsuzhongjun/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
@@ -135,7 +135,7 @@ layout: subpage
 <small>Specialists assisting our Technical Advisory Manager on a range of technical areas</small>
 
 
-<h2> Student Chapter Team </h2>
+<h2> Chapter Directors </h2>
 
 <div class="team-wrapper">
    <div class="team-card">
@@ -144,7 +144,7 @@ layout: subpage
      <div class="team-text">
        <h4 class="team-name">Nancy Shen</h4>
        <div class="team-title">Cambridge Technology Director (Technical Advisory)</div>
-       <div class="team-location"><i class="fas fa-map-marker-alt"></i>Cambridge</div>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>Cambridge, United Kingdom</div>
        <div class="team-desc">
          Undergraduate student in Engineering, University of Cambridge
        </div>
@@ -157,7 +157,7 @@ layout: subpage
      <div class="team-text">
        <h4 class="team-name">Santiago Lopez Del Pino</h4>
        <div class="team-title">New York Technology Director</div>
-       <div class="team-location"><i class="fas fa-map-marker-alt"></i>New York</div>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>New York, United States</div>
        <div class="team-desc">
          Undergraduate student in Business, Finance, Management and Computer Science, New York University
        </div>
@@ -192,13 +192,30 @@ layout: subpage
    </div>
 </div>
 
+<h2> Professional Volunteers and Student Associates </h2>
+<div class="team-text-only">
+  <strong>Guiyong Lee</strong> • <em>Singapore Senior Associate</em> • Undergraduate student in Computer Science @ NUS • Singapore
+  <strong>Yangchao Wu</strong> • <em>New York Senior Associate</em> • Undergraduate student in Computer Science @ UCLA • Los Angeles, United States
+  <strong>Xu Yang</strong> • <em>Cambridge Senior Associate</em> • Mphil in Micro-nanotechnology Enterprise @ Cambridge • Cambridge, United Kingdom • <a href="https://www.linkedin.com/in/xu-yang-9b15b3195/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+  <strong>Zixuan Wang</strong> • <em>Cambridge Associate</em> • Undergraduate student in Engineering @ Cambridge • Cambridge, United Kingdom 
+  <strong>Ziyi Liu</strong> • <em>Cambridge Associate</em> • Undergraduate student in Natural Sciences @ Cambridge • Cambridge, United Kingdom • <a href="https://www.linkedin.com/in/zi-liu/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+  <strong>Sherman Lee</strong> • <em>Singapore Senior Associate</em> • Undergraduate student in Information Systems @ SMU • Singapore
+  <strong>Keith Wong</strong> • <em>Singapore Associate</em> • Undergraduate student in Accountancy @ SMU • Singapore 
+  <strong>Xing Peng Liao</strong> • <em>Singapore Associate</em> • Undergraduate student in Computer Science @ NUS • Singapore
+  <strong>Aobo Yang</strong> • <em>Singapore Associate</em> • Undergraduate student in Information Systems @ SUTD • Singapore 
+  <strong>Wanlin Zhang</strong> • <em>Singapore Associate</em> • Undergraduate student in Computer Science @ NUS • Singapore • <a href="https://www.linkedin.com/in/wanlin-zhang-b890591ba/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+  <strong>Ruochen Li</strong> • <em>Singapore Associate</em> • Undergraduate student in Computer Science @ NUS • Singapore • <a href="https://www.linkedin.com/in/lirc572/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+  <strong>Steven Zhang</strong> • <em>New York Associate</em> • Undergraduate student in Maths and Computer Science @ NYU • New York, United States
+  <strong>Tyler Nabinger</strong> • <em>New York Associate</em> • Undergraduate student in Computer Science, Psychology and Performing Arts @ NYU • New York, United States • <a href="https://www.linkedin.com/in/tyler-nabinger-3955aa162/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+  <strong>Brook Yan</strong> • <em>Global Volunteer</em> • Fire Engineer at Arup • Machester, UK • <a href="https://www.linkedin.com/in/brook-yan-0b0298a0/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+</div>
 
 <h2> Alum </h2>
 <div class="team-text-only">
-  <strong>Ping Liang Tan</strong> • Signal Processing Engineer @ DSO National Libraries • <em>Software Development Manager, '20-'21</em> • <a href="https://www.linkedin.com/in/ping-liang-tan-138b0298/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+  <strong>Ping Liang Tan</strong> • <em>Software Development Manager, '20-'21</em> • Signal Processing Engineer @ DSO National Libraries • Singapore • <a href="https://www.linkedin.com/in/ping-liang-tan-138b0298/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
 </div>
 <div class="team-text-only">
-  <strong>Vera Zhong</strong> • Undergraduate student in Interactive Media and Business @ NYU Shanghai • <em>Branding and Design Manager, '20-'21</em> • <a href="https://www.linkedin.com/in/vera-zhong/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+  <strong>Vera Zhong</strong> • <em>Branding and Design Manager, '20-'21</em> • Undergraduate student in Interactive Media and Business @ NYU Shanghai • Shanghai, China • <a href="https://www.linkedin.com/in/vera-zhong/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
 </div>
 </div>
 
