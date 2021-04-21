@@ -233,6 +233,9 @@ layout: subpage
   <strong>Tyler Nabinger</strong> • <em>New York Associate</em> • Undergraduate student in Computer Science, Psychology and Performing Arts @ NYU • New York, United States • <a href="https://www.linkedin.com/in/tyler-nabinger-3955aa162/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
 </div>
 <div class="team-text-only">
+  <strong>Tyler Nabinger</strong> • <em>New York Associate</em> • Undergraduate student in Computer Science, Psychology and Performing Arts @ NYU • New York, United States • <a href="https://www.linkedin.com/in/tyler-nabinger-3955aa162/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+</div>
+<div class="team-text-only">
   <strong>Brook Yan</strong> • <em>Global Volunteer</em> • Fire Engineer at Arup • Machester, UK • <a href="https://www.linkedin.com/in/brook-yan-0b0298a0/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
 </div>
 
