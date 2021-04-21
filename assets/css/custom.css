@@ -590,8 +590,11 @@ body {
     min-width: 300px;
 }
 
-img.team-photo {
+.team-photo-wrapper {
     width: 100%;
+    height: 220px;
+    background-size: cover;
+    background-position: center;
 }
 
 .team-text {
