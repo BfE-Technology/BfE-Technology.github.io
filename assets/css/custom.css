@@ -580,13 +580,41 @@ body {
 /* team */
 .team-wrapper {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 .team-card {
     margin: 10px;
     box-shadow: 0 2px 8px grey;
+    min-width: 300px;
 }
 
 img.team-photo {
     width: 100%;
+}
+
+.team-text {
+    padding-left: 15px;
+}
+
+h4.team-name {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.team-title {
+    font-size: 0.8rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.team-desc {
+    font-size: 0.8rem;
+    font-family: arial;
+}
+
+.team-linkedin {
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
