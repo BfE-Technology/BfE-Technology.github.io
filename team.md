@@ -72,7 +72,7 @@ layout: subpage
      </div>
    </div>
    <div class="team-card">
-     <img src="assets/headshots/Brittany_Howell.jpg" alt="Brittany Howell" class="team-photo">
+     <img src="assets/headshots/Brittany_Howell.png" alt="Brittany Howell" class="team-photo">
      <div class="team-text">
        <h4 class="team-name">Brittany Howell</h4>
        <div class="team-title">Technology Strategies Manager</div>
