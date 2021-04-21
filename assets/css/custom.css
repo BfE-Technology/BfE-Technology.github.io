@@ -510,7 +510,7 @@ body {
 /* menu */
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #163752;
+  background-color: #1a222c;
   position: fixed;
   top: 0;
   width: 100%;
@@ -568,7 +568,7 @@ body {
     float: none;
     display: block;
     text-align: left;
-    background-color: #163752;
+    background-color: #1a222c;
   }
 }
 
