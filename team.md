@@ -14,37 +14,37 @@ layout: subpage
    <div class="team-card">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/220px-Image_created_with_a_mobile_phone.png" alt="dummy" class="team-photo">
      <div class="team-text">
-       <h2 class="team-title">Test Mentor</h2>
-       <small>Test Title</small>
-       <span>Job Title</span>
-       <a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+       <h4 class="team-name">Test Mentor</h4>
+       <div class="team-title">Test Title</div>
+       <div class="team-desc">Description</div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
      </div>
    </div>
    <div class="team-card">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/220px-Image_created_with_a_mobile_phone.png" alt="dummy" class="team-photo">
      <div class="team-text">
-       <h2 class="team-title">Test Mentor</h2>
-       <small>Test Title</small>
-       <span>Job Title</span>
-       <a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+       <h4 class="team-name">Test Mentor</h4>
+       <div class="team-title">Test Title</div>
+       <div class="team-desc">Description</div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
      </div>
    </div>
    <div class="team-card">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/220px-Image_created_with_a_mobile_phone.png" alt="dummy" class="team-photo">
      <div class="team-text">
-       <h2 class="team-title">Test Mentor</h2>
-       <small>Test Title</small>
-       <span>Job Title</span>
-       <a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+       <h4 class="team-name">Test Mentor</h4>
+       <div class="team-title">Test Title</div>
+       <div class="team-desc">Description</div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
      </div>
    </div>
    <div class="team-card">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/220px-Image_created_with_a_mobile_phone.png" alt="dummy" class="team-photo">
      <div class="team-text">
-       <h2 class="team-title">Test Mentor</h2>
-       <small>Test Title</small>
-       <span>Job Title</span>
-       <a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+       <h4 class="team-name">Test Mentor</h4>
+       <div class="team-title">Test Title</div>
+       <div class="team-desc">Description</div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
      </div>
    </div>
 </div>
