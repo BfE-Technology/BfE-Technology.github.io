@@ -195,18 +195,44 @@ layout: subpage
 <h2> Professional Volunteers and Student Associates </h2>
 <div class="team-text-only">
   <strong>Guiyong Lee</strong> • <em>Singapore Senior Associate</em> • Undergraduate student in Computer Science @ NUS • Singapore
+</div>
+<div class="team-text-only">
   <strong>Yangchao Wu</strong> • <em>New York Senior Associate</em> • Undergraduate student in Computer Science @ UCLA • Los Angeles, United States
+</div>
+<div class="team-text-only">
   <strong>Xu Yang</strong> • <em>Cambridge Senior Associate</em> • Mphil in Micro-nanotechnology Enterprise @ Cambridge • Cambridge, United Kingdom • <a href="https://www.linkedin.com/in/xu-yang-9b15b3195/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+</div>
+<div class="team-text-only">
   <strong>Zixuan Wang</strong> • <em>Cambridge Associate</em> • Undergraduate student in Engineering @ Cambridge • Cambridge, United Kingdom 
+</div>
+<div class="team-text-only">
   <strong>Ziyi Liu</strong> • <em>Cambridge Associate</em> • Undergraduate student in Natural Sciences @ Cambridge • Cambridge, United Kingdom • <a href="https://www.linkedin.com/in/zi-liu/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+</div>
+<div class="team-text-only">
   <strong>Sherman Lee</strong> • <em>Singapore Senior Associate</em> • Undergraduate student in Information Systems @ SMU • Singapore
+</div>
+<div class="team-text-only">
   <strong>Keith Wong</strong> • <em>Singapore Associate</em> • Undergraduate student in Accountancy @ SMU • Singapore 
+</div>
+<div class="team-text-only">
   <strong>Xing Peng Liao</strong> • <em>Singapore Associate</em> • Undergraduate student in Computer Science @ NUS • Singapore
+</div>
+<div class="team-text-only">
   <strong>Aobo Yang</strong> • <em>Singapore Associate</em> • Undergraduate student in Information Systems @ SUTD • Singapore 
+</div>
+<div class="team-text-only">
   <strong>Wanlin Zhang</strong> • <em>Singapore Associate</em> • Undergraduate student in Computer Science @ NUS • Singapore • <a href="https://www.linkedin.com/in/wanlin-zhang-b890591ba/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+</div>
+<div class="team-text-only">
   <strong>Ruochen Li</strong> • <em>Singapore Associate</em> • Undergraduate student in Computer Science @ NUS • Singapore • <a href="https://www.linkedin.com/in/lirc572/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+</div>
+<div class="team-text-only">
   <strong>Steven Zhang</strong> • <em>New York Associate</em> • Undergraduate student in Maths and Computer Science @ NYU • New York, United States
+</div>
+<div class="team-text-only">
   <strong>Tyler Nabinger</strong> • <em>New York Associate</em> • Undergraduate student in Computer Science, Psychology and Performing Arts @ NYU • New York, United States • <a href="https://www.linkedin.com/in/tyler-nabinger-3955aa162/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+</div>
+<div class="team-text-only">
   <strong>Brook Yan</strong> • <em>Global Volunteer</em> • Fire Engineer at Arup • Machester, UK • <a href="https://www.linkedin.com/in/brook-yan-0b0298a0/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
 </div>
 
