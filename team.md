@@ -57,5 +57,8 @@ layout: subpage
 
 <h1> Student Chapter Team </h1>
 
+
+<h1> Alumni </h1>
+
 </div>
 
