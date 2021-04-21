@@ -142,9 +142,11 @@ layout: subpage
 
 <h2> Alum </h2>
 <div class="team-text-only">
-  <strong>Ping Liang Tan</strong> | Singapore | Signal Processing Engineer @ DSO National Libraries | Software Development Manager, '20-'21 | 
+  <strong>Ping Liang Tan</strong> • Singapore • Signal Processing Engineer @ DSO National Libraries • Software Development Manager, '20-'21 • 
        <div class="team-linkedin"><a href="https://www.linkedin.com/in/ping-liang-tan-138b0298/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
-  <strong>Vera Zhong</strong> | Shanghai | Undergraduate student in Interactive Media and Business @ NYU Shanghai | Branding and Design Manager, '20-'21 | 
+</div>
+<div class="team-text-only">
+  <strong>Vera Zhong</strong> • Shanghai • Undergraduate student in Interactive Media and Business @ NYU Shanghai • Branding and Design Manager, '20-'21 • 
        <div class="team-linkedin"><a href="https://www.linkedin.com/in/vera-zhong/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
 </div>
 </div>
