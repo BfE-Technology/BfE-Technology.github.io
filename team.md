@@ -14,7 +14,9 @@ layout: subpage
 
 <div class="team-wrapper">
    <div class="team-card">
-     <img src="assets/headshots/Kevin_Huang.png" alt="Kevin Huang" class="team-photo">
+     <div class="team-photo-wrapper">
+       <img src="assets/headshots/Kevin_Huang.png" alt="Kevin Huang" class="team-photo">
+     </div>
      <div class="team-text">
        <h4 class="team-name">Kevin Huang</h4>
        <div class="team-title">Head of Technology</div>
@@ -28,7 +30,9 @@ layout: subpage
      </div>
    </div>
    <div class="team-card">
-     <img src="assets/headshots/Wendi_Fan.jpg" alt="Wendi Fan" class="team-photo">
+     <div class="team-photo-wrapper">
+       <img src="assets/headshots/Wendi_Fan.jpg" alt="Wendi Fan" class="team-photo">
+     </div>
      <div class="team-text">
        <h4 class="team-name">Wendi Fan</h4>
        <div class="team-title">Software Development Manager</div>
@@ -42,7 +46,9 @@ layout: subpage
      </div>
    </div>
    <div class="team-card">
-     <img src="assets/headshots/Olivia_Hu.png" alt="Olivia Hu" class="team-photo">
+     <div class="team-photo-wrapper">
+       <img src="assets/headshots/Olivia_Hu.png" alt="Olivia Hu" class="team-photo">
+     </div>
      <div class="team-text">
        <h4 class="team-name">Olivia Hu</h4>
        <div class="team-title">DataOps Manager</div>
@@ -56,7 +62,9 @@ layout: subpage
      </div>
    </div>
    <div class="team-card">
-     <img src="assets/headshots/Xing_Liu.jpg" alt="Xing Liu" class="team-photo">
+     <div class="team-photo-wrapper">
+       <img src="assets/headshots/Xing_Liu.jpg" alt="Xing Liu" class="team-photo">
+     </div>
      <div class="team-text">
        <h4 class="team-name">Xing Liu</h4>
        <div class="team-title">Analytics and Algorithm Manager</div>
@@ -72,7 +80,9 @@ layout: subpage
      </div>
    </div>
    <div class="team-card">
-     <img src="assets/headshots/Brittany_Howell.png" alt="Brittany Howell" class="team-photo">
+     <div class="team-photo-wrapper">
+       <img src="assets/headshots/Brittany_Howell.png" alt="Brittany Howell" class="team-photo">
+     </div>
      <div class="team-text">
        <h4 class="team-name">Brittany Howell</h4>
        <div class="team-title">Technology Strategies Manager</div>
@@ -86,7 +96,9 @@ layout: subpage
      </div>
    </div>
    <div class="team-card">
-     <img src="assets/headshots/Zhong_Jun_Hsu.jpg" alt="Zhong Jun Hsu" class="team-photo">
+     <div class="team-photo-wrapper">
+       <img src="assets/headshots/Zhong_Jun_Hsu.jpg" alt="Zhong Jun Hsu" class="team-photo">
+     </div>
      <div class="team-text">
        <h4 class="team-name">Zhong Jun Hsu</h4>
        <div class="team-title">Technology Initiatives Manager</div>
@@ -106,7 +118,9 @@ layout: subpage
 
 <div class="team-wrapper">
    <div class="team-card">
-     <img src="assets/headshots/Jiaxiang_Yu.jpg" alt="Jiaxiang Yu" class="team-photo">
+     <div class="team-photo-wrapper">
+       <img src="assets/headshots/Jiaxiang_Yu.jpg" alt="Jiaxiang Yu" class="team-photo">
+     </div>
      <div class="team-text">
        <h4 class="team-name">Jiaxiang Yu</h4>
        <div class="team-title">Singapore Technology Director (Internal Technology)</div>
@@ -118,7 +132,9 @@ layout: subpage
      </div>
    </div>
    <div class="team-card">
-     <img src="assets/headshots/Xin_Zhe.jpg" alt="Xin Zhe" class="team-photo">
+     <div class="team-photo-wrapper">
+       <img src="assets/headshots/Xin_Zhe.jpg" alt="Xin Zhe" class="team-photo">
+     </div>
      <div class="team-text">
        <h4 class="team-name">Xin Zhe</h4>
        <div class="team-title">Singapore Technology Director (Technical Advisory)</div>
