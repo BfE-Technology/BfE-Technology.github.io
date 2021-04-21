@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 ---
 
 <div markdown="1" class="force-dark-link" id="recent-highlights">
