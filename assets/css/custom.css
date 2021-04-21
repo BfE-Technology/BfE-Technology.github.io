@@ -553,6 +553,7 @@ body {
   .topnav a.icon {
     float: right;
     display: block;
+    color: black;
   }
 }
 
@@ -563,11 +564,13 @@ body {
     position: absolute;
     right: 0;
     top: 0;
+    color: white;
   }
   .topnav.responsive a {
     float: none;
     display: block;
     text-align: left;
+    background-color: #163752;
   }
 }
 
