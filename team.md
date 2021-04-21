@@ -6,7 +6,7 @@ layout: subpage
 
 <br>
   
-<h1> Our Mentors </h1>
+<h1> Mentors </h1>
 
 <small>Only mentors directly advising our Global Management Team are listed here.</small>
 
@@ -48,6 +48,14 @@ layout: subpage
      </div>
    </div>
 </div>
+
+<h1> Management Team </h1>
+
+
+<h1> Technical Advisors </h1>
+
+
+<h1> Student Chapter Team </h1>
 
 </div>
 
