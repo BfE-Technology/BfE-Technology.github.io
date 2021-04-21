@@ -589,6 +589,7 @@ body {
     box-shadow: 0 2px 8px grey;
     width: 270px;
     position: relative;
+    padding-bottom: 50px;
 }
 
 .team-photo-wrapper {
@@ -627,11 +628,13 @@ h4.team-name {
 }
 
 .team-linkedin{
-    position: absolute:
-    bottom: 0;
+    position: absolute;
+    bottom: 5px;
+    left: 15px;
 }
 
 .team-text-only{
     margin-top: 5px;
     margin-bottom: 5px;
+    font-size: 0.8rem;
 }
