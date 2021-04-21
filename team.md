@@ -8,7 +8,7 @@ layout: subpage
   
 <h2> Mentors </h2>
 
-<small>Only mentors directly advising our Global Management Team are listed here.</small>
+<small>Mentors directly advising our Global Management Team</small>
 
 <h2> Management Team </h2>
 
@@ -112,6 +112,8 @@ layout: subpage
 </div>
 
 <h2> Technical Advisors </h2>
+
+<small>Specialists assisting our Technical Advisory Manager on a range of technical areas</small>
 
 
 <h2> Student Chapter Team </h2>
