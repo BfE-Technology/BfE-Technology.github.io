@@ -445,9 +445,10 @@ Our internal technology team empowers social entrepreneurs across the world by i
   <br>
 </div>
            
-<div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white;   background-size: cover;  background-position: 0% 95%;z-index:0; position: relative;" class="force-white-link" > 
+<div style="background-image:url('assets/img/smile-entrepreneur.jpg'); color:white;   background-size: cover;  background-position: 0% 95%;z-index:0; position: relative; margin-bottom: -100px;" class="force-white-link" > 
 
 <div style="position: absolute;width: 100%;height: 100%;left: 0;background-color: black;z-index: -1;opacity: 0.6;"> </div>
+<br>
 <br>
 <h2>Join us today</h2>
 
@@ -459,6 +460,7 @@ All open roles and projects can be found <a href="https://opps.bridgesforenterpr
 
 **Professionals.** We host short volunteering projects throughout the year and occasionally recruit professionals into our global leadership team. You may also contribute by presenting at one-off training workshops and talks or offering one-off consultation sessions to startups and students.
 
+<br>
 <br>
 <br>
 </div>
