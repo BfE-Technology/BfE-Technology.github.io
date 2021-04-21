@@ -8,11 +8,13 @@ layout: default
   
 # Recent Highlights
 
-🔥 We have successfully concluded our Global Tech Info Events! Watch our info session below if you have missed it!
+🔥 We have successfully concluded our Global Tech Info Events. Watch our info session below if you have missed it!
 
-<div class="video"><iframe width="560" height="315" src="https://youtu.be/HtdLTxjU63w?modestbranding=1&cc_lang_pref=en&cc_load_policy=1&rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="centering"><div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/HtdLTxjU63w?modestbranding=1&cc_lang_pref=en&cc_load_policy=1&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-✨ Watch our first Tech for Social Goods talk on Accessibility in Web Development <a href="https://youtu.be/hCCbOEmv8cA" target="_blank">here</a>, delivered to you by our very own Wendi Fan, BfE's Software Development Manager! 
+✨ Watch our first Tech for Social Goods talk on Accessibility in Web Development, delivered to you by our very own Wendi Fan, BfE's Software Development Manager! 
+
+<div class="centering"><div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/hCCbOEmv8cA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
 
 🚀 Our first <a href="https://www.bridgesforenterprise.com" target="_blank">self-hosted website</a> has now launched!
 
