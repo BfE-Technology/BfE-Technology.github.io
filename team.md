@@ -26,8 +26,8 @@ layout: subpage
           <br>
           MMath and BA in Mathematics, University of Cambridge
        </div>
-       <div class="team-linkedin"><a href="https://www.linkedin.com/in/kevin-han-huang-995ab1a0/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
      </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/kevin-han-huang-995ab1a0/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>
    <div class="team-card">
      <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Wendi_Fan.jpg');">
@@ -42,8 +42,8 @@ layout: subpage
          <br>
          BA in Mathematics, Univesrity of Cambridge
        </div>
-       <div class="team-linkedin"><a href="https://www.linkedin.com/in/wendi-fan-150b08113/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
      </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/wendi-fan-150b08113/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>
    <div class="team-card">
      <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Olivia_Hu.png');">
@@ -58,8 +58,8 @@ layout: subpage
          <br>
          Master in Natural Sceience and BA in Mathematics, Univesrity of Cambridge
        </div>
-       <div class="team-linkedin"><a href="https://www.linkedin.com/in/xuezi-hu-b11421184/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
      </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/xuezi-hu-b11421184/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>
    <div class="team-card">
      <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Xing_Liu.jpg');">
@@ -77,8 +77,8 @@ layout: subpage
          <br>
          BA in Mathematics, Imperial College London
        </div>
-       <div class="team-linkedin"><a href="https://www.linkedin.com/in/xingliu97/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
      </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/xingliu97/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>
    <div class="team-card">
      <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Brittany_Howell.png');">
@@ -93,8 +93,8 @@ layout: subpage
          <br>
          Bachelor and Masters in Genetics and Immunology, University of Adelaide
        </div>
-       <div class="team-linkedin"><a href="https://www.linkedin.com/in/brittanychowell/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
      </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/brittanychowell/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>
    <div class="team-card">
      <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Zhong_Jun_Hsu.jpg');">
@@ -106,8 +106,8 @@ layout: subpage
        <div class="team-desc">
          Undergraduate student in Computer Science, National University of Singapore
        </div>
-       <div class="team-linkedin"><a href="https://www.linkedin.com/in/hsuzhongjun/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
      </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/hsuzhongjun/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>
 </div>
 
@@ -127,8 +127,8 @@ layout: subpage
        <div class="team-desc">
          Undergraduate student in Engineering, University of Cambridge
        </div>
-       <div class="team-linkedin"><a href="https://www.linkedin.com/in/xinyu-shen-129559176/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
      </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/xinyu-shen-129559176/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>
    <div class="team-card">
      <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Santiago_Del_Pino.png');">
@@ -140,8 +140,8 @@ layout: subpage
        <div class="team-desc">
          Undergraduate student in Business, Finance, Management and Computer Science, New York University
        </div>
-       <div class="team-linkedin"><a href="https://www.linkedin.com/in/santiago-lopez-del-pino-9b794a14b/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
      </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/santiago-lopez-del-pino-9b794a14b/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>
    <div class="team-card">
      <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Jiaxiang_Yu.jpg');">
@@ -153,8 +153,8 @@ layout: subpage
        <div class="team-desc">
          Undergraduate student in Computer Science, National University of Singapore
        </div>
-       <div class="team-linkedin"><a href="https://www.linkedin.com/in/jiaxiang-yu/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
      </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/jiaxiang-yu/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>
    <div class="team-card">
      <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Xin_Zhe.jpg');">
@@ -166,20 +166,18 @@ layout: subpage
        <div class="team-desc">
          Undergraduate student in Computer Science with Statistics, National University of Singapore
        </div>
-       <div class="team-linkedin"><a href="https://www.linkedin.com/in/xin-zhe-b2088a187/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
      </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/xin-zhe-b2088a187/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>
 </div>
 
 
 <h2> Alum </h2>
 <div class="team-text-only">
-  <strong>Ping Liang Tan</strong> • Singapore • Signal Processing Engineer @ DSO National Libraries • Software Development Manager, '20-'21 • 
-       <div class="team-linkedin"><a href="https://www.linkedin.com/in/ping-liang-tan-138b0298/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+  <strong>Ping Liang Tan</strong> • Signal Processing Engineer @ DSO National Libraries • <em>Software Development Manager, '20-'21</em> • <a href="https://www.linkedin.com/in/ping-liang-tan-138b0298/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
 </div>
 <div class="team-text-only">
-  <strong>Vera Zhong</strong> • Shanghai • Undergraduate student in Interactive Media and Business @ NYU Shanghai • Branding and Design Manager, '20-'21 • 
-       <div class="team-linkedin"><a href="https://www.linkedin.com/in/vera-zhong/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+  <strong>Vera Zhong</strong> • Undergraduate student in Interactive Media and Business @ NYU Shanghai • <em>Branding and Design Manager, '20-'21</em> • <a href="https://www.linkedin.com/in/vera-zhong/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
 </div>
 </div>
 
