@@ -511,11 +511,10 @@ body {
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #163752;
-  overflow: hidden;
   position: fixed;
   top: 0;
   width: 100%;
-  height: 52px;
+  height: 53px;
   z-index: 1000;
   transition: top 0.3s; 
 }
@@ -573,5 +572,5 @@ body {
 }
 
 #topnavSpace{
-    height: 52px;
+    height: 53px;
 }
