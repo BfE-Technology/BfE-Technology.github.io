@@ -638,3 +638,9 @@ h4.team-name {
     margin-bottom: 10px;
     font-size: 0.8rem;
 }
+
+.team-explain-text {
+    margin-top: -15px;
+    font-size: small;
+    margin-bottom: 25px;
+}
