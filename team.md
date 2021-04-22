@@ -323,6 +323,9 @@ layout: subpage
 </div>
 
 <h2> Alum </h2>
+
+<small>Former members who are staying in touch with our community</small>
+
 <div class="team-text-only">
   <strong>Ping Liang Tan</strong> • <em>Software Development Manager, '20-'21</em> • Signal Processing Engineer @ DSO National Libraries • Singapore • <a href="https://www.linkedin.com/in/ping-liang-tan-138b0298/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
 </div>
