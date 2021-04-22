@@ -134,6 +134,92 @@ layout: subpage
 
 <small>Specialists assisting our Technical Advisory Manager on a range of technical areas</small>
 
+<div class="team-wrapper">
+   <div class="team-card">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Xiaodong_Wu.png');">
+     </div>
+     <div class="team-text">
+       <h4 class="team-name">Xiaodong Wu</h4>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>Cambridge, United Kingdom</div>
+       <div class="team-desc">
+          MEng and BA in Software Engineering, University of Cambridge
+          <br>
+          <br>
+          Co-founder of <a href="https://www.learnah.uk/about" target="_noblank">learnAh</a>
+       </div>
+     </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/xiaodongwu1998/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
+   </div>
+   <div class="team-card">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Heng_Wang.jpg');">
+     </div>
+     <div class="team-text">
+       <h4 class="team-name">Heng Wang</h4>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>Cambridge, United Kingdom</div>
+       <div class="team-desc">
+         MEng and BA in Manufacturing Engineering, University of Cambridge
+         <br>
+         <br>
+         Co-founder of ShARE Cambridge; Co-chair of <a href="https://www.herculescambridge.org.uk/about" target="_blank">Hercules Cambridge</a>
+       </div>
+     </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/heng-eric-wang-362697134/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
+   </div>
+   <div class="team-card">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Ben_Stoddart_Stones.png');">
+     </div>
+     <div class="team-text">
+       <h4 class="team-name">Ben Stoddart-Stones</h4>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>Cambridge, United Kingdom</div>
+       <div class="team-desc">
+         PhD student in Material Science, University of Cambridge
+         <br>
+         <br>
+         MSci and BA in Natural Sciences, Univesrity of Cambridge
+       </div>
+     </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/ben-stoddart-stones-383943a9/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
+   </div>
+   <div class="team-card">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Kyle_Swanson.jfif');">
+     </div>
+     <div class="team-text">
+       <h4 class="team-name">Kyle Swanson</h4>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>London, United Kingdom</div>
+       <div class="team-desc">
+         Master student in Biotechnology, Imperial College London
+         <br>
+         <br>
+         Marshall Scholar
+         <br>
+         <br>
+         Master in Mathematics, Univesrity of Cambridge
+         <br>
+         <br>
+         Master in Computer Science, Bachelor in Computer Science and Mathematics, Massachusetts Institute of Technology
+         <br>
+         <br>
+         Built <a href="https://www.nature.com/articles/d41586-020-00018-3" target="_blank">Machine Learning models that discovered a new antibiotic</a> 
+       </div>
+     </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/kyle-swanson-564ab787/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
+   </div>
+   <div class="team-card">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Charles_Gai.jfif');">
+     </div>
+     <div class="team-text">
+       <h4 class="team-name">Charles Gai</h4>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>Cambridge, United Kingdom</div>
+       <div class="team-desc">
+         MEng and BA in Engineering, University of Cambridge
+         <br>
+         <br>
+         Co-chair of <a href="https://www.herculescambridge.org.uk/about" target="_blank">Hercules Cambridge</a>
+       </div>
+     </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/charles-gai-906b94172/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
+   </div>
+</div>
 
 <h2> Chapter Directors </h2>
 
@@ -200,7 +286,7 @@ layout: subpage
   <strong>Yangchao Wu</strong> • <em>New York Senior Associate</em> • Undergraduate student in Computer Science @ UCLA • Los Angeles, United States
 </div>
 <div class="team-text-only">
-  <strong>Xu Yang</strong> • <em>Cambridge Senior Associate</em> • Mphil in Micro-nanotechnology Enterprise @ Cambridge • Cambridge, United Kingdom • <a href="https://www.linkedin.com/in/xu-yang-9b15b3195/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+  <strong>Xu Yang</strong> • <em>Cambridge Senior Associate</em> • MPhil in Micro-nanotechnology Enterprise @ Cambridge • Cambridge, United Kingdom • <a href="https://www.linkedin.com/in/xu-yang-9b15b3195/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
 </div>
 <div class="team-text-only">
   <strong>Zixuan Wang</strong> • <em>Cambridge Associate</em> • Undergraduate student in Engineering @ Cambridge • Cambridge, United Kingdom 
@@ -240,5 +326,13 @@ layout: subpage
 <div class="team-text-only">
   <strong>Ping Liang Tan</strong> • <em>Software Development Manager, '20-'21</em> • Signal Processing Engineer @ DSO National Libraries • Singapore • <a href="https://www.linkedin.com/in/ping-liang-tan-138b0298/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
 </div>
+<div class="team-text-only">
+  <strong>Eve Hull</strong> • <em>Cambridge Associate, '18-'19</em> • Undergraduate student in Economics @ Cambridge • Cambridge, United Kingdom • <a href="https://www.linkedin.com/in/eve-hull-baa48517b/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+</div>
+<div class="team-text-only">
+  <strong>Albert Jiang</strong> • <em>Cambridge Data Analytics Director, '17-'18</em> • Master student in Machine Learning @ Oxford • Oxford, United Kingdom • <a href="https://www.linkedin.com/in/albert-qiaochu-jiang-7a03b6111/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+</div>
+<div class="team-text-only">
+  <strong>Tomas Van Pottelbergh</strong> • <em>Cambridge Associate, '17-'18</em> • Data Scientist @ Accenture • Zurich, Switzerland • <a href="https://www.linkedin.com/in/tomasvanpottelbergh/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
 </div>
 
