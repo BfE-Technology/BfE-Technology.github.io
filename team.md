@@ -166,7 +166,7 @@ layout: subpage
        <div class="team-linkedin"><a href="https://www.linkedin.com/in/heng-eric-wang-362697134/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>
    <div class="team-card">
-     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Ben_Stoddart_Stones.png');">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Ben_Stoddart_Stones.jpg');">
      </div>
      <div class="team-text">
        <h4 class="team-name">Ben Stoddart-Stones</h4>
