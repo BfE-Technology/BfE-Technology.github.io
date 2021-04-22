@@ -8,7 +8,7 @@ layout: subpage
   
 <h2> Mentors </h2>
 
-<small>Mentors directly advising our Global Management Team</small>
+<div class="team-explain-text">Mentors directly advising our Global Management Team</div>
 
 <h2> Management Team </h2>
 
@@ -132,7 +132,7 @@ layout: subpage
 
 <h2> Technical Advisors </h2>
 
-<small>Specialists assisting our Technical Advisory Manager on a range of technical areas</small>
+<div class="team-explain-text">Specialists assisting our Technical Advisory Manager on a range of technical areas</div>
 
 <div class="team-wrapper">
    <div class="team-card">
@@ -324,7 +324,7 @@ layout: subpage
 
 <h2> Alum </h2>
 
-<small>Former members who are staying in touch with our community</small>
+<div class="team-explain-text">Former members who are staying in touch with our community</div>
 
 <div class="team-text-only">
   <strong>Ping Liang Tan</strong> • <em>Software Development Manager, '20-'21</em> • Signal Processing Engineer @ DSO National Libraries • Singapore • <a href="https://www.linkedin.com/in/ping-liang-tan-138b0298/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
