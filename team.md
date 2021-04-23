@@ -181,7 +181,7 @@ layout: subpage
        <div class="team-linkedin"><a href="https://www.linkedin.com/in/ben-stoddart-stones-383943a9/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>
    <div class="team-card">
-     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Kyle_Swanson.jfif');">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Kyle_Swanson.jpg');">
      </div>
      <div class="team-text">
        <h4 class="team-name">Kyle Swanson</h4>
