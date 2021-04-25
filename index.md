@@ -125,11 +125,11 @@ Check out our <a href="https://www.bridgesforenterprise.com" target="_blank">mai
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          <div>Branding & Design</div>
+          <div>UI / UX</div>
           <img src="assets/img/BrandingDesign.jpg">
         </div>
         <div class="flip-card-back">
-          <p>Manage branding strategies and guidelines for all types of digital media under the Outreach division, while converting them into standardised stylesheets to be imposed across the Technology Division</p>
+          <p>Manage the digital branding of Bridges for Enterprise through continuously improving our UI and UX design across our websites</p>
         </div>
       </div>
     </div> 
