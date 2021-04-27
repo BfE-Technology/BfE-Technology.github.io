@@ -21,8 +21,6 @@ layout: subpage
 🎉 We are excited to onboard our new Product Manager 🌍
 
 ⭐ Looking to expand your technology exposure while building technical leadership skills? Apply to join our management team today!
-- <a href="https://opps.bridgesforenterprise.com/global/technology/DevOps-Project/" target="_blank">DevOps</a>
-- <a href="https://opps.bridgesforenterprise.com/global/technology/Global-Cyber-Security-Manager/" target="_blank">Cyber Security</a>
 - <a href="https://opps.bridgesforenterprise.com/global/technology/outreach/Lead-UI-UX-Designer/" target="_blank">UI / UX</a>
 
 ⭐ Contribute to our cause via the wide range of projects available in 
