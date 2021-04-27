@@ -18,7 +18,7 @@ layout: subpage
 
 🚀 Our first <a href="https://www.bridgesforenterprise.com" target="_blank">self-hosted website</a> has now launched!
 
-🎉 We are excited to onboard our new Product Manager 🌍
+🎉 We are excited to onboard our new Global Product Manager and Cambridge Director 🌍 
 
 ⭐ Looking to expand your technology exposure while building technical leadership skills? Apply to join our management team today!
 - <a href="https://opps.bridgesforenterprise.com/global/technology/outreach/Lead-UI-UX-Designer/" target="_blank">UI / UX</a>
@@ -29,8 +29,6 @@ layout: subpage
 - <a href="https://opps.bridgesforenterprise.com/global/communications/outreach/technology/VideoAnimation-Project/" target="_blank">Video Animation</a>
 
 🎆 Are you a huge proponent of the open-source culture just like we do? Join to lead OpenBfE, our first <a href="https://opps.bridgesforenterprise.com/global/technology/Open-BfE/" target="_blank">open-source initiative</a>
-
-⭐ We are looking for a talented and driven student based in the University of Cambridge to lead <a href="https://opps.bridgesforenterprise.com/cambridge/technology/Cam-Tech-Director/" target="_blank">our Cambridge Technology Team</a> 🇬🇧! We will start reviewing applications from **10 April** onwards
 
 <br>
 
