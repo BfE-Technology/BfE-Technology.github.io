@@ -133,10 +133,10 @@ layout: subpage
        <div class="team-title">Cyber Security Manager</div>
        <div class="team-location"><i class="fas fa-map-marker-alt"></i>Jersey City, United States</div>
        <div class="team-desc">
-         CISSP, Network Security Engineer at Bank of America
+         CISSP, Network Security Engineer, Bank of America
          <br>
          <br>
-         Master of Science on Information Management from Syracuse University
+         Master of Science in Information Management, Syracuse University
        </div>
      </div>
        <div class="team-linkedin"><a href="https://www.linkedin.com/in/cpanchloria/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
