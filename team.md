@@ -126,6 +126,22 @@ layout: subpage
        <div class="team-linkedin"><a href="https://www.linkedin.com/in/kathikalischuk/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>  
    <div class="team-card">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Chandan_Panchloria.jpg');">
+     </div>
+     <div class="team-text">
+       <h4 class="team-name">Chandan Panchloria</h4>
+       <div class="team-title">Cyber Security Manager</div>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>Jersey City, United States</div>
+       <div class="team-desc">
+         CISSP, Network Security Engineer at Bank of America
+         <br>
+         <br>
+         Master of Science on Information Management from Syracuse University
+       </div>
+     </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/cpanchloria/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
+   </div>   
+   <div class="team-card">
      <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Harry_Bickerstaffe.jpg');">
      </div>
      <div class="team-text">
@@ -143,7 +159,7 @@ layout: subpage
        </div>
      </div>
        <div class="team-linkedin"><a href="https://www.linkedin.com/in/harry-bickerstaffe-57338718a/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
-   </div>
+   </div> 
 </div>
 
 <h2> Technical Advisors </h2>
