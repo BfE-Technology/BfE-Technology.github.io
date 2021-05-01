@@ -110,6 +110,22 @@ layout: subpage
        <div class="team-linkedin"><a href="https://www.linkedin.com/in/hsuzhongjun/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>  
    <div class="team-card">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Kathi_Kalischuk.jpg');">
+     </div>
+     <div class="team-text">
+       <h4 class="team-name">Kathi Kalischuk</h4>
+       <div class="team-title">Technology Programme Manager</div>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>Lagos, Nigeria</div>
+       <div class="team-desc">
+         Business Analyst / Project Manager / Application Manager
+         <br>
+         <br>
+         Bachelor of Science in Computer Science and Minor in Business, University of Calgary
+       </div>
+     </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/kathikalischuk/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
+   </div>  
+   <div class="team-card">
      <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Harry_Bickerstaffe.jpg');">
      </div>
      <div class="team-text">
