@@ -235,6 +235,30 @@ layout: subpage
      </div>
        <div class="team-linkedin"><a href="https://www.linkedin.com/in/charles-gai-906b94172/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>
+   <div class="team-card">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Yuan_Shi.jpeg');">
+     </div>
+     <div class="team-text">
+       <h4 class="team-name">Yuan Shi</h4>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>Boston, United States</div>
+       <div class="team-desc">
+         PhD student in Operations Research, Massachusetts Institute of Technology
+         <br>
+         <br>
+         BA in Natural Sciences, University of Cambridge
+         <br>
+         <br>
+         MS in Management Science and Engineering, Stanford University
+         <br>
+         <br>
+         Research Assistant at Stanford King Center on Global Development
+         <br>
+         <br>
+         Passionate about developing technical solutions for operations and sustainability challenges in the emerging market
+         </div>
+     </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/yuann-shi/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
+   </div>
 </div>
 
 <h2> Chapter Directors </h2>
