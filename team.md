@@ -281,19 +281,6 @@ layout: subpage
 
 <div class="team-wrapper">
    <div class="team-card">
-     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Nancy_Shen.jpg');">
-     </div>
-     <div class="team-text">
-       <h4 class="team-name">Nancy Shen</h4>
-       <div class="team-title">Cambridge Technology Director (Technical Advisory)</div>
-       <div class="team-location"><i class="fas fa-map-marker-alt"></i>Cambridge, United Kingdom</div>
-       <div class="team-desc">
-         Undergraduate student in Engineering, University of Cambridge
-       </div>
-     </div>
-       <div class="team-linkedin"><a href="https://www.linkedin.com/in/xinyu-shen-129559176/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
-   </div>
-   <div class="team-card">
      <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Ziyi_Liu.jpg');">
      </div>
      <div class="team-text">
@@ -305,6 +292,19 @@ layout: subpage
        </div>
      </div>
        <div class="team-linkedin"><a href="https://www.linkedin.com/in/zi-liu/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
+   </div>
+   <div class="team-card">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Nancy_Shen.jpg');">
+     </div>
+     <div class="team-text">
+       <h4 class="team-name">Nancy Shen</h4>
+       <div class="team-title">Cambridge Technology Director (Technical Advisory)</div>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>Cambridge, United Kingdom</div>
+       <div class="team-desc">
+         Undergraduate student in Engineering, University of Cambridge
+       </div>
+     </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/xinyu-shen-129559176/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>
    <div class="team-card">
      <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Santiago_Del_Pino.png');">
