@@ -10,6 +10,40 @@ layout: subpage
 
 <div class="team-explain-text">Mentors directly advising our Global Management Team</div>
 
+
+<div class="team-wrapper">
+   <div class="team-card">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Adam_Dunkley.jpg');">
+     </div>
+     <div class="team-text">
+       <h4 class="team-name">Adam Dunkley</h4>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>London, United Kingdom</div>
+       <div class="team-desc">
+          Director of Technology, allplants
+          <br>
+          <br>
+          Previously CTO / Head of Engineering for several high-profile startups such as <a href="https://www.bloomandwild.com/about-us" target="_blank">Bloom & Wild</a>
+       </div>
+     </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/adamcdunkley/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
+   </div>
+   <div class="team-card">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Rahul_Ramakrishna.png');">
+     </div>
+     <div class="team-text">
+       <h4 class="team-name">Rahul Ramakrishna</h4>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>London, United Kingdom</div>
+       <div class="team-desc">
+          Product Management, Visa
+          <br>
+          <br>
+          Rich product management experience across high-profile corporates and startups, with a focus on financial solutions
+       </div>
+     </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/rahul-ramakrishna/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
+   </div>
+</div>
+
 <h2> Management Team </h2>
 
 <div class="team-wrapper">
@@ -131,7 +165,7 @@ layout: subpage
      <div class="team-text">
        <h4 class="team-name">Chandan Panchloria</h4>
        <div class="team-title">Cyber Security Manager</div>
-       <div class="team-location"><i class="fas fa-map-marker-alt"></i>Jersey City, United States</div>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>Jersey City, New Jersey, United States</div>
        <div class="team-desc">
          CISSP, Network Security Engineer, Bank of America
          <br>
@@ -140,6 +174,22 @@ layout: subpage
        </div>
      </div>
        <div class="team-linkedin"><a href="https://www.linkedin.com/in/cpanchloria/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
+   </div>   
+   <div class="team-card">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Andrew_Pelletier.jpg');">
+     </div>
+     <div class="team-text">
+       <h4 class="team-name">Andrew Pelletier</h4>
+       <div class="team-title">DevOps Manager</div>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>Tuscon, Arizona, United States</div>
+       <div class="team-desc">
+         Software Engineer, Octo Consulting Group
+         <br>
+         <br>
+         Bachelor in Computer Science, University of Arizona
+       </div>
+     </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/andrewpelletier2/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>   
    <div class="team-card">
      <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Harry_Bickerstaffe.jpg');">
