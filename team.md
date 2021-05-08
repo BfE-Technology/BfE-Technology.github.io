@@ -192,6 +192,19 @@ layout: subpage
        <div class="team-linkedin"><a href="https://www.linkedin.com/in/andrewpelletier2/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>   
    <div class="team-card">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Brenda_Hnin_Azali_Yang.jpg');">
+     </div>
+     <div class="team-text">
+       <h4 class="team-name">Brenda Hnin Azali Yang</h4>
+       <div class="team-title">Product Manager</div>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>Singapore</div>
+       <div class="team-desc">
+         Undergraduate student in Information Systems and Economics, National University of Singapore
+       </div>
+     </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/hninazalibrenda/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
+   </div>   
+   <div class="team-card">
      <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Harry_Bickerstaffe.jpg');">
      </div>
      <div class="team-text">
