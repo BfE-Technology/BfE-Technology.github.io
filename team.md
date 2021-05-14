@@ -8,7 +8,7 @@ layout: subpage
   
 <h2> Mentors </h2>
 
-<div class="team-explain-text">Mentors directly advising our Global Management Team</div>
+<div class="team-explain-text">Mentors directly advising our Global Management Team (a non-exhaustive list)</div>
 
 
 <div class="team-wrapper">
