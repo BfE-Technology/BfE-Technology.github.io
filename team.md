@@ -412,9 +412,6 @@ layout: subpage
 
 <h2> Professional Volunteers and Student Associates </h2>
 <div class="team-text-only">
-  <strong>Guiyong Lee</strong> • <em>Singapore Senior Associate</em> • Undergraduate student in Computer Science @ NUS • Singapore
-</div>
-<div class="team-text-only">
   <strong>Yangchao Wu</strong> • <em>New York Senior Associate</em> • Undergraduate student in Computer Science @ UCLA • Los Angeles, United States
 </div>
 <div class="team-text-only">
@@ -458,6 +455,9 @@ layout: subpage
 
 <div class="team-explain-text">Former members who are staying in touch with our community</div>
 
+<div class="team-text-only">
+  <strong>Guiyong Lee</strong> • <em>Singapore Senior Associate, '20-'21</em> • BA in Computer Science @ NUS • Singapore
+</div>
 <div class="team-text-only">
   <strong>Ping Liang Tan</strong> • <em>Software Development Manager, '20-'21</em> • Signal Processing Engineer @ DSO National Libraries • Singapore • <a href="https://www.linkedin.com/in/ping-liang-tan-138b0298/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
 </div>
