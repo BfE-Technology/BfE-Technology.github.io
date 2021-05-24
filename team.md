@@ -205,23 +205,42 @@ layout: subpage
        <div class="team-linkedin"><a href="https://www.linkedin.com/in/hninazalibrenda/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>   
    <div class="team-card">
-     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Harry_Bickerstaffe.jpg');">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Ian_Crasta.jpeg');">
      </div>
      <div class="team-text">
-       <h4 class="team-name">Harry Bickerstaffe</h4>
+       <h4 class="team-name">Ian Crasta</h4>
+       <div class="team-title">UI/UX Manager</div>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>Bangalore, India</div>
+       <div class="team-desc">
+         Director of Product Design, Engagedly
+         <br>
+         <br>
+         B.Des (Product Design), Symbiosis International University
+       </div>
+     </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/iancrasta/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
+   </div>   
+   <div class="team-card">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Albert_Jiang.jpg');">
+     </div>
+     <div class="team-text">
+       <h4 class="team-name">Albert Jiang</h4>
        <div class="team-title">Technical Advisory Manager</div>
-       <div class="team-location"><i class="fas fa-map-marker-alt"></i>London, United Kingdom</div>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>Oxford, United Kingdom</div>
        <div class="team-desc">
          Incoming Associate Consultant, Syneos Health
          <br>
          <br>
-         MPhil, Therapeutic Sciences, University of Cambridge
+         Master student in Computer Science, University of Oxford
          <br>
          <br>
-         MB ChB, Medicine and Surgery, University of Liverpool
+         Machine Learning Research Intern, University of Toronto
+         <br>
+         <br>
+         Bachelor in Information Engineering, University of Cambridge
        </div>
      </div>
-       <div class="team-linkedin"><a href="https://www.linkedin.com/in/harry-bickerstaffe-57338718a/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/albert-qiaochu-jiang-7a03b6111/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div> 
 </div>
 
