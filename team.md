@@ -228,9 +228,6 @@ layout: subpage
        <div class="team-title">Technical Advisory Manager</div>
        <div class="team-location"><i class="fas fa-map-marker-alt"></i>Oxford, United Kingdom</div>
        <div class="team-desc">
-         Incoming Associate Consultant, Syneos Health
-         <br>
-         <br>
          Master student in Computer Science, University of Oxford
          <br>
          <br>
