@@ -176,22 +176,6 @@ layout: subpage
        <div class="team-linkedin"><a href="https://www.linkedin.com/in/cpanchloria/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>   
    <div class="team-card">
-     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Andrew_Pelletier.jpg');">
-     </div>
-     <div class="team-text">
-       <h4 class="team-name">Andrew Pelletier</h4>
-       <div class="team-title">DevOps Manager</div>
-       <div class="team-location"><i class="fas fa-map-marker-alt"></i>Tuscon, Arizona, United States</div>
-       <div class="team-desc">
-         Software Engineer, Octo Consulting Group
-         <br>
-         <br>
-         Bachelor in Computer Science, University of Arizona
-       </div>
-     </div>
-       <div class="team-linkedin"><a href="https://www.linkedin.com/in/andrewpelletier2/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
-   </div>   
-   <div class="team-card">
      <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Brenda_Hnin_Azali_Yang.jpg');">
      </div>
      <div class="team-text">
