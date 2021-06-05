@@ -454,7 +454,7 @@ Our internal technology team empowers social entrepreneurs across the world by i
 
 <div markdown="1">
 
-All open roles and projects can be found <a href="https://opps.bridgesforenterprise.com/technology/" target="_blank">here</a>. If you are to join as a technology mentor, check out our <a href="https://www.bridgesforenterprise.com">main website</a>. You are always welcome to email <a href="mailto:technology@bridgesforenterprise.com" target="_blank">technology@bridgesforenterprise.com</a> to find out more.
+All open roles and projects can be found <a href="https://opps.bridgesforenterprise.com/technology/" target="_blank">here</a>. If you are to join as a technology mentor, check out our <a href="https://www.bridgesforenterprise.com">main website</a>. You are always welcome to email <a href="mailto:technology@bridgesforenterprise.com" target="_blank">technology.recruitment@bridgesforenterprise.com</a> to find out more.
 
 **Students.** Our projects are organised by our student chapters at the start of the academic term. There are also global projects available for students with advanced experience and occasionally summer internships for students in early undergraduate years.
 
