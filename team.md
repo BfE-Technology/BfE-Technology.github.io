@@ -196,7 +196,7 @@ layout: subpage
        <div class="team-title">UI/UX Manager</div>
        <div class="team-location"><i class="fas fa-map-marker-alt"></i>Bangalore, India</div>
        <div class="team-desc">
-         Director of Product Design, Engagedly
+         Senior Product Designer, ultimate.ai
          <br>
          <br>
          B.Des (Product Design), Symbiosis International University
