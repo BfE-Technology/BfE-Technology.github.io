@@ -337,7 +337,25 @@ layout: subpage
          </div>
      </div>
        <div class="team-linkedin"><a href="https://www.linkedin.com/in/yuann-shi/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
-   </div>
+   </div>  
+   <div class="team-card">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Harry_Bickerstaffe.jpg');">
+     </div>
+     <div class="team-text">
+       <h4 class="team-name">Harry Bickerstaffe</h4>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>London, United Kingdom</div>
+       <div class="team-desc">
+         Incoming Associate Consultant, Syneos Health
+         <br>
+         <br>
+         MPhil, Therapeutic Sciences, University of Cambridge
+         <br>
+         <br>
+         MB ChB, Medicine and Surgery, University of Liverpool
+       </div>
+     </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/harry-bickerstaffe-57338718a/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
+   </div> 
 </div>
 
 <h2> Chapter Directors </h2>
