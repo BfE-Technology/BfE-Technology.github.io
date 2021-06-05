@@ -16,14 +16,8 @@ layout: subpage
 
 <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/hCCbOEmv8cA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-🚀 Our first <a href="https://www.bridgesforenterprise.com" target="_blank">self-hosted website</a> has now launched!
-
-🎉 We are excited to onboard our new Global Product Manager and Cambridge Director 🌍 
-
-⭐ Looking to expand your technology exposure while building technical leadership skills? Apply to join our management team today!
-- <a href="https://opps.bridgesforenterprise.com/global/technology/outreach/Lead-UI-UX-Designer/" target="_blank">UI / UX</a>
-
 ⭐ Contribute to our cause via the wide range of projects available in 
+- <a href="https://opps.bridgesforenterprise.com/global/technology/outreach/Product-UI-Design-System/" target="_blank">Product UI Design System</a>
 - <a href="https://opps.bridgesforenterprise.com/global/technology/DevOps-Project/" target="_blank">DevOps and Cloud Engineering</a>
 - <a href="https://opps.bridgesforenterprise.com/global/cambridge/singapore/new%20york/rotterdam/vancouver/technology/InvestorSelector-NLP-Project/" target="_blank">Natural Language Processing for Investor Data</a>
 - <a href="https://opps.bridgesforenterprise.com/global/communications/outreach/technology/VideoAnimation-Project/" target="_blank">Video Animation</a>
