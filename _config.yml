@@ -7,7 +7,7 @@ description: Technology at Bridges for Enterprise
 # User settings
 username: Tech@BfE
 user_title: Social Impact | Technology | Entrepreneurship
-email: technology@bridgesforenterprise.com
+email: technology.recruitment@bridgesforenterprise.com
 github_username:  BfE-Technology
 
 # Google-analytics
@@ -16,7 +16,7 @@ google-analytics:
 
 # Social icons displayed in footer
 social:
-    email:          technology@bridgesforenterprise.com
+    email:          technology.recruitment@bridgesforenterprise.com
     website:        https://www.bridgesforenterprise.com
     facebook:       https://www.facebook.com/BridgesforEnterprise/
     flickr:
