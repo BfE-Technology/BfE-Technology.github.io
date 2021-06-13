@@ -203,6 +203,22 @@ layout: subpage
        </div>
      </div>
        <div class="team-linkedin"><a href="https://www.linkedin.com/in/iancrasta/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
+   </div>     
+   <div class="team-card">
+     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Pranav_Joglekar.jpeg');">
+     </div>
+     <div class="team-text">
+       <h4 class="team-name">Pranav Joglekar</h4>
+       <div class="team-title">DevOps Manager</div>
+       <div class="team-location"><i class="fas fa-map-marker-alt"></i>Pune, India</div>
+       <div class="team-desc">
+         Software Developer, Avaya
+         <br>
+         <br>
+         Bachelors in Information Technology, College of Engineering Pune
+       </div>
+     </div>
+       <div class="team-linkedin"><a href="https://www.linkedin.com/in/pranav-joglekar/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>   
    <div class="team-card">
      <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Albert_Jiang.jpg');">
