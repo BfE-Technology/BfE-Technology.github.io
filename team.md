@@ -382,7 +382,7 @@ layout: subpage
      </div>
      <div class="team-text">
        <h4 class="team-name">Ziyi Liu</h4>
-       <div class="team-title">Cambridge Technology Director (Internal Technology)</div>
+       <div class="team-title">Cambridge Technology Director</div>
        <div class="team-location"><i class="fas fa-map-marker-alt"></i>Cambridge, United Kingdom</div>
        <div class="team-desc">
          Undergraduate student in Natural Sciences, University of Cambridge
@@ -395,7 +395,7 @@ layout: subpage
      </div>
      <div class="team-text">
        <h4 class="team-name">Nancy Shen</h4>
-       <div class="team-title">Cambridge Technology Director (Technical Advisory)</div>
+       <div class="team-title">Cambridge Technical Advisory Director</div>
        <div class="team-location"><i class="fas fa-map-marker-alt"></i>Cambridge, United Kingdom</div>
        <div class="team-desc">
          Undergraduate student in Engineering, University of Cambridge
@@ -421,7 +421,7 @@ layout: subpage
      </div>
      <div class="team-text">
        <h4 class="team-name">Jiaxiang Yu</h4>
-       <div class="team-title">Singapore Technology Director (Internal Technology)</div>
+       <div class="team-title">Singapore Technology Director</div>
        <div class="team-location"><i class="fas fa-map-marker-alt"></i>Singapore</div>
        <div class="team-desc">
          Undergraduate student in Computer Science, National University of Singapore
@@ -434,7 +434,7 @@ layout: subpage
      </div>
      <div class="team-text">
        <h4 class="team-name">Xin Zhe</h4>
-       <div class="team-title">Singapore Technology Director (Technical Advisory)</div>
+       <div class="team-title">Singapore Technical Advisory Director</div>
        <div class="team-location"><i class="fas fa-map-marker-alt"></i>Singapore</div>
        <div class="team-desc">
          Undergraduate student in Computer Science with Statistics, National University of Singapore
@@ -483,6 +483,10 @@ layout: subpage
 </div>
 <div class="team-text-only">
   <strong>Brook Yan</strong> • <em>Global Volunteer</em> • Fire Engineer at Arup • Machester, UK • <a href="https://www.linkedin.com/in/brook-yan-0b0298a0/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+<div class="team-text-only">
+  <strong>Hua Huang</strong> • <em>Global Volunteer</em> • Forensic Computing Associate at PwC • London, UK • <a href="https://www.linkedin.com/in/hua-huang-27188011b/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+<div class="team-text-only">
+  <strong>Xue Hui Tan</strong> • <em>Global Volunteer</em> • Undergraduate student in Business Analytics @ NUS • Singapore • <a href="https://www.linkedin.com/in/xue-hui-tan/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
 </div>
 
 <h2> Alum </h2>
