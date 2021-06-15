@@ -503,9 +503,6 @@ layout: subpage
   <strong>Eve Hull</strong> • <em>Cambridge Associate, '18-'19</em> • Undergraduate student in Economics @ Cambridge • Cambridge, United Kingdom • <a href="https://www.linkedin.com/in/eve-hull-baa48517b/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
 </div>
 <div class="team-text-only">
-  <strong>Albert Jiang</strong> • <em>Cambridge Data Analytics Director, '17-'18</em> • Master student in Machine Learning @ Oxford • Oxford, United Kingdom • <a href="https://www.linkedin.com/in/albert-qiaochu-jiang-7a03b6111/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
-</div>
-<div class="team-text-only">
   <strong>Tomas Van Pottelbergh</strong> • <em>Cambridge Associate, '17-'18</em> • Data Scientist @ Accenture • Zurich, Switzerland • <a href="https://www.linkedin.com/in/tomasvanpottelbergh/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
 </div>
 
