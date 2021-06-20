@@ -404,19 +404,6 @@ layout: subpage
        <div class="team-linkedin"><a href="https://www.linkedin.com/in/xinyu-shen-129559176/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
    </div>
    <div class="team-card">
-     <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Santiago_Del_Pino.png');">
-     </div>
-     <div class="team-text">
-       <h4 class="team-name">Santiago Lopez Del Pino</h4>
-       <div class="team-title">New York Technology Director</div>
-       <div class="team-location"><i class="fas fa-map-marker-alt"></i>New York, United States</div>
-       <div class="team-desc">
-         Undergraduate student in Business, Finance, Management and Computer Science, New York University
-       </div>
-     </div>
-       <div class="team-linkedin"><a href="https://www.linkedin.com/in/santiago-lopez-del-pino-9b794a14b/" target="_blank"><i class="fa fa-linkedin-in"></i></a></div>
-   </div>
-   <div class="team-card">
      <div class="team-photo-wrapper" style="background-image:url('assets/headshots/Jiaxiang_Yu.jpg');">
      </div>
      <div class="team-text">
