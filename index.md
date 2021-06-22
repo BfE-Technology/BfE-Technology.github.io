@@ -183,6 +183,7 @@ If there is anything you want to contribute that is not listed here and yet woul
        <a href="https://colab.research.google.com/" target="_blank"><img src="assets/img/colab.png"></a>
        <a href="https://marketingplatform.google.com/intl/en_uk/about/analytics/" target="_blank"><img src="assets/img/google_analytics.png"></a>
        <a href="https://radimrehurek.com/gensim/" target="_blank"><img src="assets/img/gensim.png"></a>
+       <a href="https://storybook.js.org/" target="_blank"><img src="assets/img/storybook.png"></a>
      </div>
       <br>
      <div>We also manage automations on platforms such as:</div>
