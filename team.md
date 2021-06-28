@@ -469,11 +469,22 @@ layout: subpage
   <strong>Tyler Nabinger</strong> • <em>New York Associate</em> • Undergraduate student in Computer Science, Psychology and Performing Arts @ NYU • New York, United States • <a href="https://www.linkedin.com/in/tyler-nabinger-3955aa162/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
 </div>
 <div class="team-text-only">
-  <strong>Brook Yan</strong> • <em>Global Volunteer</em> • Fire Engineer at Arup • Machester, UK • <a href="https://www.linkedin.com/in/brook-yan-0b0298a0/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+  <strong>Brook Yan</strong> • <em>Global Volunteer</em> • Fire Engineer @ Arup • Machester, UK • <a href="https://www.linkedin.com/in/brook-yan-0b0298a0/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+</div>
 <div class="team-text-only">
-  <strong>Hua Huang</strong> • <em>Global Volunteer</em> • Forensic Computing Associate at PwC • London, UK • <a href="https://www.linkedin.com/in/hua-huang-27188011b/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+  <strong>Hua Huang</strong> • <em>Global Volunteer</em> • Forensic Computing Associate @ PwC • London, UK • <a href="https://www.linkedin.com/in/hua-huang-27188011b/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+</div>
 <div class="team-text-only">
   <strong>Xue Hui Tan</strong> • <em>Global Volunteer</em> • Undergraduate student in Business Analytics @ NUS • Singapore • <a href="https://www.linkedin.com/in/xue-hui-tan/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+</div>
+<div class="team-text-only">
+  <strong>Omar Chtioui</strong> • <em>Global Volunteer</em> • Senior Software Engineer @ IBM • Bari, Italy
+</div>
+<div class="team-text-only">
+  <strong>Harry Hughes</strong> • <em>Global Volunteer</em> • Technical Cloud Analyst @ ANS Group • Manchester, UK • <a href="https://www.linkedin.com/in/harrison-w-hughes/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
+</div>
+<div class="team-text-only">
+  <strong>Laura Lynch</strong> • <em>Global Volunteer</em> • Team Leader @ Castle Rock Edinvar HA • Edinburgh, UK • <a href="https://www.linkedin.com/in/lauralynchedinburgh/" target="_blank"><i class="fa fa-linkedin-in"></i></a>
 </div>
 
 <h2> Alum </h2>
